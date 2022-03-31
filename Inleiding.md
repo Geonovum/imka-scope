@@ -13,7 +13,12 @@ Klimaatadapatie:
 - droogte
 - **hitte**
 
-Verder inzoomen op **hitte**. Aandachtspunt: Hitte staat niet op zich zelf, ook sterk verweven met de andere aspecten van klimaatadapatie. Maar we zoomen in op alleen het aspect hitte:
+Verder inzoomen op **hitte**. 
+Aandachtspunt: Hitte staat niet op zich zelf, ook sterk verweven met de andere aspecten van klimaatadapatie. Maar we zoomen in op alleen het aspect hitte.
+
+Twee soorten: de geleidelijke opwarming van de aarde (het wordt warmer) en steeds meer extreem warme dagen (zomerse hittegolven).
+Specifiek voor de steden: hitte eiland effect
+
 
 Het wordt warmer (heter)
 - Hittekaart: gevoelstemperatuur
@@ -34,9 +39,12 @@ Klimaatverandering/Hitte heeft impact op de economie, op mensen en op natuur en 
 - Gebouwde omgeving en ruimtelijke ordening
 
 [Bollenschema uit NAS-adaptatietool](https://nas-adaptatietool.nl/)
-Per sector kun je een apart bollenschema maken: 3 bollenschema's waarbij overlap is in soort hitte. Bijv. zachte winters.
+Per sector kun je een apart bollenschema maken: 3 bollenschema's (zie teams) waarbij overlap is in soort hitte. Bijv. zachte winters.
 Impact: groot gevolg of middelgroot tot groot gevolg
 Aard van gevolg is: bedreiging, kans of onduidelijk
+
+{Mindmap hitte in de stad}(https://www.hittebestendigestad.nl/mindmap/): Beschrijft de gevolgen van extreme hitte voor leefbaarheid, buitenruimte, gezondheid, netwerken, water.
+
 
 Wat modelleren?  
 de basisinformatie (gevoelstemperatuur), stresstest hitte, de impact op .... of de monitoring van de genomen maatregelen
