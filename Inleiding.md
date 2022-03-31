@@ -43,7 +43,7 @@ Per sector kun je een apart bollenschema maken: 3 bollenschema's (zie teams) waa
 Impact: groot gevolg of middelgroot tot groot gevolg
 Aard van gevolg is: bedreiging, kans of onduidelijk
 
-{Mindmap hitte in de stad}(https://www.hittebestendigestad.nl/mindmap/): Beschrijft de gevolgen van extreme hitte voor leefbaarheid, buitenruimte, gezondheid, netwerken, water.
+[Mindmap hitte in de stad](https://www.hittebestendigestad.nl/mindmap/): Beschrijft de gevolgen van extreme hitte voor leefbaarheid, buitenruimte, gezondheid, netwerken, water.
 
 
 Wat modelleren?  
