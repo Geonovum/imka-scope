@@ -40,3 +40,7 @@ Aard van gevolg is: bedreiging, kans of onduidelijk
 
 Wat modelleren?  
 de basisinformatie (gevoelstemperatuur), stresstest hitte, de impact op .... of de monitoring van de genomen maatregelen
+aansluiten op basisregistraties, Omgevingswet (IMGeluid)
+
+Wat niet?
+Beschrijven niet procesafspraken over werkwijze (bijvoorbeeld gebruik actuele datasets)
