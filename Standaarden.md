@@ -4,12 +4,17 @@
 
 *Noem ook relevante documentatie zoals toelichtingen, richtlijnen en handreikingen die al dan niet aan de genoemde standaarden gerelateerd zijn.*
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+### Nationaal
+- informatiemodel Landelijk gebied 
+
+<aside class="issue">Deze kan ik op Geonovum website niet meer vinden. Navragen. </aside>
+
+- informatiemodel natuur [IMNA](https://www.geonovum.nl/geo-standaarden/informatiemodellen-nen3610-familie/informatiemodel-natuur-imna)
+- landgebruik [BRT / Top10NL](https://www.geonovum.nl/geo-standaarden/informatiemodellen-nen3610-familie/informatiemodel-top10nl-imtop)
+- Water (IMWA, Aquolex)
+
+### INSPIRE
+
+- INSPIRE div, oa natura 2000 zones
+
+### Overig internationaal
