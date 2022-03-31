@@ -1,15 +1,42 @@
 ## Inhoud van het informatiemodel
 
-_Beschrijving van het registratieobject en afhankelijkheden met andere
-registratieobjecten. Rationale, behoefte, en een eerste definitie van het onderwerp Klimaatadaptatie._ 
+_Beschrijving van het object en afhankelijkheden met andere objecten. Rationale, behoefte, en een eerste definitie van het onderwerp Klimaatadaptatie._
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+Opzet:
+Klimaat - algemeen; onderscheid klimaatmitigatie, **klimaatadaptatie**
+- Verminderen van klimaatverandering (mitigatie)
+- Aanpassen aan klimaatverandering (adaptatie)
 
+Klimaatadapatie:
+- wateroverlast
+- overstromingen
+- droogte
+- **hitte**
+
+Verder inzoomen op **hitte**. Aandachtspunt: Hitte staat niet op zich zelf, ook sterk verweven met de andere aspecten van klimaatadapatie. Maar we zoomen in op alleen het aspect hitte:
+
+Het wordt warmer (heter)
+- Hittekaart: gevoelstemperatuur
+- Warme nachten
+- Opwarming oppervlaktewater
+- Afstand tot koelte
+
+Klimaatverandering/Hitte heeft impact op de economie, op mensen en op natuur en milieu, betreft verschillende sectoren: 
+- Waterhuishouding
+- **Natuur**
+- Landbouw, tuinbouw, visserij
+- **Gezondheid**
+- Recreatie en toerisme
+- **Infrastructuur**
+- Energie
+- ICT en telecom
+- Veiligheid
+- Gebouwde omgeving en ruimtelijke ordening
+
+[Bollenschema uit NAS-adaptatietool](https://nas-adaptatietool.nl/)
+Per sector kun je een apart bollenschema maken: 3 bollenschema's waarbij overlap is in soort hitte. Bijv. zachte winters.
+Impact: groot gevolg of middelgroot tot groot gevolg
+Aard van gevolg is: bedreiging, kans of onduidelijk
+
+Wat modelleren?  
+de basisinformatie (gevoelstemperatuur), stresstest hitte, de impact op .... of de monitoring van de genomen maatregelen
