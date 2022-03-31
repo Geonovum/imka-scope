@@ -1,7 +1,6 @@
-## Inhoud van het informatiemodel
+## Overzicht van bestaande systemen
 
-_Beschrijving van het registratieobject en afhankelijkheden met andere
-registratieobjecten. Rationale, behoefte, en een eerste definitie van het onderwerp Klimaatadaptatie._ 
+*Overzicht van bestaande softwaresystemen voor klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
 Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
@@ -12,4 +11,3 @@ Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vit
 Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
 Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
 Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
