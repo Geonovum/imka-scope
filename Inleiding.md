@@ -25,11 +25,7 @@ Twee soorten hitte:
 Specifiek voor de steden: hitte eiland effect
 
 
-Het wordt warmer (heter)
-- Hittekaart: gevoelstemperatuur
-- Warme nachten
-- Opwarming oppervlaktewater
-- Afstand tot koelte
+
 
 Klimaatverandering/Hitte heeft impact op de economie, op mensen en op natuur en milieu, betreft verschillende sectoren: 
 - Waterhuishouding
@@ -56,9 +52,30 @@ Wat gaan we opnemen in het inforamtiemodel?
 - de basisinformatie (gevoelstemperatuur),
 - stresstest hitte, 
 - de impact op natuur, gezondheid en infrastructuur 
-- de monitoring van de genomen maatregelen?
+- de monitoring (van de genomen maatregelen) 
 
-#### En Wat niet (en waarom niet)?
+
+#### Basisinformatie
+Kaartverhaal het wordt warmer met een aantal kaarten uit Klimaat effectatlas?
+
+Het wordt warmer (heter)
+- Hittekaart: gevoelstemperatuur
+- Warme nachten
+- Opwarming oppervlaktewater
+- Afstand tot koelte
+
+#### Stresstest hitte
+Bijsluiter gestandaardiseerde stresstest, onderdeel hitte: https://klimaatadaptatienederland.nl/stresstest/bijsluiter/hitte/
+En rapport RIVM met  gestandaardiseerde methode
+
+#### Monitoring
+rapport PBL, 2021: Navigeren naar een klimaatbestendig Nederland. *Drie varianten om de uitvoering van het klimaatadaptatiebeleid op kortere en langere termijn te sturen en te monitoren*; https://www.pbl.nl/publicaties/navigeren-naar-een-klimaatbestendig-nederland
+
+De departementen hebben op basis van dit rapport gekozen voor de eerste variant die zich richt op de herijking van het klimaatadaptatiebeleid tot 2026. Met deze variant levert het kennisprogramma informatie over de aard en intensiteit van de klimaatimpacts en -risico’s voor een breed spectrum aan sectoren. Bij een periodieke herijking laat het ook de ontwikkeling daarvan zien in de tijd; of de klimaatimpacts en -risico’s afnemen, toenemen of gelijk blijven. 
+
+
+
+#### En wat gaan we niet modelleren (en waarom niet)?
 Beschrijven niet procesafspraken over werkwijze (bijvoorbeeld gebruik actuele datasets)
 
 ### Waar sluiten we op aan?
