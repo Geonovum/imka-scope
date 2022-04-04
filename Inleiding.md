@@ -2,21 +2,26 @@
 
 _Beschrijving van het object en afhankelijkheden met andere objecten. Rationale, behoefte, en een eerste definitie van het onderwerp Klimaatadaptatie._
 
-Opzet:
-Klimaat - algemeen; onderscheid klimaatmitigatie, **klimaatadaptatie**
+
+### Klimaat - algemeen
+Onderscheid klimaatmitigatie, **klimaatadaptatie**
 - Verminderen van klimaatverandering (mitigatie)
 - Aanpassen aan klimaatverandering (adaptatie)
 
-Klimaatadapatie:
+### Klimaatadapatie:
+4 klimaattrends die samen hangen, maar in dit informatiemodel richten we ons op de klimaattrend hitte
 - wateroverlast
 - overstromingen
 - droogte
 - **hitte**
 
-Verder inzoomen op **hitte**. 
+### Hitte
 Aandachtspunt: Hitte staat niet op zich zelf, ook sterk verweven met de andere aspecten van klimaatadapatie. Maar we zoomen in op alleen het aspect hitte.
 
-Twee soorten: de geleidelijke opwarming van de aarde (het wordt warmer) en steeds meer extreem warme dagen (zomerse hittegolven).
+Twee soorten hitte: 
+- de geleidelijke opwarming van de aarde (het wordt warmer) 
+- en steeds meer extreem warme dagen (zomerse hittegolven).
+
 Specifiek voor de steden: hitte eiland effect
 
 
@@ -46,9 +51,18 @@ Aard van gevolg is: bedreiging, kans of onduidelijk
 [Mindmap hitte in de stad](https://www.hittebestendigestad.nl/mindmap/): Beschrijft de gevolgen van extreme hitte voor leefbaarheid, buitenruimte, gezondheid, netwerken, water.
 
 
-Wat modelleren?  
-de basisinformatie (gevoelstemperatuur), stresstest hitte, de impact op .... of de monitoring van de genomen maatregelen
-aansluiten op basisregistraties, Omgevingswet (IMGeluid)
+### Wat gaan we modelleren?  
+Wat gaan we opnemen in het inforamtiemodel?
+- de basisinformatie (gevoelstemperatuur),
+- stresstest hitte, 
+- de impact op natuur, gezondheid en infrastructuur 
+- de monitoring van de genomen maatregelen?
 
-Wat niet?
+#### En Wat niet (en waarom niet)?
 Beschrijven niet procesafspraken over werkwijze (bijvoorbeeld gebruik actuele datasets)
+
+### Waar sluiten we op aan?
+Aansluiten op:
+- basisregistraties
+- Omgevingswet (IMGeluid)
+- standaarden voor andere klimaattrends (wateroverlast, ...)
