@@ -1,3 +1,5 @@
+## Begrippen
+
 |Begrip |Afkorting |Definitie |Toelichting |Bron | 
 ---|---|---|---|---|
 ...    | KEA       | ...       | ...         |...|
