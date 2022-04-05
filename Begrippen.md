@@ -1,8 +1,8 @@
 ## Begrippen
 
 |Begrip |Afkorting |Definitie |Toelichting |Bron | 
----|---|---|---|---|
-...    | KEA       | ...       | ...         |...|
+|:---|:---|:---|:---|:---|
+|...    | KEA       | ...       | ...         |...|
 |Physiological Equivalent Temperature | PET  | ...       |Gaat uit van de energiehuishouding van een mens. Tijdvak: 12:00 - 18:00 lokale tijd meest relevant voor evaluatie hittestress|...|
 |Sky View Factor | SVF | ...       | The sky view factor (SVF) is essential to describe the urban climatology at scales below 100m. This proxy for net radiation depends on the height of the obstacles in its surroundings.|...|
 |Nationaal Kennis- en innovatieprogramma Water en Klimaat | NKWK | ...       | Een consortium bestaande uit Nederlandse overheden, kennisinstellingen en bedr?ven, die samenwerken aan pilots, actuele vraagstukken en langeterm?nontwikkelingen. |https://www.waterenklimaat.nl/ |
