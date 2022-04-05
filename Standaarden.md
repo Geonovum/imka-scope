@@ -4,6 +4,7 @@
 
 *Noem ook relevante documentatie zoals toelichtingen, richtlijnen en handreikingen die al dan niet aan de genoemde standaarden gerelateerd zijn.*
 
+@Linda, hieronder een aantal standaarden (als eerste lijstje)
 - Basisregistraties zoals BGT
 - Omgevingswet standaarden of gerelateerde standaarden zoals IMGeluid
 - BOR (boomhoogte/eigenschappen)
