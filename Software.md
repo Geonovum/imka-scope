@@ -13,7 +13,7 @@ Deze eerste ruwe opzet is gebaseerd op het rapport:
  - Kop:'informatie verzamelen',
  - Subkoppen: 'standaard' en 'aanvullend'
 
-### HITTE - INFORMATIEBEHOEFTE
+### Hitte - Informatiebehoefte
  - KEA   - Warme nachten/aantal zomerse dagen (25 °C of meer) nu en in de toekomst 
  - `<bron>`   - Gebouwen (locatie, bouwjaar, energielabel)
  - `<bron>`   - Kwetsbare groepen

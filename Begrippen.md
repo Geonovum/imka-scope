@@ -1,0 +1,11 @@
+# Begrippen
+ - **KEA** - Klimaatatlas Leefomgeving | Definitie (BRON)
+ - **PET** - Physiological Equivalent Temperature| Gaat uit van de energiehuishouding van een mens. Tijdvak: 12:00 - 18:00 lokale tijd meest relevant voor evaluatie hittestress (BRON)
+ - **SVF** - Sky View Factor | The sky view factor (SVF) is essential to describe the urban climatology at scales below 100m. This proxy for net radiation depends on the height of the obstacles in its surroundings. (BRON)
+ - **NKWK** - Nationaal Kennis- en innovatieprogramma Water en Klimaat | Een consortium bestaande uit Nederlandse overheden, kennisinstellingen en bedrĳven, die samenwerken aan pilots, actuele vraagstukken en langetermĳnontwikkelingen. (https://www.waterenklimaat.nl/)
+ - **KSS** - Klimaatschadeschatter | De klimaatschadeschatter wordt een tool voor schaderamingen op gemeentelijk schaalniveau in aansluiting op de stresstesten die gemeenten in 2019 moeten hebben
+ - uitgevoerd. De KSS tool moet gemeenten en andere overheden in staat stellen om de uitkomsten van de stresstest te kunnen complementeren met een inschatting van de totale schade wanneer men niet zou adapteren. (NKWK Klimaatbestendige stad onderzoeksprogramma 2018, p.11)
+ - **Klimaatadaptatie** - afkorting | Definitie (BRON)
+ - **Klimaatmitigatie** - afkorting | Definitie (BRON)
+ - **Hitte** - afkorting | Definitie (BRON)
+ - **Droogte** - afkorting | Definitie (BRON)
