@@ -12,9 +12,18 @@
 - informatiemodel natuur [IMNA](https://www.geonovum.nl/geo-standaarden/informatiemodellen-nen3610-familie/informatiemodel-natuur-imna)
 - landgebruik [BRT / Top10NL](https://www.geonovum.nl/geo-standaarden/informatiemodellen-nen3610-familie/informatiemodel-top10nl-imtop)
 - Water (IMWA, Aquolex)
+- Basisregistraties zoals BGT
+- Omgevingswet standaarden of gerelateerde standaarden zoals IMGeluid
+- BOR (boomhoogte/eigenschappen)
+- standaarden voor andere klimaattrends (wateroverlast, ...)
+- Aquo standaarden
+
+Misschien:
+- IMLE (landschapselementen agrarische gebied)
 
 ### INSPIRE
 
 - INSPIRE div, oa natura 2000 zones
 
 ### Overig internationaal
+=======
