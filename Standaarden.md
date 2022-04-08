@@ -4,6 +4,8 @@
 
 *Noem ook relevante documentatie zoals toelichtingen, richtlijnen en handreikingen die al dan niet aan de genoemde standaarden gerelateerd zijn.*
 
+<aside class="issue">Onderstaande verzameling is een heel brede, eerste inventarisatie. Er kunnen nog standaarden in ontbreken, en voor veel van de standaarden die er wel in staan is nog niet bepaald of ze daadwerkelijk relevant zijn voor klimaatadaptatie-hitte.</aside>
+
 ### Nationaal
 Lijst van standaarden met vooralsnog een korte duiding waarom ze relevant zouden kunnen zijn. In willekeurige volgorde. 
 
@@ -19,11 +21,15 @@ Ondersteunt landelijk uniforme uitwisseling van natuurgegevens. Van het IPO.
 
 - landgebruik [BRT / Top10NL](https://www.geonovum.nl/geo-standaarden/informatiemodellen-nen3610-familie/informatiemodel-top10nl-imtop)
 
-Landelijke topografie, basisgeoinformatie over waar terreinen, gebouwen, bovengrondse infrastructuur, water, bos, etc zich bevinden. 
+Landelijke topografie, basisgeoinformatie over waar terreinen, gebouwen, bovengrondse infrastructuur, water, bos, etc zich bevinden. Inclusief typering van gebouwen o.a. ziekenhuis. Heeft ook locatie beweegbare bruggen.
 
 - [Basisregistratie Grootschalige Topografie](https://docs.geostandaarden.nl/bgt/def-im-gcbgt111-20130700)
 
-Idem, maar gedetailleerder dan BRT met nauwkeurigere geometrie en bv locatie van individuele bomen in steden. Maar veel van de gedetailleerdere informatie is optioneel en waarschijnlijk niet landsdekkend beschikbaar.
+Idem, maar gedetailleerder dan BRT met nauwkeurigere geometrie van topografische objecten, parken, groenstroken, grasvelden, verhardingssoort van wegen, en bv locatie van individuele bomen en fonteinen in steden. Maar veel van de gedetailleerdere informatie is optioneel en waarschijnlijk niet landsdekkend beschikbaar. 
+
+- Basisregistratie Gebouwen en Adressen [BAG]()
+
+Bevat gebouwen met locatie en bouwjaar. Energielabels zitten er niet in maar zijn te relateren aan BAG objecten.
 
 - [Aquo standaarden](https://www.aquo.nl/)
 
@@ -63,6 +69,17 @@ Hier moet nog naar gezocht worden.
 
 Nictiz maakt informatiestandaarden in het zorgdomein. Relevantie (zijn er raakvlakke met klimaatadaptatie/hitte?) moet nog bekeken worden.
 
+BRO standaarden
+- Geomorfologische kaart 
+- Bodemkaart
+- Booronderzoek
+- GeoTOP
+- Digitaal Geologisch Model
+
+- Informatiemodel Geluid [IMGeluid](https://docs.geostandaarden.nl/cvgg/img/)
+
+Relevantie moet nog bekeken worden. 
+
 ### INSPIRE
 De relevantie van de diverse thema's moet nog bekeken worden, maar de volgende thema's zijn mogelijk interessant: 
 
@@ -80,6 +97,8 @@ De relevantie van de diverse thema's moet nog bekeken worden, maar de volgende t
 - Bio-geographical regions
 - Habitats and biotopes
 - Land use
+- Soil
+- Geology
 
 Ook mogelijk relevant: 
 - [Guidelines for the use of Observations & Measurements and Sensor Web Enablement-related standards in INSPIRE](https://inspire.ec.europa.eu/id/document/tg/d2.9-o%26m-swe)
