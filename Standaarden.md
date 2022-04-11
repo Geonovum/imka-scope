@@ -30,6 +30,7 @@ Lijst van standaarden met vooralsnog een korte duiding waarom ze relevant zouden
 | [standaarden van Nictiz](https://www.nictiz.nl/standaardisatie/informatiestandaarden/) | Nictiz maakt informatiestandaarden in het zorgdomein. Relevantie (zijn er raakvlakken met klimaatadaptatie/hitte?) moet nog bekeken worden. Denk bv aan sterfte, doodsoorzaken, etc. | Moet nog bekeken worden |
 | BRO standaarden (deze worden genoemd in de [Handreiking 'Hoe gebruik ik bodeminformatie bij klimaatadaptatie?](https://climadapserv.maps.arcgis.com/apps/MapSeries/index.html?appid=68303bbfd5904b62a55c8ef3c688da27)) | Geomorfologische kaart; Bodemkaart; Booronderzoek; GeoTOP; Digitaal Geologisch Model | Vooral relevant als databron |
 | Informatiemodel Geluid [IMGeluid](https://docs.geostandaarden.nl/cvgg/img/) | Voor geluidsoverlastmodellen | Relevantie moet nog bekeken worden. |
+| Informatiemodel KICH | Cultuurhistorie. "Hittestress ontstaat juist doordat steen, beton en asfalt warmte vasthouden. Aan de hand van historische informatie kan ook de verstening en verharding van een stad in beeld worden gebracht. Historische kaarten kunnen eenvoudig gecombineerd worden met de kaartlagen uit de Klimaateffectatlas" [bron](https://klimaatadaptatienederland.nl/publish/pages/156580/cultuurhistorie_als_kennisbron_voor_de.pdf)| KICH is niet in gebruik en cultuurhistorische informatie is vooral relevant bij waterhuishouding, bij hitte minder. | 
 
 <aside class="issue">Er moet nog gezocht worden naar standaarden voor andere klimaattrends (wateroverlast, ...). </aside>
 
