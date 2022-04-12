@@ -4,6 +4,13 @@
 
 ### Klimaatadaptatieprocessen
 
+**Vragen**
+ * Welke processen bestaan er al?
+ * Hoe zien die eruit?
+ * Welke onderdelen in de keten zijn al gestandaardiseerd?
+ * Hoe ziet de standaard nu uit?
+ * Op welke punten in de keten is nog behoefte aan standaardisatie?
+
 #### Stresstest
 "Uit de stresstest volgt ruimtelijk inzicht in kwetsbaarheden, nog zonder waardeoordeel. Of de kwetsbaarheden daadwerkelijk een probleem vormen en of er maatregelen moeten worden genomen, wordt afgewogen tijdens de risicodialoog."
 
