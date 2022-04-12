@@ -39,9 +39,10 @@
 ### Hitte - Informatiebehoefte
 
 #### Gevoelstemperatuur
+
  > Bron: [klimaateffectatlas: hittestress - gevoelstemperatuur](https://www.klimaateffectatlas.nl/nl/hittekaart-gevoelstemperatuur)
 
-"Welke invloed hebben weer en omgeving op de **gevoelstemperatuur**? Het weer bepaalt voor een deel de gevoelstemperatuur. Het weer is niet alleen de **luchttemperatuur**, maar ook de **zonnestraling**, **windsnelheid** en **luchtvochtigheid**. Hoe sterker bijvoorbeeld de straling van de zon en hoe minder wind, hoe hoger de gevoelstemperatuur. Ook de **omgeving** bepaalt voor een deel de gevoelstemperatuur. In de **schaduw** van **gebouwen** en **bomen** is de gevoelstemperatuur lager dan in de volle zon. **Planten** verkoelen de omgeving doordat ze water **verdampen**. Een omgeving met veel **straten** en gebouwen warmt juist meer op, doordat straten en gebouwen de warmte van de **zon vasthouden**. Daarnaast kunnen gebouwen verkoelende **wind blokkeren**. De gevoelstemperatuur in stedelijk gebied is dan ook vaak hoger dan in landelijk gebied."
+"Welke invloed hebben weer en omgeving op de *gevoelstemperatuur*? Het weer bepaalt voor een deel de gevoelstemperatuur. Het weer is niet alleen de *luchttemperatuur*, maar ook de *zonnestraling*, *windsnelheid* en *luchtvochtigheid*. Hoe sterker bijvoorbeeld de straling van de zon en hoe minder wind, hoe hoger de gevoelstemperatuur. Ook de *omgeving* bepaalt voor een deel de gevoelstemperatuur. In de *schaduw* van *gebouwen* en *bomen* is de gevoelstemperatuur lager dan in de volle zon. *Planten* verkoelen de omgeving doordat ze water *verdampen*. Een omgeving met veel *straten* en gebouwen warmt juist meer op, doordat straten en gebouwen de warmte van de *zon vasthouden*. Daarnaast kunnen gebouwen verkoelende *wind blokkeren*. De gevoelstemperatuur in stedelijk gebied is dan ook vaak hoger dan in landelijk gebied."
 
 **Kenmerken: Weer**
  * Luchttemperatuur
@@ -56,6 +57,7 @@
  * Planten
  * Straten
 
+<!-- <a> tag om <figure> heenbouwen om klikbare afbeelding te maken? -->
 <figure>
    <img src="media/kea_gevoelstemperatuur.jpg"
       alt="Infographic Stresstest">
@@ -71,61 +73,61 @@
 Onderstaande lijst bevat een eerste verzameling van informatiebronnen die gebruikt (kunnen) worden voor het onderwerp hitte.
 Deze eerste ruwe opzet is gebaseerd op het RIVM-rapport: *Ontwikkeling Standaard Stresstest Hitte*, hoofdstuk 4. 
 
-**Overzicht informatiebehoefte**
- * **Informatie-object**: Gebouwen
+#### Inventarisatie mogelijke informatie-objecten
+
+**Gebouwen**
     * **Objectkenmerken**: Locatie, Bouwjaar, Energielabel
-    * **Doel**:
-    * **Bron**:
+    * **Doel**: -
+    * **Bron**: -
 
- * **Informatie-object**: Kwetsbare (bevolkings-)groepen
+**Kwetsbare (bevolkings-)groepen**
     * **Objectkenmerken**:
-    * **Doel**:
-    * **Bron**:
+    * **Doel**: -
+    * **Bron**: -
 
- * **Informatie-object**: Ziekenhuizen
+**Ziekenhuizen**
     * **Objectkenmerken**: Locatie
-    * **Doel**: 
-    * **Bron**:
+    * **Doel**: -
+    * **Bron**: -
 
- * **Informatie-object**: Klimaatschade (financieel?)
+**Klimaatschade** (financieel?)
     * **Objectkenmerken**: Kosten ziekenhuisopnamen
     * **Doel**: Geeft inzicht in toename van kosten van ziekenhuisopnamen.
     * **Bron**: Klimaatschadeschatter van het NKWK
 
- * **Informatie-object**: Groenvoorzieningen (parken, groenstroken, grasvelden, moestuinen)
+**Groenvoorzieningen** (parken, groenstroken, grasvelden, moestuinen)
     * **Objectkenmerken**: Locatie, Type
     * **Doel**: Geeft inzicht in de locaties waar problemen op kunnen treden.
-    * **Bron**: 
+    * **Bron**: -
 
- * **Informatie-object**: Bomen
+**Bomen**
     * **Objectkenmerken**: Locatie, Kwetsbaarheid
     * **Doel**: ~~Geeft inzicht in de locaties met kwetsbare bomen~~
     * **Bron**: Bomenbestand
 
- * **Informatie-object**: Buitenruimten (publieke ruimte met recreatief gebruik: buitenruimten, terrassen en parken)
+**Buitenruimten** (publieke ruimte met recreatief gebruik: buitenruimten, terrassen en parken)
     * **Objectkenmerken**: Locatie, Type
     * **Doel**: geeft inzicht in waar overlast kan ontstaan
-    * **Bron**:
+    * **Bron**: -
 
-  * **Informatie-object**: Koelteplekken (Stadsstranden, Fonteinen, Parkjes)
+**Koelteplekken** (Stadsstranden, Fonteinen, Parkjes)
     * **Objectkenmerken**: Locatie, Type
     * **Doel**: Inventarisatie van aangename plekken om te vertoeven tijdens tropische dagen
-    * **Bron**:
+    * **Bron**: -
 
- * **Informatie-object**: Festivals en evenementen
+**Festivals en evenementen**
     * **Objectkenmerken**: Locatie, Datum, Tijdstip, Bezoekersaantal(?)
-    * **Doel**:
-    * **Bron**:
+    * **Doel**: -
+    * **Bron**: -
 
-  * **Informatie-object**: Gebiedsfuncties (wonen, werken, bedrijven, ontspanning)
+**Gebiedsfuncties** (wonen, werken, bedrijven, ontspanning)
     * **Objectkenmerken**: Locatie, Type
     * **Doel**: Om te bepalen welk type gebied voldoende koel ingericht moet zijn.
-    * **Bron**:
-
+    * **Bron**: -
 
 **Nog sorteren**
 
- - Afstand-tot   -koelte kaarten  om te bepalen welke gebieden op onvoldoende afstand van een koelteplek liggen.
+ - Afstand-tot -koelte kaarten om te bepalen welke gebieden op onvoldoende afstand van een koelteplek liggen.
  - Veel voorkomende locaties van buitenwerkers.
  - Overzicht van de locaties van scholen en kinderopvangcentra.
  - De locatie of de lengte van bekende en kwetsbare drinkwaterleidingen. -Schaduw- en groenanalyses  om te bepalen wat de mogelijkheden zijn van schaduw en groene oppervlakken voor het verkoelen van het netwerk.
