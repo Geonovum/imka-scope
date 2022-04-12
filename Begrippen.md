@@ -20,3 +20,9 @@
 |Hitte |n.v.t.|-|-|-|
 |Droogte |n.v.t.|-|-|-|
 
+**Begrip**: tekst
+
+ * **Afkorting**: tekst
+ * **Definitie**: tekst
+ * **Toelichting**: tekst
+ * **Bron**: tekst
