@@ -56,6 +56,15 @@
  * Planten
  * Straten
 
+<figure>
+   <img src="media/kea_gevoelstemperatuur.jpg"
+      alt="Infographic Stresstest">
+      <a href="media/kea_gevoelstemperatuur.jpg" target="-blank"></a>
+   <figcaption>Infographic Gevoelstemperatuur (Bron:
+      <a href="https://klimaatadaptatienederland.nl/stresstest/bijsluiter" target="_blank">bijsluiter stresstest</a>)
+   </figcaption>
+</figure>
+
 "De gevoelstemperatuur stijgt in het WH-scenario met ongeveer 3 °C in 2050. Het WH-scenario kenmerkt zich door een wereldwijde sterke temperatuurstijging en een grote verandering in de luchtstromen. In de zomer betekent dit een toename van zonnestraling en meer oostenwind, waardoor er minder neerslag valt en de temperatuur in de zomer meer stijgt. De rechterkaart houdt geen rekening met mogelijke extra verstedelijking, die kan leiden tot een nog verdere temperatuurstijging in 2050." 
 
 #### Ontwikkeling Standaard Stresstest Hitte (RIVM, 2020)
