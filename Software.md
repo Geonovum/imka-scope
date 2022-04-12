@@ -11,8 +11,8 @@
 
 "De stappen in de stresstest en de wisselwerking tussen stresstest en risicodialoog zijn verbeeld in onderstaande infographic:"
 
-   ![Infographic Stresstest](/media/infographic_stresstest.png)
-   
+![Infographic Stresstest](media/infographic_stresstest.png)
+
 Bron: https://klimaatadaptatienederland.nl/stresstest/bijsluiter/
 
 ### Hitte - Informatiebehoefte
