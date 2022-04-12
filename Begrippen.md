@@ -62,3 +62,15 @@
  * **Definitie**: Hittestress die een standaard persoon ondervindt. 
  * **Toelichting**: The sky view factor (SVF) is essential to describe the urban climatology at scales below 100m. This proxy for net radiation depends on the height of the obstacles in its surroundings.
  * **Bron**: [linkNaarDocumentatieOpnemen](url)
+
+
+Deltaprogramma Ruimtelijke Adaptatie (DPRA) 
+
+Wateroverlast
+
+Overstroming
+
+**Bijsluiter Gestandaardiseerde Stresstest**
+Definitie: een bundeling van aanwijzingen voor het uitvoeren van de stresstest en helpt bij het interpreteren en toepassen van uitkomsten.
+toelichting: De bijsluiter biedt: achtergrondinformatie over de klimaatthema’s en daarmee samenhangende kwetsbaarheden, aanwijzingen voor het vinden en gebruiken van publieke basisinformatie om kwetsbaarheden te verkennen en op hoofdlijnen in beeld te brengen, aanwijzingen voor het creëren van informatie op maat om kwetsbaarheden in detail te bepalen, adviezen voor het gebruik van de stresstest uitkomsten.
+bron: https://klimaatadaptatienederland.nl/stresstest/bijsluiter/
