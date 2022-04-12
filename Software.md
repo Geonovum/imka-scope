@@ -40,7 +40,7 @@ Deze eerste ruwe opzet is gebaseerd op het rapport:
  - Subkoppen: 'standaard' en 'aanvullend'
  - KEA   - Warme nachten/aantal zomerse dagen (25 °C of meer) nu en in de toekomst 
 
-**Overzicht**
+#### Overzicht
 
  - `<bron>`   - Gebouwen (locatie, bouwjaar, energielabel)
  - `<bron>`   - Kwetsbare groepen
@@ -70,3 +70,29 @@ Deze eerste ruwe opzet is gebaseerd op het rapport:
  - `<bron>`   - Verkeersintensiteiten om te bepalen welke drukke plekken prioriteit hebben bij het nemen van maatregelen.
  - `<bron>`   - Locatie van de energiecentrales en informatie over hun specifieke gevoeligheid voor problemen met de koelwatervoorziening.
  - `<bron>`   - Inzicht in de afname van de rivierafvoeren
+
+#### Informatiebehoefte KEA (kaartverhalen)
+
+<figure>
+   <img src="media/dpra_vitale_kwetsbare_functies_overzicht.jpg"
+      alt="Vitale Functies">
+   <figcaption>Overzicht vitale functies (Bron:
+      <a href="https://klimaatadaptatienederland.nl/stresstest/bijsluiter/vitaal-kwetsbaar/" target="_blank">bijsluiter stresstest</a>)
+   </figcaption>
+</figure>
+
+<figure>
+   <img src="media/kea_basiskaarten.jpg"
+      alt="basiskaarten">
+   <figcaption>Basiskaarten (Bron:
+      <a href="https://www.klimaateffectatlas.nl/nl/kaartverhalen" target="_blank">klimaateffectatlas (KEA)</a>)
+   </figcaption>
+</figure>
+
+<figure>
+   <img src="media/kea_kaartverhalen.jpg"
+      alt="Kaartverhalen">
+   <figcaption>Kaarverhalen (Bron:
+      <a href="https://www.klimaateffectatlas.nl/nl/kaartverhalen" target="_blank">klimaateffectatlas (KEA)</a>)
+   </figcaption>
+</figure>
