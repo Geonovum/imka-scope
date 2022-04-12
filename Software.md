@@ -75,55 +75,55 @@ Deze eerste ruwe opzet is gebaseerd op het RIVM-rapport: *Ontwikkeling Standaard
 
 #### Inventarisatie mogelijke informatie-objecten
 
-**Gebouwen**
-    * **Objectkenmerken**: Locatie, Bouwjaar, Energielabel
-    * **Doel**: -
-    * **Bron**: -
+##### Gebouwen
+ * **Objectkenmerken**: Locatie, Bouwjaar, Energielabel
+ * **Doel**: -
+ * **Bron**: -
 
-**Kwetsbare (bevolkings-)groepen**
-    * **Objectkenmerken**:
-    * **Doel**: -
-    * **Bron**: -
+##### Kwetsbare (bevolkings-)groepen
+ * **Objectkenmerken**:
+ * **Doel**: -
+ * **Bron**: -
 
-**Ziekenhuizen**
-    * **Objectkenmerken**: Locatie
-    * **Doel**: -
-    * **Bron**: -
+##### Ziekenhuizen
+ * **Objectkenmerken**: Locatie
+ * **Doel**: -
+ * **Bron**: -
 
-**Klimaatschade** (financieel?)
-    * **Objectkenmerken**: Kosten ziekenhuisopnamen
-    * **Doel**: Geeft inzicht in toename van kosten van ziekenhuisopnamen.
-    * **Bron**: Klimaatschadeschatter van het NKWK
+##### Klimaatschade (financieel?)
+ * **Objectkenmerken**: Kosten ziekenhuisopnamen
+ * **Doel**: Geeft inzicht in toename van kosten van ziekenhuisopnamen.
+ * **Bron**: Klimaatschadeschatter van het NKWK
 
-**Groenvoorzieningen** (parken, groenstroken, grasvelden, moestuinen)
-    * **Objectkenmerken**: Locatie, Type
-    * **Doel**: Geeft inzicht in de locaties waar problemen op kunnen treden.
-    * **Bron**: -
+##### Groenvoorzieningen (parken, groenstroken, grasvelden, moestuinen)
+ * **Objectkenmerken**: Locatie, Type
+ * **Doel**: Geeft inzicht in de locaties waar problemen op kunnen treden.
+ * **Bron**: -
 
-**Bomen**
-    * **Objectkenmerken**: Locatie, Kwetsbaarheid
-    * **Doel**: ~~Geeft inzicht in de locaties met kwetsbare bomen~~
-    * **Bron**: Bomenbestand
+##### Bomen
+ * **Objectkenmerken**: Locatie, Kwetsbaarheid
+ * **Doel**: ~~Geeft inzicht in de locaties met kwetsbare bomen~~
+ * **Bron**: Bomenbestand
 
-**Buitenruimten** (publieke ruimte met recreatief gebruik: buitenruimten, terrassen en parken)
-    * **Objectkenmerken**: Locatie, Type
-    * **Doel**: geeft inzicht in waar overlast kan ontstaan
-    * **Bron**: -
+##### Buitenruimten (publieke ruimte met recreatief gebruik: buitenruimten, terrassen en parken)
+ * **Objectkenmerken**: Locatie, Type
+ * **Doel**: Geeft inzicht in waar overlast kan ontstaan
+ * **Bron**: -
 
-**Koelteplekken** (Stadsstranden, Fonteinen, Parkjes)
-    * **Objectkenmerken**: Locatie, Type
-    * **Doel**: Inventarisatie van aangename plekken om te vertoeven tijdens tropische dagen
-    * **Bron**: -
+##### Koelteplekken (Stadsstranden, Fonteinen, Parkjes)
+ * **Objectkenmerken**: Locatie, Type
+ * **Doel**: Inventarisatie van aangename plekken om te vertoeven tijdens tropische dagen
+ * **Bron**: -
 
-**Festivals en evenementen**
-    * **Objectkenmerken**: Locatie, Datum, Tijdstip, Bezoekersaantal(?)
-    * **Doel**: -
-    * **Bron**: -
+##### Festivals en evenementen
+ * **Objectkenmerken**: Locatie, Datum, Tijdstip, Bezoekersaantal(?)
+ * **Doel**: -
+ * **Bron**: -
 
-**Gebiedsfuncties** (wonen, werken, bedrijven, ontspanning)
-    * **Objectkenmerken**: Locatie, Type
-    * **Doel**: Om te bepalen welk type gebied voldoende koel ingericht moet zijn.
-    * **Bron**: -
+##### Gebiedsfuncties (wonen, werken, bedrijven, ontspanning)
+ * **Objectkenmerken**: Locatie, Type
+ * **Doel**: Om te bepalen welk type gebied voldoende koel ingericht moet zijn.
+ * **Bron**: -
 
 **Nog sorteren**
 
