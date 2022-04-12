@@ -2,6 +2,21 @@
 
 *Overzicht van bestaande softwaresystemen voor klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
 
+### Klimaatadaptatieprocessen
+
+#### Stresstest
+"Uit de stresstest volgt ruimtelijk inzicht in kwetsbaarheden, nog zonder waardeoordeel. Of de kwetsbaarheden daadwerkelijk een probleem vormen en of er maatregelen moeten worden genomen, wordt afgewogen tijdens de risicodialoog."
+
+"Het procesverloop van de risicodialoog ligt niet vast. Er zijn verschillende routes mogelijk. Maar meestal zal in wisselwerking met de stresstest een ‘van grof-naar-fijn-aanpak’ worden gevolgd. Daarbij wordt eerst, als voorbereiding op de dialoog, voor de vier klimaatthema’s een verkennende stresstest uitgevoerd met gebruik van landelijk of regionaal beschikbare basisinformatie. De resultaten hiervan zijn voeding voor de dialoog. Daar kan worden besloten dat meer informatie of meer detail nodig is. Er volgt dan een stap waarin informatie op maat wordt gecreëerd. Ook de resultaten hiervan gaan naar de dialoog. Het kan ook voorkomen dat eerst een risicodialoog plaatsvindt, nog voordat er een stresstest is uitgevoerd. Bijvoorbeeld na een calamiteit door extreem weer."
+
+"De stappen in de stresstest en de wisselwerking tussen stresstest en risicodialoog zijn verbeeld in onderstaande infographic:"
+
+   ![Infographic Stresstest](/media/infographic_stresstest.png)
+   
+Bron: https://klimaatadaptatienederland.nl/stresstest/bijsluiter/
+
+### Hitte - Informatiebehoefte
+
 Onderstaande lijst bevat een eerste verzameling van informatiebronnen die gebruikt (kunnen) worden voor het onderwerp hitte.
 Deze eerste ruwe opzet is gebaseerd op het rapport: 
 
@@ -12,9 +27,10 @@ Deze eerste ruwe opzet is gebaseerd op het rapport:
  - paragraaf 4.5 
  - Kop:'informatie verzamelen',
  - Subkoppen: 'standaard' en 'aanvullend'
-
-### Hitte - Informatiebehoefte
  - KEA   - Warme nachten/aantal zomerse dagen (25 °C of meer) nu en in de toekomst 
+
+**Overzicht**
+
  - `<bron>`   - Gebouwen (locatie, bouwjaar, energielabel)
  - `<bron>`   - Kwetsbare groepen
  - PET   - Plekken waar het zo heet is dat mensen gezondheidsklachten kunnen krijgen, en laat zien waar het ontbreekt aan plekken om verkoeling te vinden
