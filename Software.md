@@ -15,7 +15,7 @@
    <img src="media/infographic_stresstest.png"
       alt="Infographic Stresstest">
    <figcaption>Infographic Stresstest (Bron:
-      <a href="https://klimaatadaptatienederland.nl/stresstest/bijsluiter">bijsluiter stresstest</a>)
+      <a href="https://klimaatadaptatienederland.nl/stresstest/bijsluiter" target="_blank">bijsluiter stresstest</a>)
    </figcaption>
 </figure>
 
