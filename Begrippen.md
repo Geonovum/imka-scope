@@ -1,5 +1,13 @@
 ## Begrippen
 
+### Kop 3
+
+#### Kop 4
+
+#### Kop 5
+
+##### Kop 6
+
 |Begrip |Afkorting |Definitie |Toelichting |Bron | 
 |:---|:---|:---|:---|:---|
 |Klimaateffectatlas| KEA       | -       | -         |https://www.klimaateffectatlas.nl/nl/gebruik-van-de-atlas|
@@ -11,3 +19,4 @@
 |Klimaatmitigatie |n.v.t.|Klimaatmitigatie bestaat uit maatregelen bedoeld om de omvang of snelheid van opwarming van de aarde te beperken.|Over het algemeen bedoelt men met klimaatmitigatie het verminderen van de door mensen veroorzaakte emissies van broeikasgassen (met name kooldioxide (CO2), methaan (CH4), lachgas (N2O) en fluorverbindingen zoals HFK's, PFK's en zwavelhexafluoride)|https://nl.wikipedia.org/wiki/Klimaatmitigatie|
 |Hitte |n.v.t.|-|-|-|
 |Droogte |n.v.t.|-|-|-|
+
