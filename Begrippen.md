@@ -134,6 +134,20 @@ https://klimaatadaptatienederland.nl/stresstest/bijsluiter/
 geadviseerd om een gestandaardiseerde stresstest voor wateroverlast in te voeren.
 https://klimaatadaptatienederland.nl/stresstest/bijsluiter/
 
+**Hulpmiddelen**
+ * **Bron**: https://klimaatadaptatienederland.nl/hulpmiddelen/ambitie/kwetsbaarheid-beeld-brengen/
 
-Hulpmiddelen
-https://klimaatadaptatienederland.nl/hulpmiddelen/ambitie/kwetsbaarheid-beeld-brengen/
+**Klimaatscenario's**
+ * **Bron**: https://www.knmi.nl/kennis-en-datacentrum/achtergrond/knmi-14-klimaatscenario-s
+
+**Gevoelstemperatuur**
+ * **Afkorting**: [PET](linkNaarPhysiologicalEquivalentTemperatureOpnemen)
+ * **Definitie**: De luchttemperatuur geeft aan hoe warm het buiten is.
+ * **Toelichting**: Als de gemeten luchttemperatuur bijvoorbeeld 30 ºC is, kan het in de volle zon en uit de wind voelen als 40 ºC. Daarnaast hebben ouderen en mensen met overgewicht vaak eerder last van een hogere gevoelstemperatuur, doordat ze hun warmte minder kwijt kunnen aan de omgeving.
+ * **Bron**: [Hittekaart - Gevoelstemperatuur (KEA)](https://www.klimaateffectatlas.nl/nl/hittekaart-gevoelstemperatuur)
+
+**Luchttemperatuur**
+ * **Afkorting**: -
+ * **Definitie**: De gevoelstemperatuur geeft aan hoe warm een persoon het heeft in een bepaalde weersituatie.
+ * **Toelichting**: Als de gemeten luchttemperatuur bijvoorbeeld 30 ºC is, kan het in de volle zon en uit de wind voelen als 40 ºC.
+ * **Bron**: [Hittekaart - Gevoelstemperatuur (KEA)](https://www.klimaateffectatlas.nl/nl/hittekaart-gevoelstemperatuur)
