@@ -11,7 +11,7 @@
  * Hoe ziet de standaard nu uit?
  * Op welke punten in de keten is nog behoefte aan standaardisatie?
 
-#### Stresstest
+#### Werkproces: Stresstest Hitte
 "Uit de stresstest volgt ruimtelijk inzicht in kwetsbaarheden, nog zonder waardeoordeel. Of de kwetsbaarheden daadwerkelijk een probleem vormen en of er maatregelen moeten worden genomen, wordt afgewogen tijdens de risicodialoog."
 
 "Het procesverloop van de risicodialoog ligt niet vast. Er zijn verschillende routes mogelijk. Maar meestal zal in wisselwerking met de stresstest een ‘van grof-naar-fijn-aanpak’ worden gevolgd. Daarbij wordt eerst, als voorbereiding op de dialoog, voor de vier klimaatthema’s een verkennende stresstest uitgevoerd met gebruik van landelijk of regionaal beschikbare basisinformatie. De resultaten hiervan zijn voeding voor de dialoog. Daar kan worden besloten dat meer informatie of meer detail nodig is. Er volgt dan een stap waarin informatie op maat wordt gecreëerd. Ook de resultaten hiervan gaan naar de dialoog. Het kan ook voorkomen dat eerst een risicodialoog plaatsvindt, nog voordat er een stresstest is uitgevoerd. Bijvoorbeeld na een calamiteit door extreem weer."
