@@ -22,12 +22,13 @@ Aanpassen aan klimaatverandering betekent actie ondernemen om zowel de huidige e
 
 Daarom heeft de Commissie op 24 februari 2021 een nieuwe [Europese Adaptatiestrategie](https://ec.europa.eu/clima/eu-action/adaptation-climate-change_en) aangenomen. De strategie is een essentieel onderdeel van de Europese Green Deal en heeft tot doel de inspanningen van de EU om de natuur, de mensen en het levensonderhoud te beschermen tegen de onvermijdelijke gevolgen van klimaatverandering.
 
-##### Gegevens
+##### Gegevens en kennis
 Gegevens over klimaatgerelateerde risico’s en verliezen zijn cruciaal voor een betere nauwkeurigheid van de klimaatrisicobeoordeling. Om “klimaatblinde” beslissingen te vermijden, moeten gegevens van zowel de particuliere als de publieke sector op een omvattende en geharmoniseerde wijze worden geregistreerd, verzameld en gedeeld. Dit zal opgepakt worden via een Risk Data Hub. 
 
 **Copernicus, EMODnet**
 
 Alle gegevens van wetenschappelijke kerninitiatieven van de EU, zoals Copernicus en het Europees marien observatie- en datanetwerk (EMODnet) zijn vrij en openlijk beschikbaar voor alle gebruikers wereldwijd.
+
 
 **INSPIRE, Open data directive**
 
