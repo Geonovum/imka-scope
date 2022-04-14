@@ -3,27 +3,33 @@
 _Beschrijving van het object en afhankelijkheden met andere objecten. Rationale, behoefte, en een eerste definitie van het onderwerp Klimaatadaptatie._
 
 
-### Klimaat - algemeen
-Onderscheid klimaatmitigatie, **klimaatadaptatie**
-- Verminderen van klimaatverandering (mitigatie)
-- Aanpassen aan klimaatverandering (adaptatie)
+### Klimaat
+Het klimaat verandert. De temperatuur op aarde stijgt. Dit komt door de toename van broeikasgassen in de lucht. Klimaatverandering heeft grote gevolgen voor mens, natuur en milieu. Daarom neemt Nederland - zelf en samen met andere landen - maatregelen om zich aan te passen aan de gevolgen van klimaatverandering (klimaatadaptatie; o.a. het Deltaprogramma en de Nationale Adaptatiestrategie) en om verdere klimaatverandering te beperken (klimaatmitigatie; o.a. het Klimaatakkoord). Deze maatregelen samen vormen het Nederlandse klimaatbeleid.
 
-### Klimaatadapatie:
-4 klimaattrends die samen hangen, maar in dit informatiemodel richten we ons op de klimaattrend hitte
-- wateroverlast
-- overstromingen
-- droogte
-- **hitte**
+In dit informatiemodel richten we ons op de  maatregelen om zich aan te passen aan de gevolgen van klimaatverandering, de klimaatadaptatie. 
 
-### Hitte
-Aandachtspunt: Hitte staat niet op zich zelf, ook sterk verweven met de andere aspecten van klimaatadapatie. Maar we zoomen in op alleen het aspect hitte.
+### Klimaatadapatie
+De aarde warmt op en het klimaat verandert. De temperaturen stijgen. Er is meer kans op een extreme regenbui, op een hittegolf en op langere, droge periodes. Door droogte daalt de bodem op sommige plekken in Nederland. De zeespiegel stijgt en er is meer kans op overstromingen. Klimaatverandering heeft grote gevolgen voor de gezondheid, de leefbaarheid en de economie.
 
-Twee soorten hitte: 
-- de geleidelijke opwarming van de aarde (het wordt warmer) 
-- en steeds meer extreem warme dagen (zomerse hittegolven).
+Nederland moet zich voorbereiden op de risico’s van het veranderende klimaat en hierop de omgeving aanpassen. Nederland heeft met vier klimaattrends te maken: 
+- het wordt warmer, 
+- het wordt droger, 
+- het wordt natter 
+- en de zeespiegel stijgt.
 
-Specifiek voor de steden: hitte eiland effect
+De 4 klimaattrends hangen samen, maar in dit informatiemodel richten we ons op een klimaattrend, namelijk het wordt warmer.
 
+### Hitte: het wordt warmer
+Door klimaatverandering stijgt de temperatuur en worden onze zomers warmer. Hitte is één van de thema’s van het Deltaprogramma Ruimtelijke adaptatie, naast droogte, wateroverlast en overstroming. Een bekend gevolg van hitte is hittestress, waar vooral ouderen en andere kwetsbare groepen erg ziek van kunnen worden. Maar ook onze infrastructuur, de beschikbaarheid en kwaliteit van ons drinkwater en verminderde arbeidsproductiviteit lijden onder extreme hitte.
+
+#### Oorzaken van hitte
+Uit de KNMI klimaatscenario’s (2014) blijkt dat niet alleen de gemiddelde temperatuur stijgt, maar dat ook de hitte-extremen toenemen. Hitte neemt wereldwijd toe doordat de aarde opwarmt. Dat komt doordat verschillende menselijke activiteiten het broeikaseffect versterken. Daarnaast wordt het in verschillende steden vaak warmer dan in het omliggende gebied doordat steden meer warmte vasthouden. Dat noemen we het hitte-eilandeffect. Doordat de bebouwing en verstening in steden toeneemt, wordt ook het hitte-eilandeffect versterkt. 
+
+#### Gevolgen van en maatregelen tegen hitte
+De gevolgen van de toenemende hitte zijn heel divers. Hitte kan leiden tot gezondheidsproblemen en extra sterfte onder kwetsbare groepen, maar bijvoorbeeld ook tot verminderde arbeidsproductiviteit en schade aan infrastructuur. De gevolgen zijn te herleiden naar drie domeinen van hitte: 
+- de buitenruimte (gebied), 
+- woningen (gebouw) 
+- en de gezondheid.
 
 
 
