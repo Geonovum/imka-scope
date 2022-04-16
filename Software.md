@@ -23,7 +23,8 @@
       <a href="https://klimaatadaptatienederland.nl/stresstest/bijsluiter" target="_blank">bijsluiter stresstest</a>)
    </figcaption>
 </figure>
- -*Gebruik basisinformatie**
+ 
+ **Gebruik basisinformatie**
  1. Hoe maak je een gedetailleerde gevoelstemperatuurkaart?
  1. De kaart met het aantal warme nachten in de Klimaateffectatlas te bekijken.
  1. De kaart met de gevoelstemperatuur in de Klimaateffectatlas te bekijken.
@@ -121,73 +122,72 @@ Deze eerste ruwe opzet is gebaseerd op het RIVM-rapport: *Ontwikkeling Standaard
  - **Doel**: Om te bepalen welk type gebied voldoende koel ingericht moet zijn.
  - **Bron**: -
 
-#### Buitenwerkers
+##### Buitenwerkers
  - **Objectkenmerken**: Locatie, Type buitenwerk(?)
  - **Doel**: -
  - **Bron**: -
 
-#### Onderwijs (scholen, kinderopvangcentra)
+##### Onderwijs (scholen, kinderopvangcentra)
  - **Objectkenmerken**: Locatie, Type, Aantal aanwezige personen(?) 
  - **Doel**: -
  - **Bron**: -
 
-#### Leidingen (drinkwater)
+##### Leidingen (drinkwater)
  - **Objectkenmerken**: Locatie, Type, Lengte 
  - **Doel**: -
  - **Bron**: -
 
-#### Leidingen (drinkwater)
+##### Leidingen (drinkwater)
  - **Objectkenmerken**: Locatie, Type, Lengte 
  - **Doel**: -
  - **Bron**: -
 
-#### Watervraag (en -voorraad?)
+##### Watervraag (en -voorraad?)
  - **Objectkenmerken**: Locatie, Voorraad, Verbruik,
  - **Doel**: Ramingen van de watervraag in de toekomst, inclusief een hitte-effect, vergeleken met de productiecapaciteit.
  - **Bron**: -
 
-#### Watertemperatuur
+##### Watertemperatuur
  - **Objectkenmerken**: Locatie, Temperatuur, Datum
  - **Doel**: Kaart met het aantal aaneengesloten dagen waarbij water warmer is dan 20 °C, geeft inzicht in de locaties waar waterkwaliteit een probleem kan geven. 
  - **Bron**: KEA
 
-#### Zomerse dagen
+##### Zomerse dagen
  - **Objectkenmerken**: Locatie, Temperatuur, Datum
  - **Doel**: Kaart met het aantal zomerse dagen (25 °C of meer) nu en in de toekomst, geeft een indicatie van de toename van de problemen met betrekking tot waterkwaliteit.
  - **Bron**: KEA
 
-#### Waterlichamen
+##### Waterlichamen
  - **Objectkenmerken**: Locatie, Diepte, Stilstand, Oppervlakte, Volume
  - **Doel**: De locaties van ondiepe en stilstaande waterlichamen  geeft inzicht in de meest kwetsbare waterpartijen.
  - **Bron**: -
  
-#### Zwemlocaties
+##### Zwemlocaties
  - **Objectkenmerken**: Locatie, Type, Gemeente/Verwantwoordelijk bestuur (o.i.d.)
  - **Doel**: -
  - **Bron**: -
 
-#### Energiecentrales
+##### Energiecentrales
  - **Objectkenmerken**: Locatie
  - **Doel**: Combinatie met de kwetsbaarheid van het koelwater bij hitte en droogte. Locatie van de energiecentrales en informatie over hun specifieke gevoeligheid voor problemen met de koelwatervoorziening.
  - **Bron**: -
 
-#### Infrastructuur (spoor, weg)
+##### Infrastructuur (spoor, weg)
  - **Objectkenmerken**: Locatie, Type (spoor, weg, etc.), Bruggen, Wegdektype, Intensiteiten
  - **Doel**: Locaties van de railinfrastructuur om te bepalen waar de kwetsbare plekken zijn.Locaties van de beweegbare stalen bruggen  om te bepalen welke plekken kwetsbaar zijn. Locaties van asfaltwegen.Verkeersintensiteiten om te bepalen welke drukke plekken prioriteit hebben bij het nemen van maatregelen.
  - **Bron**: - 
 
-#### Rivieren (waterhuishouding/rivierafvoeren)
+##### Rivieren (waterhuishouding/rivierafvoeren)
  - **Objectkenmerken**: Locatie, 
  - **Doel**: Inzicht in de afname van de rivierafvoeren
  - **Bron**:
 
-#### Gevoelstemperatuur (PET)
+##### Gevoelstemperatuur (PET)
  - **Objectkenmerken**: Locatie, Luchttemperatuur, Zonnestraling, Windsnelheid, Luchtvochtigheid
  - **Doel**: Plekken waar het zo heet is dat mensen gezondheidsklachten kunnen krijgen, en laat zien waar het ontbreekt aan plekken om verkoeling te vinden
  - **Bron**: Basiskaarten gevoelstemperatuur 
 
-**Nog geen plek**
-**Methodiek**|(**a**) *Schaduwanalyses* om te bepalen wat de mogelijkheden zijn van schaduw voor het bieden van verkoeling (**b**) *Schaduw- en groenanalyses*  om te bepalen wat de mogelijkheden zijn van schaduw en groene oppervlakken voor het verkoelen van het netwerk.
+> Nog geen plek in overzicht | **Methodiek**: (**a**) *Schaduwanalyses* om te bepalen wat de mogelijkheden zijn van schaduw voor het bieden van verkoeling (**b**) *Schaduw- en groenanalyses*  om te bepalen wat de mogelijkheden zijn van schaduw en groene oppervlakken voor het verkoelen van het netwerk.
 
 #### Informatiebehoefte KEA (kaartverhalen)
 
