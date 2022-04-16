@@ -1,15 +1,13 @@
 ## Overzicht van bestaande systemen
-
-*Overzicht van bestaande softwaresystemen voor klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
+ -Overzicht van bestaande softwaresystemen voor klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
 
 ### Klimaatadaptatieprocessen
-
-**Vragen**
- * Welke processen bestaan er al?
- * Hoe zien die eruit?
- * Welke onderdelen in de keten zijn al gestandaardiseerd?
- * Hoe ziet de standaard nu uit?
- * Op welke punten in de keten is nog behoefte aan standaardisatie?
+ -*Vragen**
+ - Welke processen bestaan er al?
+ - Hoe zien die eruit?
+ - Welke onderdelen in de keten zijn al gestandaardiseerd?
+ - Hoe ziet de standaard nu uit?
+ - Op welke punten in de keten is nog behoefte aan standaardisatie?
 
 #### Werkproces: Stresstest Hitte
 "Uit de stresstest volgt ruimtelijk inzicht in kwetsbaarheden, nog zonder waardeoordeel. Of de kwetsbaarheden daadwerkelijk een probleem vormen en of er maatregelen moeten worden genomen, wordt afgewogen tijdens de risicodialoog."
@@ -25,8 +23,7 @@
       <a href="https://klimaatadaptatienederland.nl/stresstest/bijsluiter" target="_blank">bijsluiter stresstest</a>)
    </figcaption>
 </figure>
-
-**Gebruik basisinformatie**
+ -*Gebruik basisinformatie**
  1. Hoe maak je een gedetailleerde gevoelstemperatuurkaart?
  1. De kaart met het aantal warme nachten in de Klimaateffectatlas te bekijken.
  1. De kaart met de gevoelstemperatuur in de Klimaateffectatlas te bekijken.
@@ -43,25 +40,23 @@
  > Bron: [klimaateffectatlas: hittestress - gevoelstemperatuur](https://www.klimaateffectatlas.nl/nl/hittekaart-gevoelstemperatuur)
 
 "Welke invloed hebben weer en omgeving op de *gevoelstemperatuur*? Het weer bepaalt voor een deel de gevoelstemperatuur. Het weer is niet alleen de *luchttemperatuur*, maar ook de *zonnestraling*, *windsnelheid* en *luchtvochtigheid*. Hoe sterker bijvoorbeeld de straling van de zon en hoe minder wind, hoe hoger de gevoelstemperatuur. Ook de *omgeving* bepaalt voor een deel de gevoelstemperatuur. In de *schaduw* van *gebouwen* en *bomen* is de gevoelstemperatuur lager dan in de volle zon. *Planten* verkoelen de omgeving doordat ze water *verdampen*. Een omgeving met veel *straten* en gebouwen warmt juist meer op, doordat straten en gebouwen de warmte van de *zon vasthouden*. Daarnaast kunnen gebouwen verkoelende *wind blokkeren*. De gevoelstemperatuur in stedelijk gebied is dan ook vaak hoger dan in landelijk gebied."
-
-**Kenmerken: Weer**
- * Luchttemperatuur
- * Zonnestraling
- * Windsnelheid
- * Luchtvochtigheid
-
-**Kenmerken: Omgeving**
- * Schaduw
- * Gebouwen
- * Bomen
- * Planten
- * Straten
+ -*Kenmerken: Weer**
+ - Luchttemperatuur
+ - Zonnestraling
+ - Windsnelheid
+ - Luchtvochtigheid
+ -*Kenmerken: Omgeving**
+ - Schaduw
+ - Gebouwen
+ - Bomen
+ - Planten
+ - Straten
 
 <!-- <a> tag om <figure> heenbouwen om klikbare afbeelding te maken? -->
 <figure>
-   <img src="media/kea_gevoelstemperatuur.jpg"
-      alt="Infographic Stresstest">
-      <a href="media/kea_gevoelstemperatuur.jpg" target="-blank"></a>
+   <a href="media/kea_gevoelstemperatuur.jpg" target="-blank">
+      <img src="media/kea_gevoelstemperatuur.jpg" alt="Infographic Stresstest">
+   </a>
    <figcaption>Infographic Gevoelstemperatuur (Bron:
       <a href="https://klimaatadaptatienederland.nl/stresstest/bijsluiter" target="_blank">bijsluiter stresstest</a>)
    </figcaption>
@@ -76,79 +71,123 @@ Deze eerste ruwe opzet is gebaseerd op het RIVM-rapport: *Ontwikkeling Standaard
 #### Inventarisatie mogelijke informatie-objecten
 
 ##### Gebouwen
- * **Objectkenmerken**: Locatie, Bouwjaar, Energielabel
- * **Doel**: -
- * **Bron**: -
+ - **Objectkenmerken**: Locatie, Bouwjaar, Energielabel
+ - **Doel**: -
+ - **Bron**: -
 
 ##### Kwetsbare (bevolkings-)groepen
- * **Objectkenmerken**:
- * **Doel**: -
- * **Bron**: -
+ - **Objectkenmerken**:
+ - **Doel**: -
+ - **Bron**: -
 
 ##### Ziekenhuizen
- * **Objectkenmerken**: Locatie
- * **Doel**: -
- * **Bron**: -
+ - **Objectkenmerken**: Locatie
+ - **Doel**: -
+ - **Bron**: -
 
 ##### Klimaatschade (financieel?)
- * **Objectkenmerken**: Kosten ziekenhuisopnamen
- * **Doel**: Geeft inzicht in toename van kosten van ziekenhuisopnamen.
- * **Bron**: Klimaatschadeschatter van het NKWK
+ - **Objectkenmerken**: Kosten ziekenhuisopnamen
+ - **Doel**: Geeft inzicht in toename van kosten van ziekenhuisopnamen.
+ - **Bron**: Klimaatschadeschatter van het NKWK
 
 ##### Groenvoorzieningen (parken, groenstroken, grasvelden, moestuinen)
- * **Objectkenmerken**: Locatie, Type
- * **Doel**: Geeft inzicht in de locaties waar problemen op kunnen treden.
- * **Bron**: -
+ - **Objectkenmerken**: Locatie, Type
+ - **Doel**: Geeft inzicht in de locaties waar problemen op kunnen treden.
+ - **Bron**: -
 
 ##### Bomen
- * **Objectkenmerken**: Locatie, Kwetsbaarheid
- * **Doel**: ~~Geeft inzicht in de locaties met kwetsbare bomen~~
- * **Bron**: Bomenbestand
+ - **Objectkenmerken**: Locatie, Kwetsbaarheid
+ - **Doel**: ~~Geeft inzicht in de locaties met kwetsbare bomen~~
+ - **Bron**: Bomenbestand
 
 ##### Buitenruimten (publieke ruimte met recreatief gebruik: buitenruimten, terrassen en parken)
- * **Objectkenmerken**: Locatie, Type
- * **Doel**: Geeft inzicht in waar overlast kan ontstaan
- * **Bron**: -
+ - **Objectkenmerken**: Locatie, Type
+ - **Doel**: Geeft inzicht in waar overlast kan ontstaan
+ - **Bron**: -
 
 ##### Koelteplekken (Stadsstranden, Fonteinen, Parkjes)
- * **Objectkenmerken**: Locatie, Type
- * **Doel**: Inventarisatie van aangename plekken om te vertoeven tijdens tropische dagen
- * **Bron**: -
+ - **Objectkenmerken**: Locatie, Type
+ - **Doel**: Inventarisatie van aangename plekken om te vertoeven tijdens tropische dagen
+ - **Bron**: -
+ - Afstand-tot -koelte kaarten om te bepalen welke gebieden op onvoldoende afstand van een koelteplek liggen.
 
 ##### Festivals en evenementen
- * **Objectkenmerken**: Locatie, Datum, Tijdstip, Bezoekersaantal(?)
- * **Doel**: -
- * **Bron**: -
+ - **Objectkenmerken**: Locatie, Datum, Tijdstip, Bezoekersaantal(?)
+ - **Doel**: -
+ - **Bron**: -
 
 ##### Gebiedsfuncties (wonen, werken, bedrijven, ontspanning)
- * **Objectkenmerken**: Locatie, Type
- * **Doel**: Om te bepalen welk type gebied voldoende koel ingericht moet zijn.
- * **Bron**: -
+ - **Objectkenmerken**: Locatie, Type
+ - **Doel**: Om te bepalen welk type gebied voldoende koel ingericht moet zijn.
+ - **Bron**: -
 
-**Nog sorteren**
+#### Buitenwerkers
+ - **Objectkenmerken**: Locatie, Type buitenwerk(?)
+ - **Doel**: -
+ - **Bron**: -
 
- - Afstand-tot -koelte kaarten om te bepalen welke gebieden op onvoldoende afstand van een koelteplek liggen.
- - Veel voorkomende locaties van buitenwerkers.
- - Overzicht van de locaties van scholen en kinderopvangcentra.
- - De locatie of de lengte van bekende en kwetsbare drinkwaterleidingen. -Schaduw- en groenanalyses  om te bepalen wat de mogelijkheden zijn van schaduw en groene oppervlakken voor het verkoelen van het netwerk.
- - Ramingen van de watervraag in de toekomst, inclusief een hitte-effect, vergeleken met de productiecapaciteit.
- - KEA-kaart met het aantal aaneengesloten dagen waarbij water warmer is dan 20 °C  geeft inzicht in de locaties waar waterkwaliteit een probleem kan geven. 
- - KEA-kaart met het aantal zomerse dagen (25 °C of meer) nu en in de toekomst  geeft een indicatie van de toename van de problemen met betrekking tot waterkwaliteit.
- - Locaties van ondiepe en stilstaande waterlichamen  geeft inzicht in de meest kwetsbare waterpartijen.
- - Overzicht van zwemlocaties in de gemeente.
- - De locatie van de energiecentrales, in combinatie met de kwetsbaarheid van het koelwater bij hitte en droogte.
- - Locaties van de railinfrastructuur om te bepalen waar de kwetsbare plekken zijn.
- - Locaties van de beweegbare stalen bruggen  om te bepalen welke plekken kwetsbaar zijn. 
- - Locaties van asfaltwegen.
- - Verkeersintensiteiten om te bepalen welke drukke plekken prioriteit hebben bij het nemen van maatregelen.
- - Locatie van de energiecentrales en informatie over hun specifieke gevoeligheid voor problemen met de koelwatervoorziening.
- - Inzicht in de afname van de rivierafvoeren
+#### Onderwijs (scholen, kinderopvangcentra)
+ - **Objectkenmerken**: Locatie, Type, Aantal aanwezige personen(?) 
+ - **Doel**: -
+ - **Bron**: -
+
+#### Leidingen (drinkwater)
+ - **Objectkenmerken**: Locatie, Type, Lengte 
+ - **Doel**: -
+ - **Bron**: -
+
+#### Leidingen (drinkwater)
+ - **Objectkenmerken**: Locatie, Type, Lengte 
+ - **Doel**: -
+ - **Bron**: -
+
+#### Watervraag (en -voorraad?)
+ - **Objectkenmerken**: Locatie, Voorraad, Verbruik,
+ - **Doel**: Ramingen van de watervraag in de toekomst, inclusief een hitte-effect, vergeleken met de productiecapaciteit.
+ - **Bron**: -
+
+#### Watertemperatuur
+ - **Objectkenmerken**: Locatie, Temperatuur, Datum
+ - **Doel**: Kaart met het aantal aaneengesloten dagen waarbij water warmer is dan 20 °C, geeft inzicht in de locaties waar waterkwaliteit een probleem kan geven. 
+ - **Bron**: KEA
+
+#### Zomerse dagen
+ - **Objectkenmerken**: Locatie, Temperatuur, Datum
+ - **Doel**: Kaart met het aantal zomerse dagen (25 °C of meer) nu en in de toekomst, geeft een indicatie van de toename van de problemen met betrekking tot waterkwaliteit.
+ - **Bron**: KEA
+
+#### Waterlichamen
+ - **Objectkenmerken**: Locatie, Diepte, Stilstand, Oppervlakte, Volume
+ - **Doel**: De locaties van ondiepe en stilstaande waterlichamen  geeft inzicht in de meest kwetsbare waterpartijen.
+ - **Bron**: -
+ 
+#### Zwemlocaties
+ - **Objectkenmerken**: Locatie, Type, Gemeente/Verwantwoordelijk bestuur (o.i.d.)
+ - **Doel**: -
+ - **Bron**: -
+
+#### Energiecentrales
+ - **Objectkenmerken**: Locatie
+ - **Doel**: Combinatie met de kwetsbaarheid van het koelwater bij hitte en droogte. Locatie van de energiecentrales en informatie over hun specifieke gevoeligheid voor problemen met de koelwatervoorziening.
+ - **Bron**: -
+
+#### Infrastructuur (spoor, weg)
+ - **Objectkenmerken**: Locatie, Type (spoor, weg, etc.), Bruggen, Wegdektype, Intensiteiten
+ - **Doel**: Locaties van de railinfrastructuur om te bepalen waar de kwetsbare plekken zijn.Locaties van de beweegbare stalen bruggen  om te bepalen welke plekken kwetsbaar zijn. Locaties van asfaltwegen.Verkeersintensiteiten om te bepalen welke drukke plekken prioriteit hebben bij het nemen van maatregelen.
+ - **Bron**: - 
+
+#### Rivieren (waterhuishouding/rivierafvoeren)
+ - **Objectkenmerken**: Locatie, 
+ - **Doel**: Inzicht in de afname van de rivierafvoeren
+ - **Bron**:
+
+#### Gevoelstemperatuur (PET)
+ - **Objectkenmerken**: Locatie, Luchttemperatuur, Zonnestraling, Windsnelheid, Luchtvochtigheid
+ - **Doel**: Plekken waar het zo heet is dat mensen gezondheidsklachten kunnen krijgen, en laat zien waar het ontbreekt aan plekken om verkoeling te vinden
+ - **Bron**: Basiskaarten gevoelstemperatuur 
 
 **Nog geen plek**
- - Basiskaarten gevoelstemperatuur Plekken waar het zo heet is dat mensen gezondheidsklachten kunnen krijgen, en laat zien waar het ontbreekt aan plekken om verkoeling te vinden
-
-**Methodiek**
- - Schaduwanalyses om te bepalen wat de mogelijkheden zijn van schaduw voor het bieden van verkoeling.
+**Methodiek**|(**a**) *Schaduwanalyses* om te bepalen wat de mogelijkheden zijn van schaduw voor het bieden van verkoeling (**b**) *Schaduw- en groenanalyses*  om te bepalen wat de mogelijkheden zijn van schaduw en groene oppervlakken voor het verkoelen van het netwerk.
 
 #### Informatiebehoefte KEA (kaartverhalen)
 
