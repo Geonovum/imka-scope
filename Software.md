@@ -1,8 +1,8 @@
 ## Overzicht van bestaande systemen
- -Overzicht van bestaande softwaresystemen voor klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
-
+*Overzicht van bestaande softwaresystemen voor klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
 ### Klimaatadaptatieprocessen
- -*Vragen**
+
+**Vragen**
  - Welke processen bestaan er al?
  - Hoe zien die eruit?
  - Welke onderdelen in de keten zijn al gestandaardiseerd?
@@ -17,8 +17,9 @@
 "De stappen in de stresstest en de wisselwerking tussen stresstest en risicodialoog zijn verbeeld in onderstaande infographic:"
 
 <figure>
-   <img src="media/infographic_stresstest.png"
-      alt="Infographic Stresstest">
+   <a href="media/infographic_stresstest.png" target="_blank">
+      <img src="media/infographic_stresstest.png" alt="Infographic Stresstest">
+   </a>
    <figcaption>Infographic Stresstest (Bron:
       <a href="https://klimaatadaptatienederland.nl/stresstest/bijsluiter" target="_blank">bijsluiter stresstest</a>)
    </figcaption>
@@ -41,21 +42,22 @@
  > Bron: [klimaateffectatlas: hittestress - gevoelstemperatuur](https://www.klimaateffectatlas.nl/nl/hittekaart-gevoelstemperatuur)
 
 "Welke invloed hebben weer en omgeving op de *gevoelstemperatuur*? Het weer bepaalt voor een deel de gevoelstemperatuur. Het weer is niet alleen de *luchttemperatuur*, maar ook de *zonnestraling*, *windsnelheid* en *luchtvochtigheid*. Hoe sterker bijvoorbeeld de straling van de zon en hoe minder wind, hoe hoger de gevoelstemperatuur. Ook de *omgeving* bepaalt voor een deel de gevoelstemperatuur. In de *schaduw* van *gebouwen* en *bomen* is de gevoelstemperatuur lager dan in de volle zon. *Planten* verkoelen de omgeving doordat ze water *verdampen*. Een omgeving met veel *straten* en gebouwen warmt juist meer op, doordat straten en gebouwen de warmte van de *zon vasthouden*. Daarnaast kunnen gebouwen verkoelende *wind blokkeren*. De gevoelstemperatuur in stedelijk gebied is dan ook vaak hoger dan in landelijk gebied."
- -*Kenmerken: Weer**
+ 
+ **Kenmerken: Weer**
  - Luchttemperatuur
  - Zonnestraling
  - Windsnelheid
  - Luchtvochtigheid
- -*Kenmerken: Omgeving**
+ 
+ **Kenmerken: Omgeving**
  - Schaduw
  - Gebouwen
  - Bomen
  - Planten
  - Straten
 
-<!-- <a> tag om <figure> heenbouwen om klikbare afbeelding te maken? -->
 <figure>
-   <a href="media/kea_gevoelstemperatuur.jpg" target="-blank">
+   <a href="media/kea_gevoelstemperatuur.jpg" target="_blank">
       <img src="media/kea_gevoelstemperatuur.jpg" alt="Infographic Stresstest">
    </a>
    <figcaption>Infographic Gevoelstemperatuur (Bron:
@@ -192,24 +194,27 @@ Deze eerste ruwe opzet is gebaseerd op het RIVM-rapport: *Ontwikkeling Standaard
 #### Informatiebehoefte KEA (kaartverhalen)
 
 <figure>
-   <img src="media/dpra_vitale_kwetsbare_functies_overzicht.jpg"
-      alt="Vitale Functies">
+   <a href="media/dpra_vitale_kwetsbare_functies_overzicht.jpg" target="_blank">
+      <img src="media/dpra_vitale_kwetsbare_functies_overzicht.jpg" alt="Vitale Functies">
+   </a>
    <figcaption>Overzicht vitale functies (Bron:
       <a href="https://klimaatadaptatienederland.nl/stresstest/bijsluiter/vitaal-kwetsbaar/" target="_blank">bijsluiter stresstest</a>)
    </figcaption>
 </figure>
 
 <figure>
-   <img src="media/kea_basiskaarten.jpg"
-      alt="basiskaarten">
+   <a href="media/kea_basiskaarten.jpg" target="_blank">
+      <img src="media/kea_basiskaarten.jpg" alt="basiskaarten">
+   </a>
    <figcaption>Basiskaarten (Bron:
       <a href="https://www.klimaateffectatlas.nl/nl/kaartverhalen" target="_blank">klimaateffectatlas (KEA)</a>)
    </figcaption>
 </figure>
 
 <figure>
-   <img src="media/kea_kaartverhalen.jpg"
-      alt="Kaartverhalen">
+   <a href="media/kea_kaartverhalen.jpg" target="_blank">
+      <img src="media/kea_kaartverhalen.jpg" alt="Kaartverhalen">
+   </a>
    <figcaption>Kaarverhalen (Bron:
       <a href="https://www.klimaateffectatlas.nl/nl/kaartverhalen" target="_blank">klimaateffectatlas (KEA)</a>)
    </figcaption>
