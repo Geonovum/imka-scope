@@ -71,6 +71,8 @@
 Onderstaande lijst bevat een eerste verzameling van informatiebronnen die gebruikt (kunnen) worden voor het onderwerp hitte.
 Deze eerste ruwe opzet is gebaseerd op het RIVM-rapport: *Ontwikkeling Standaard Stresstest Hitte*, hoofdstuk 4. 
 
+<aside class="issue">Onderstaande lijst verder aanvullen met bevindingen uit rapportage WUR (*Validatierapport Landelijke Hittekaart*)en het *bollenschema* </aside>
+
 #### Inventarisatie mogelijke informatie-objecten
 
 ##### Gebouwen
