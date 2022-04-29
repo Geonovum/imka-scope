@@ -71,26 +71,29 @@ O&M / IMMetingen is bedoeld voor het uitwisselen van allerlei (meta)informatie *
 NICTIZ is een organisatie die standaarden voor de zorg maakt. Het is een zeer omvangrijke set standaarden, wat het moeilijk maakt om tijdens een korte inventarisatie de relevantie te duiden. Er lijken echter wel raakvlakken te zijn, in het bijzonder de [Basisgegevensset Zorg](https://www.nictiz.nl/standaardisatie/informatiestandaarden/basisgegevensset-zorg-bgz/) waar allerlei aandoeningen die bij patiënten worden aangetroffen (bv *aandoening gerelateerd aan omgeving*, [*blootstelling aan hitte*](https://terminologie.nictiz.nl/art-decor/snomed-ct?conceptId=404684003), *zonnesteek*, veroorzaakt door *warmte*) en bevindingen die over patiënten worden gedaan, gedefinieerd worden.
 
 ### INSPIRE
-De relevantie van de diverse thema's moet nog bekeken worden, maar de volgende thema's zijn in ieder geval mogelijk interessant: 
+De relevantie van de diverse thema's moet nog bekeken worden. Voor een eerste snelle inventarisatie is gekeken naar de [INSPIRE aanmerkingsrapporten](https://www.geonovum.nl/geo-standaarden/inspire-europese-leefomgeving#Dataproviders) die Geonovum heeft gemaakt, omdat die een compact overzicht bieden.
+
+De volgende thema's zijn mogelijk interessant: 
 
 | Standaard | Inhoud | Relevantie |
 | --------- | ------ | ---------- |
-| Protected sites | | |
-| Land cover | | |
-| Agricultural and aquaculture facilities | | |
-| Atmospheric conditions | | |
-| Buildings | | |
-| Environmental monitoring Facilities | | |
-| Human health and safety | | |
-| Meteorological geographical features | | |
-| Natural risk zones | | |
+| Protected sites | gebieden die worden aangeduid of beheerd in het kader van internationale en communautaire wetgeving of wetgeving van de lidstaten om specifieke  doelstellingen op het vlak van milieubescherming te verwezenlijken. Hieronder vallen oa Natura 2000 gebieden, nationale parken, wetlands. | Mogelijk relevant |
+| Land cover | Fysiek voorkomen van het terrein, i.e. een niet-geïnterpreteerde vastlegging van de feitelijke bedekking van het grondgebied. Het gaat niet om het menselijk gebruik (dat is land use, een ander INSPIRE thema). De dataspecificaties zijn vrij algemeen gesteld. | Mogelijk wel relevant, maar land use wellicht relevanter. |
+| Agricultural and aquaculture facilities | informatie die gaat over landbouw, jacht en dienstverlening voor de landbouw en jacht; en visserij en kweken van vis en schaaldieren.| Mogelijk relevant |
+| Atmospheric conditions | Waarnemingen in de atmosfeer | Waarschijnlijk niet relevant |
+| Buildings | Gebouwen met typering naar soort gebouw en huidig gebruik. | Mogelijk relevant |
+| Environmental monitoring Facilities | betreft meet- en waarnemingsvoorzieningen, bv weerstations, grondwatermonitoringsputten. Het gaat niet om metingen of waarnemingen zelf. | Waarschijnlijk niet relevant |
+| Human health and safety |  drie subthema’s: Statistische gezondheidsdata, Gezondheid gerelateerde milieudata en Calamiteiten. | Mogelijk relevant, vooral het eerste subthema. |
+| Area management/restriction/regulation zones | gebieden die worden beheerd, gereguleerd of gebruikt voor rapportage op verschillende schaalniveaus (o.a. landelijk, lokaal, regionaal). Heel breed thema dat is afgebakend op gegevens gerelateerd aan milieubeheer. Mogelijk relevant in dit thema zijn bv plant health zones, animal health zones, forest management zones. | Mogelijk relevant |
+| Meteorological geographical features | Weersomstandigheden en de metingen daarvan | Mogelijk relevant |
+| Natural risk zones | Risicogebieden; onder andere gebieden met risico op natuurbranden, plagen, dierziekten, allergenen.  | Mogelijk relevant |
 | Population distribution and demography | | |
-| Species distribution | | |
-| Bio-geographical regions | | |
-| Habitats and biotopes | | |
-| Land use | | |
-| Soil | | |
-| Geology | | |
+| Species distribution | geografische verspreiding van dier- en plantsoorten | Mogelijk relevant |
+| Bio-geographical regions | beschrijving van gebieden (habitats) op basis van ecologische omstandigheden. | Mogelijk relevant |
+| Habitats and biotopes | ook een beschrijving van gebieden op basis van ecologische omstandigheden, maar dan veel specifieker uitgewerkt met ruimte voor gegevens over specifieke soorten. | Mogelijk relevant |
+| Land use | menselijk gebruik van het grondgebied, i.e. de functie waarvoor een terrein benut wordt. Opgesplitst in huidig en toekomstig landgebruik (dit laatste is ingevuld met ruimtelijke plannen). | Mogelijk relevant |
+| Soil | Gegevens over de ondiepe bodem. De samenstelling daarvan, grondwater, etc. | Mogelijk relevant |
+| Geology | Gegevens over de diepe ondergrond | Waarschijnlijk niet relevant |
 
 Ook mogelijk relevant - als O&M relevant is: 
 - [Guidelines for the use of Observations & Measurements and Sensor Web Enablement-related standards in INSPIRE](https://inspire.ec.europa.eu/id/document/tg/d2.9-o%26m-swe)
@@ -110,9 +113,9 @@ Ook mogelijk relevant - als O&M relevant is:
 ### Technische standaarden
 Standaarden over informatiemodellering e.d.
 
-- MIM: Metamodel informatiemodellering.
-- NEN 3610: basismodel geo-informatie. 
-- SKOS:	Linked data en begrippenlijsten, voor het begrippenkader.
+- **MIM**: Metamodel informatiemodellering. Relevant, IMKA zal conform MIM ontwikkeld worden.
+- **NEN 3610**: basismodel geo-informatie. Relevant, IMKA zal conform NEN 3610 ontwikkeld worden.
+- **SKOS**:	Linked data standaard voor begrippen en definities. Relevant; het IMKA begrippenkader zal conform SKOS ontwikkeld worden. 
 
 ### Andere relevante handreikingen e.d.
 
