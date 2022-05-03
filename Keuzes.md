@@ -172,15 +172,6 @@ Deze eerste ruwe opzet is gebaseerd op het RIVM-rapport: *Ontwikkeling Standaard
 </figure>
 
 <figure>
-   <a href="media/kea_basiskaarten.jpg" target="_blank">
-      <img src="media/kea_basiskaarten.jpg" alt="basiskaarten">
-   </a>
-   <figcaption>Basiskaarten (Bron:
-      <a href="https://www.klimaateffectatlas.nl/nl/kaartverhalen" target="_blank">klimaateffectatlas (KEA)</a>)
-   </figcaption>
-</figure>
-
-<figure>
    <a href="media/kea_kaartverhalen.jpg" target="_blank">
       <img src="media/kea_kaartverhalen.jpg" alt="Kaartverhalen">
    </a>
