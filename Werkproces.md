@@ -29,31 +29,34 @@ Voor het uitvoeren van de stresstesten biedt de klimaateffectatlas vier (typen) 
 
 <aside class="note">Verder uitwerken</aside>
 
-<strong>Uitwerking werkproces basiskaart Natuurlijke Systemen.</strong>
+<aside class="example">
 
-Hieronder staat kort beschreven hoe de Basiskaart Natuurlijk Systeem Nederland gegenereerd wordt. De kaart gaat gepaard met aanvullende informatie over elk legenda-element. Hiervoor worden de zowel de klimaatdreigingen als de adaptatiekansen schematisch weergegeven. 
+   <strong>Uitwerking werkproces basiskaart Natuurlijke Systemen.</strong>
 
-<strong>Analyse in vier stappen</strong>
+   Hieronder staat kort beschreven hoe de Basiskaart Natuurlijk Systeem Nederland gegenereerd wordt. De kaart gaat gepaard met aanvullende informatie over elk legenda-element. Hiervoor worden de zowel de klimaatdreigingen als de adaptatiekansen schematisch weergegeven. 
 
-<figure>
-   <a href="kea_basiskaart_nat_sys_proces.jpg" target="_blank">
-      <img src="kea_basiskaart_nat_sys_proces.jpg" alt="basiskaart natuurlijk systeem nederland">
-   </a>
-   <figcaption> Basiskaart Natuurlijke Systeem Nederland (Bron:
-      <a href="https://www.klimaateffectatlas.nl/nl/basiskaart-natuurlijk-systeem-nederland" target="_blank">klimaateffectatlas (KEA)</a>)
-   </figcaption>
-</figure>
+   <strong>Analyse in vier stappen</strong>
 
-Voorbeeld van een toepassing van die analyse
+   <figure>
+      <a href="media/kea_basiskaart_nat_sys_proces.jpg" target="_blank">
+         <img src="media/kea_basiskaart_nat_sys_proces.jpg" alt="basiskaart natuurlijk systeem nederland">
+      </a>
+      <figcaption> Basiskaart Natuurlijke Systeem Nederland (Bron:
+         <a href="https://www.klimaateffectatlas.nl/nl/basiskaart-natuurlijk-systeem-nederland" target="_blank">klimaateffectatlas (KEA)</a>)
+      </figcaption>
+   </figure>
 
-<figure>
-   <a href="kea_basiskaart_nat_sys_proces_ex.jpg" target="_blank">
-      <img src="kea_basiskaart_nat_sys_proces_ex.jpg" alt="basiskaart natuurlijk systeem nederland - voorbeeld">
-   </a>
-   <figcaption> Basiskaart Natuurlijke Systeem Nederland, voorbeeld: Rivierengebied (Bron:
-      <a href="https://www.klimaateffectatlas.nl/nl/basiskaart-natuurlijk-systeem-nederland" target="_blank">klimaateffectatlas (KEA)</a>)
-   </figcaption>
-</figure>
+   Voorbeeld van een toepassing van die analyse
+
+   <figure>
+      <a href="media/kea_basiskaart_nat_sys_proces_ex.jpg" target="_blank">
+         <img src="media/kea_basiskaart_nat_sys_proces_ex.jpg" alt="basiskaart natuurlijk systeem nederland - voorbeeld">
+      </a>
+      <figcaption> Basiskaart Natuurlijke Systeem Nederland, voorbeeld: Rivierengebied (Bron:
+         <a href="https://www.klimaateffectatlas.nl/nl/basiskaart-natuurlijk-systeem-nederland" target="_blank">klimaateffectatlas (KEA)</a>)
+      </figcaption>
+   </figure>
+</aside>
 
 ### Stresstest Hitte
 "Uit de stresstest volgt ruimtelijk inzicht in kwetsbaarheden, nog zonder waardeoordeel. Of de kwetsbaarheden daadwerkelijk een probleem vormen en of er maatregelen moeten worden genomen, wordt afgewogen tijdens de risicodialoog."
