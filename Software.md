@@ -15,7 +15,5 @@
 
 <aside class="issue">Nog uitzoeken of dit binnen de huidige scope valt. Wellicht eerst verstandig om te focussen op het uniformeren van de stresstesten</aside>
 
-### Klimaatadaptatieprocessen
-
 ### Opslag en verstrekking van klimaatadaptatiegegevens
 <aside class="note">Verder uitwerken: <i>Een belangrijke bron is de Klimaateffectatlas. De KEA biedt informatie aan vanuit verschillende views. Kaart. Kaartverhalen. Basiskaarten.</i>
