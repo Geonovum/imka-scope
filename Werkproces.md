@@ -58,6 +58,21 @@ Voor het uitvoeren van de stresstesten biedt de klimaateffectatlas vier (typen) 
    </figure>
 </aside>
 
+### KEA - Kaartverhalen | Hitte
+
+Naast kaarten met informatie, biedt de KEA ook 'kaartverhalen' aan. Hierin wordt in een combinatie van kaarten en lopende tekst een bepaald thema verder uitgewerkt. Eén van die thema's is 'Hitte'. 
+
+<figure>
+   <a href="media/kea_kaartverhalen.jpg" target="_blank">
+      <img src="media/kea_kaartverhalen.jpg" alt="Kaartverhalen">
+   </a>
+   <figcaption>Overzicht kaarverhalen (Bron:
+      <a href="https://www.klimaateffectatlas.nl/nl/kaartverhalen" target="_blank">klimaateffectatlas (KEA)</a>)
+   </figcaption>
+</figure>
+
+<aside class="note">Verder uitwerken</aside>
+
 ### Stresstest Hitte
 "Uit de stresstest volgt ruimtelijk inzicht in kwetsbaarheden, nog zonder waardeoordeel. Of de kwetsbaarheden daadwerkelijk een probleem vormen en of er maatregelen moeten worden genomen, wordt afgewogen tijdens de risicodialoog."
 
