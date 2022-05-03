@@ -158,7 +158,9 @@ Deze eerste ruwe opzet is gebaseerd op het RIVM-rapport: *Ontwikkeling Standaard
  - **Doel**: Plekken waar het zo heet is dat mensen gezondheidsklachten kunnen krijgen, en laat zien waar het ontbreekt aan plekken om verkoeling te vinden
  - **Bron**: Basiskaarten gevoelstemperatuur 
 
-> Nog geen plek in overzicht | **Methodiek**: (**a**) *Schaduwanalyses* om te bepalen wat de mogelijkheden zijn van schaduw voor het bieden van verkoeling (**b**) *Schaduw- en groenanalyses*  om te bepalen wat de mogelijkheden zijn van schaduw en groene oppervlakken voor het verkoelen van het netwerk.
+> Nog geen plek in overzicht | **Methodiek**: 
+> (**a**) *Schaduwanalyses* om te bepalen wat de mogelijkheden zijn van schaduw voor het bieden van verkoeling 
+> (**b**) *Schaduw- en groenanalyses*  om te bepalen wat de mogelijkheden zijn van schaduw en groene oppervlakken voor het verkoelen van het netwerk.
 
 #### Informatiebehoefte KEA (kaartverhalen)
 
