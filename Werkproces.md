@@ -91,7 +91,7 @@ Voor het uitvoeren van de stresstesten biedt de klimaateffectatlas vier (typen) 
       </figcaption>
    </figure>
 
-   Voorbeeld van een toepassing van die analyse
+   <strong>Voorbeeld van een toepassing van die analyse</strong>
 
    <figure>
       <a href="media/kea_basiskaart_nat_sys_proces_ex.jpg" target="_blank">
@@ -129,3 +129,19 @@ Voor het uitvoeren van de stresstesten biedt de klimaateffectatlas vier (typen) 
     * Welke factoren beïnvloeden de gevoeligheid voor gevolgen?
     * Wat zijn de niet-klimatologische factoren die de omvang van de gevolgen kunnen beïnvloeden (bijv. vergrijzing in een bepaalde wijk)
     * Zijn er al maatregelen genomen, of nog niet?
+
+<aside class='example'>
+Schets hoofdstukindeling
+├── Inleiding
+├── Doel
+├── Thema's
+├── Onderzoeksvragen
+├── Klimaateffectatlas
+│   ├── ...
+│   ├── ...
+├── Ketenprocessen
+│   ├── Monitoren klimaatadaptiviteit NL
+│   ├── Stresstesten
+│   │   ├── Hitte
+│   │   ├── ...
+</aside>
