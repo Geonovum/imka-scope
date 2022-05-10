@@ -95,6 +95,9 @@ div#remark
 /*-- Definitie voor gemarkeerde tekst. Alleen gebruiken in draft--------------------*/
 mark
 { 
- background-color: yellowgreen;
+ background-color: gold;
  font-weight: bold;
+ border-radius: 50px 20px;
+ padding-right: 20px;
+ padding-left: 20px;
 }
