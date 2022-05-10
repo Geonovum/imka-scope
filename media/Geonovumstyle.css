@@ -92,4 +92,9 @@ div#remark
   color: darkblue;
 }
 
-
+/*-- Definitie voor gemarkeerde tekst. Alleen gebruiken in draft--------------------*/
+mark
+{ 
+ background-color: yellowgreen;
+ font-weight: bold;
+}
