@@ -11,6 +11,24 @@
    Stresstest Hitte: https://klimaatadaptatienederland.nl/stresstest/bijsluiter/hitte/. Hier ook de link naar de rapporten met de gestandaardiseerde methode (RIVM rapport) en validatie (WUR rapport). Rapporten staan op Teams.
 </aside>
 
+<aside class='example'>
+Schets hoofdstukindeling
+```
+   ├── Inleiding
+   ├── Doel
+   ├── Thema's
+   ├── Onderzoeksvragen
+   ├── Klimaateffectatlas
+   │   ├── ...
+   │   ├── ...
+   ├── Ketenprocessen
+   │   ├── Monitoren klimaatadaptiviteit NL
+   │   ├── Stresstesten
+   │   │   ├── Hitte
+   │   │   ├── ...
+```
+</aside>
+
 ### Onderzoeksvragen
  - In welke ketenprocessen met betrekking op klimaatadaptatie, speelt de KEA een rol?
  - Hoe zien die processen eruit?
@@ -27,7 +45,7 @@
 Het informatiemodel klimaatadaptatie heeft de klimaateffectatlas (KEA) als vertrekpunt, maar beperkt zich niet uitsluitend hiertoe. De eerste versie van het informatiemodel klimaatadaptatie is gericht op het onderwerp _hitte_. De focus ligt in dit hoofdstuk daarom op dit onderwerp. Maar om goed antwoord te kunnen geven op bovenstaande onderzoeksvragen, bekijken we de KEA in dit hoofdstuk in een bredere context. Dit gebeurt mede omdat er een sterke samenhang is tussen te thema's en omdat de wens is om in een later stadium ook de andere thema's uit te werken in een informatiemodel.
 
 ### Doel
-Het belangrijkste doel is dat <mark>de datasets</mark> op landelijk niveau en op een uniforme manier in de KEA beschikbaar komen. Dit geeft <mark>wie</mark> een beeld waaruit blijkt hoe klimaatadaptief Nederland is. De atlas is niet alleen waardevol voor <mark>wie?</mark>, maar voor lokale en regionale overheden, bijvoorbeeld als startpunt voor de zesjaarlijkse klimaatstresstest <mark>link</mark>. Voor een landelijk overzicht van de klimaatadaptiviteit van Nederland, is het uniformeren van de uitkomsten van stresstesten op dit moment geen haalbare kaart. De stresstest is een lokaal instrument. Hiervoor kán een lokale overheid data uit de KEA gebruiken, maar het staat hen vrij alternatieve of aanvullende informatiebronnen te gebruiken. Daarom onderzoeken wij aanvullend samen met stakeholders welke data zij gebruiken of nodig hebben én kunnen leveren. 
+Het belangrijkste doel is dat <mark>de datasets?</mark> op landelijk niveau en op een uniforme manier in de KEA beschikbaar komen. Dit geeft <mark>wie?</mark> een beeld waaruit blijkt hoe klimaatadaptief Nederland is. De atlas is niet alleen waardevol voor <mark>wie?</mark>, maar voor lokale en regionale overheden, bijvoorbeeld als startpunt voor de zesjaarlijkse klimaatstresstest <mark>link?</mark>. Voor een landelijk overzicht van de klimaatadaptiviteit van Nederland, is het uniformeren van de uitkomsten van stresstesten op dit moment geen haalbare kaart. De stresstest is een lokaal instrument. Hiervoor kán een lokale overheid data uit de KEA gebruiken, maar het staat hen vrij alternatieve of aanvullende informatiebronnen te gebruiken. Daarom onderzoeken wij aanvullend samen met stakeholders welke data zij gebruiken of nodig hebben én kunnen leveren. 
 
 <aside class='note'>Ook nog iets zeggen over: onderwijsinstellingen, studenten, bedrijven en brugers</aside>
 
@@ -39,7 +57,7 @@ De KEA hanteert maakt onderscheid tussen vier thema's. Dit is dezelfde thematisc
  - Overstroming
 
 ### Onderzoeksvragen
-Deze thema's worden verder toegelicht binnen de kaartverhalen. <mark>...</mark> gaat hier kort wat verder op in. De KEA vult deze indeling aan met nog een thema: basiskaarten. Die lichten we kort toen in <mark>...</mark>. Dit hoofdstuk brengt in beeld welke werprocessen een raakvlak hebben met de KEA. Samengevat:
+Deze thema's worden verder toegelicht binnen de kaartverhalen. <mark>...?</mark> gaat hier kort wat verder op in. De KEA vult deze indeling aan met nog een thema: basiskaarten. Die lichten we kort toen in <mark>...?</mark>. Dit hoofdstuk brengt in beeld welke werprocessen een raakvlak hebben met de KEA. Samengevat:
  - In welke ketenprocessen speelt de KEA een rol?
  - Hoe zien die processen eruit? En wie zijn de betrokken stakeholders?
  - Welke bronnen worden er gebruikt of zijn er beschikbaar?
@@ -129,19 +147,3 @@ Voor het uitvoeren van de stresstesten biedt de klimaateffectatlas vier (typen) 
     * Welke factoren beïnvloeden de gevoeligheid voor gevolgen?
     * Wat zijn de niet-klimatologische factoren die de omvang van de gevolgen kunnen beïnvloeden (bijv. vergrijzing in een bepaalde wijk)
     * Zijn er al maatregelen genomen, of nog niet?
-
-<aside class='example'>
-Schets hoofdstukindeling
-├── Inleiding
-├── Doel
-├── Thema's
-├── Onderzoeksvragen
-├── Klimaateffectatlas
-│   ├── ...
-│   ├── ...
-├── Ketenprocessen
-│   ├── Monitoren klimaatadaptiviteit NL
-│   ├── Stresstesten
-│   │   ├── Hitte
-│   │   ├── ...
-</aside>
