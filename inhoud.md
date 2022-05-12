@@ -3,13 +3,10 @@
 _Beschrijving van het object en afhankelijkheden met andere objecten. Rationale, behoefte, en een eerste definitie van het onderwerp Klimaatadaptatie._
 
 
-### Klimaat
-Het klimaat verandert. De temperatuur op aarde stijgt. Dit komt door de toename van broeikasgassen in de lucht. Klimaatverandering heeft grote gevolgen voor mens, natuur en milieu. Daarom neemt Nederland - zelf en samen met andere landen - maatregelen om zich aan te passen aan de gevolgen van klimaatverandering (klimaatadaptatie; o.a. het Deltaprogramma en de Nationale Adaptatiestrategie) en om verdere klimaatverandering te beperken (klimaatmitigatie; o.a. het Klimaatakkoord). Deze maatregelen samen vormen het Nederlandse klimaatbeleid.
+### Klimaatadaptie
+Het klimaat verandert. De temperatuur op aarde stijgt. Dit komt door de toename van broeikasgassen in de lucht. Er is meer kans op een extreme regenbui, op een hittegolf en op langere, droge periodes. Door droogte daalt de bodem op sommige plekken in Nederland.
 
-In dit informatiemodel richten we ons op de  maatregelen om zich aan te passen aan de gevolgen van klimaatverandering, de klimaatadaptatie. 
-
-### Klimaatadapatie
-De aarde warmt op en het klimaat verandert. De temperaturen stijgen. Er is meer kans op een extreme regenbui, op een hittegolf en op langere, droge periodes. Door droogte daalt de bodem op sommige plekken in Nederland. De zeespiegel stijgt en er is meer kans op overstromingen. Klimaatverandering heeft grote gevolgen voor de gezondheid, de leefbaarheid en de economie.
+Klimaatverandering heeft grote gevolgen voor de gezondheid, de leefbaarheid en de economie. Daarom neemt Nederland, zelf en samen met andere landen, maatregelen om zich aan te passen aan de gevolgen van klimaatverandering (klimaatadaptatie) en om verdere klimaatverandering te beperken (klimaatmitigatie). Deze maatregelen samen vormen het Nederlandse klimaatbeleid.
 
 Nederland moet zich voorbereiden op de risico’s van het veranderende klimaat en hierop de omgeving aanpassen. Nederland heeft met vier klimaattrends te maken: 
 - het wordt warmer, 
@@ -17,7 +14,7 @@ Nederland moet zich voorbereiden op de risico’s van het veranderende klimaat e
 - het wordt natter 
 - en de zeespiegel stijgt.
 
-De 4 klimaattrends hangen samen, maar in dit informatiemodel richten we ons op een klimaattrend, namelijk het wordt warmer.
+De 4 klimaattrends hangen samen, maar in dit informatiemodel richten we ons op één klimaattrend, namelijk het onderdeel hitte: het wordt warmer.
 
 ### Hitte: het wordt warmer
 Door klimaatverandering stijgt de temperatuur en worden onze zomers warmer. Hitte is één van de thema’s van het Deltaprogramma Ruimtelijke adaptatie, naast droogte, wateroverlast en overstroming. Een bekend gevolg van hitte is hittestress, waar vooral ouderen en andere kwetsbare groepen erg ziek van kunnen worden. Maar ook onze infrastructuur, de beschikbaarheid en kwaliteit van ons drinkwater en verminderde arbeidsproductiviteit lijden onder extreme hitte.
