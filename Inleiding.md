@@ -9,6 +9,12 @@ Om een stap te zetten in de informatievoorziening rondom klimaatadaptatie voert 
 ### Doel
 Het doel is om de monitoring van klimaatadaptatie effectief en betekenisvol te kunnen uitvoeren en regionale data te kunnen koppelen tot een landelijk beeld. Het doel is in deze opdracht zicht krijgen op scope en omvang, en eerste stappen zetten met de realisatie van een informatiemodel voor het onderdeel hitte, waarbij een focus is op de  onderwerpen gezondheid, natuur en mobiliteit.
 
+### Resultaat
+- Voor u ligggende scopebeschrijving
+- Begrippenkader volgens SKOS standaard (MIM niveau 1)
+- Conceptueel informatiemodel (MIM niveau 2)
+
+*nog verwijzen naar: https://docs.geostandaarden.nl/mim/mim/#typering-van-modellen-en-wat-wel-en-niet-in-scope-is-van-deze-standaard voor de verschillende MIM niveaus's*
 
 ### Leeswijzer
 *nog aanvullen*
