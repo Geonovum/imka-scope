@@ -2,6 +2,8 @@
 
 *Globaal overzicht van (keten)werkproces(sen) waarin de data geproduceerd/gebruikt wordt.* 
 
+
+
 <aside class="note"><strong>Nog verder uitwerken:</strong><br>
    [Cool Towns Heat Stress Measurement Protocol](https://www.cooltowns.eu/nl/protocol/): een volledige Thermal Comfort Assessment (TCA) op straatniveau uit te voeren.
    Via https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/heat-stress-measurement-protocol/
