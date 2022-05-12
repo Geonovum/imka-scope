@@ -36,22 +36,22 @@ In 2013 heeft de Europese Commissie haar eerste Europese Strategie voor klimaata
 
 Op 24 februari 2021 heeft de Commissie een herziene [Europese Adaptatiestrategie](https://ec.europa.eu/clima/eu-action/adaptation-climate-change_en) aangenomen. Door voort te bouwen op de eerste strategie wil de Commissie lidstaten stimuleren om sneller adaptiemaatregelen te nemen en deze maatregelen op een grote schaal in te voeren.
 
-*nemen de onderstaande tekst hierop of in een ander deel; het betreft eigenlijk niet wet- en regelgeving*
+*vraag: nemen we de onderstaande tekst hierop of in een ander deel van het scopedocument; het betreft eigenlijk niet wet- en regelgeving*
 
-##### Gegevens en kennis
+**Gegevens en kennis**
 Gegevens over klimaatgerelateerde risico’s en verliezen zijn cruciaal voor een betere nauwkeurigheid van de klimaatrisicobeoordeling. Om “klimaatblinde” beslissingen te vermijden, moeten gegevens van zowel de particuliere als de publieke sector op een omvattende en geharmoniseerde wijze worden geregistreerd, verzameld en gedeeld. Dit zal opgepakt worden via een Risk Data Hub. 
 
-**Copernicus, EMODnet**
+*Copernicus, EMODnet*
 
 Alle gegevens van wetenschappelijke kerninitiatieven van de EU, zoals Copernicus en het Europees marien observatie- en datanetwerk (EMODnet) zijn vrij en openlijk beschikbaar voor alle gebruikers wereldwijd.
 
 
-**INSPIRE, Open data directive**
+*INSPIRE, Open data directive*
 
 De Commissie zal de toegang voor belanghebbenden tot gegevens over klimaatgerelateerde risico’s en verliezen vergemakkelijken. De evaluatie van de Inspire-richtlijn in 2021 als onderdeel van het initiatief “GreenData4All” biedt een gelegenheid om de wetgeving te herzien zodat gegevens over milieu- en klimaatgerelateerde verliezen na rampen zijn opgenomen en de reikwijdte van publieke toegang wordt uitgebreid. Gegevens over klimaatgerelateerde verliezen na rampen worden ook beschouwd als hoogwaardige datasets bij toekomstige herzieningen van de uitvoeringshandeling van de richtlijn inzake open data en de richtlijn inzake het hergebruik van overheidsinformatie. Evenzo zullen de gegevens die in publiek-private partnerschappen worden verzameld zo toegankelijk mogelijk worden gemaakt.
 
 
-**Climate-ADAPT**
+*Climate-ADAPT*
 
 De Europese commissie zal [Climate-ADAPT](https://climate-adapt.eea.europa.eu/) ontwikkelen tot toonaangevend Europees platform voor de aanpassing aan de klimaatverandering.
 Hier wordt volgende genoemd: 
