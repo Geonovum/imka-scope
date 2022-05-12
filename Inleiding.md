@@ -11,4 +11,4 @@ Het doel is om de monitoring van klimaatadaptatie effectief en betekenisvol te k
 
 
 ### Leeswijzer
-<aside class='note'><strong>nog aanvullen</strong></aside>
+*nog aanvullen*
