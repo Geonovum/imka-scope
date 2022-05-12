@@ -36,9 +36,11 @@ In 2013 heeft de Europese Commissie haar eerste Europese Strategie voor klimaata
 
 Op 24 februari 2021 heeft de Commissie een herziene [Europese Adaptatiestrategie](https://ec.europa.eu/clima/eu-action/adaptation-climate-change_en) aangenomen. Door voort te bouwen op de eerste strategie wil de Commissie lidstaten stimuleren om sneller adaptiemaatregelen te nemen en deze maatregelen op een grote schaal in te voeren.
 
+-----------
 *vraag: nemen we de onderstaande tekst hierop of in een ander deel van het scopedocument; het betreft eigenlijk niet wet- en regelgeving*
 
 **Gegevens en kennis**
+
 Gegevens over klimaatgerelateerde risico’s en verliezen zijn cruciaal voor een betere nauwkeurigheid van de klimaatrisicobeoordeling. Om “klimaatblinde” beslissingen te vermijden, moeten gegevens van zowel de particuliere als de publieke sector op een omvattende en geharmoniseerde wijze worden geregistreerd, verzameld en gedeeld. Dit zal opgepakt worden via een Risk Data Hub. 
 
 *Copernicus, EMODnet*
