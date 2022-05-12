@@ -1,7 +1,9 @@
-## Het ketenwerkproces voor onderdeel hitte
+## Het (keten)werkproces klimaatadaptatie
 
 
 *Globaal overzicht van (keten)werkproces(sen) waarin de data geproduceerd/gebruikt wordt.* 
+
+In dit hoofdstuk wordt het algemene werkproces rondom klimaatadaptatie beschreven. 
 
 ### Klimaatstresstesten 
 In het [Deltaplan Ruimtelijke Adaptatie (DPRA)](#deltaplan-ruimtelijke-adaptatie-dpra) is afgesproken dat heel Nederland in 2050 waterrobuust en klimaatbestendig is ingericht. Het Deltaplan gebruikt hiervoor zeven ambities, waarvan ‘kwetsbaarheden in beeld brengen’ er één is. Om die kwetsbaarheden in beeld te krijgen, moesten alle overheden uiterlijk in 2019 een klimaatstresstest uitvoeren. 
