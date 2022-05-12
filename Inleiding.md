@@ -14,7 +14,7 @@ Het doel is om de monitoring van klimaatadaptatie effectief en betekenisvol te k
 - Begrippenkader volgens SKOS standaard (MIM niveau 1)
 - Conceptueel informatiemodel (MIM niveau 2)
 
-*nog verwijzen naar: https://docs.geostandaarden.nl/mim/mim/#typering-van-modellen-en-wat-wel-en-niet-in-scope-is-van-deze-standaard voor de verschillende MIM niveaus's*
+*vraag: nog verwijzen naar: https://docs.geostandaarden.nl/mim/mim/#typering-van-modellen-en-wat-wel-en-niet-in-scope-is-van-deze-standaard voor de verschillende MIM niveaus's?;*
 
 ### Leeswijzer
 *nog aanvullen*
