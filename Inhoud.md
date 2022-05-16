@@ -1,4 +1,4 @@
-## Inhoud van het informatiemodel
+## Klimaatadaptie en de klimaattrend hitte
 
 _Beschrijving van het object en afhankelijkheden met andere objecten. Rationale, behoefte, en een eerste definitie van het onderwerp Klimaatadaptatie._
 
@@ -27,6 +27,7 @@ Uit de KNMI klimaatscenario’s (2014) blijkt dat niet alleen de gemiddelde temp
 
 In de afgelopen 130 jaar is het wereldwijd gemiddeld 1,0°C warmer geworden. Voor Nederland is dat zelfs nog meer, namelijk ruim 2 °C . Volgens de KNMI-klimaatscenario’s neemt de gemiddelde temperatuur in Nederland de komende jaren verder toe. In het meest extreme scenario zal de temperatuurstijging vanaf 1901 in Nederland in 2050 oplopen tot zo’n 3,5 °C en in 2085 zelfs tot 4,9 °C.
 
+
 **Hitte-eilandeffect**
 
 In de steden wordt het vaak warmer dan in het omliggende buitengebied doordat steden meer warmte vasthouden. Dit hitte-eilandeffect neemt verder toe doordat steden steeds meer verstenen. Het ‘hitte-eilandeffect’ wordt veroorzaakt door de volgende factoren:
@@ -37,7 +38,7 @@ In de steden wordt het vaak warmer dan in het omliggende buitengebied doordat st
 ‘s Nachts is het verschil in temperatuur tussen de stad en het omliggende buitengebied het grootst. Dit komt doordat de stad na zonsondergang langzamer afkoelt dan het buitengebied. Het temperatuurverschil kan oplopen tot meer dan 7 graden. De sterkte van het hitte-eilandeffect in een stad hangt vooral af van de hoeveelheid bebouwing, verharding en groen van het oppervlak. Verder speelt mee wat de verhouding is tussen gebouwhoogte en straatbreedte, en hoeveel warmte gebouwen en andere oppervlakken uitstralen naar de atmosfeer. Wat ook invloed heeft is in hoeverre een gebied open is zodat er wind doorheen kan waaien. De inrichting van een straat of wijk heeft dus invloed op de lokale temperatuur. De ene wijk veroorzaakt een sterker hitte-eilandeffect dan de andere.
 
 
-#### Gevolgen van hitte
+#### Gevolgen en maatregelen van hitte
 De gevolgen van de toenemende hitte zijn heel divers. Hitte kan leiden tot gezondheidsproblemen en extra sterfte onder kwetsbare groepen, maar bijvoorbeeld ook tot verminderde arbeidsproductiviteit en schade aan infrastructuur. 
 
 De gevolgen zijn te herleiden naar drie domeinen van hitte: 
@@ -45,17 +46,23 @@ De gevolgen zijn te herleiden naar drie domeinen van hitte:
 - Gebouw: gevolgen voor woningen
 - Gezondheid: gevolgen voor de gezondheid
 
-Of de gevolgen op verschillende sectoren: 
-- Waterhuishouding
-- **Natuur**
-- Landbouw, tuinbouw, visserij
-- **Gezondheid**
-- Recreatie en toerisme
-- **Infrastructuur**
-- Energie
-- ICT en telecom
-- Veiligheid
-- Gebouwde omgeving en ruimtelijke ordening
+In dit scopedocument richten we ons op gebied en gezondheid.
 
-*welke optie kiezen we: domeinen of sectoren; of plaatsen we de sectoren onder de domeinen; afh. van de keuze dit nog verder uitwerken, inclusief maatregelen*
+**Gebied**
+Met gebied wordt de openbare en particuliere gebieden bedoeld. Daaronder vallen de tuinen van de woningen, de gebieden om te recreëren of verkoeling te zoeken en ook de natuur. Maar ook de versteende gebieden, zoals fietspaden en wegen, terrassen, pleinen vallen er onder. Hitteproblemen treden vooral op in versteende gebieden. Eén van de oplossingen om hitte te beperken is de omgeving vergroenen. Groen werkt verkoelend doordat het schaduw biedt en water verdampt. 
+
+In dit soopedocument richten we ons op de sectoren natuur en infrastructuur. 
+
+**Gezondheid**
+Gezondheidsklachten door hitte heet hittestress. Milde klachten van extreme temperaturen of aanhoudende hitte zijn bijvoorbeeld concentratieproblemen, hoofdpijn of vermoeidheid. Maar de gevolgen kunnen ook ernstiger zijn namelijk overlijden door hittestress, vooral bij ouderen en kwetsbare mensen komt dit voor. 
+
+Maatregelen zijn zeer divers zoals voldoende drinken of de verkoeling opzoeken. Het Nationaal Hitteplan  richt zich op de gezondheid van mensen die kwetsbaar zijn voor hitte. Daarnaast ontwikkelen lagere overheden lokale hitteplannen. In de lokale hitteplannen neemt het naast de kwetsbaren ook de andere twee relevante domeinen mee: de woningen en de leefomgeving.
+
+
+
+Om de gevolgen en maatregelen van hitte te bepalen zijn verschillende tools/hulpmiddelen beschikbaar. Deze worden beschreven in het hoofdstuk [Tools/hulpmiddelen](tools).
+
+
+
+
 
