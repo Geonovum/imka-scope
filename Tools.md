@@ -1,19 +1,58 @@
-## Overzicht van bestaande systemen
-*Overzicht van bestaande softwaresystemen voor klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
+## Tools en hulpmiddelen 
+*Overzicht van bestaande tools en hulpmiddelen voor klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
 
-### Bestaande Softwaresystemen
+Zie ook https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/?zoeken=true&zoeken_term=&zoeken_trefwoord=&zoeken_trefwoord=17073&zoeken_trefwoord=.
 
-<aside class="issue">Nog uitzoeken</aside>
+### Klimaateffectatlas
+- kaartverhalen
+- basisinformatie
 
-<aside class="note">Nog uitwerken</aside>
+*nog uitwerken*
 
-### Klimaatadaptatieprocessen
+### NAS-bollenschema ‘Het wordt warmer’
+*nog uitwerken*
 
-<aside class="issue">Nog uitzoeken of dit binnen de huidige scope valt. Wellicht eerst verstandig om te focussen op het uniformeren van de stresstesten</aside>
 
-### Klimaatadaptatie-monitoring
+### Mindmap 'Hitte in de stad' (HvA)
+*nog uitwerken*
 
-<aside class="issue">Nog uitzoeken of dit binnen de huidige scope valt. Wellicht eerst verstandig om te focussen op het uniformeren van de stresstesten</aside>
+### Bijsluiter gestandaardiseerde stresstest, onderdeel hitte
+- Standaard hittestresskaart: Gevoelstemperatuur (physiological equivalent temperatuur - PET)
+- Leidraad stresstest hitte
+- Cultuurhistorie als kennisbron voor stresstest
 
-### Opslag en verstrekking van klimaatadaptatiegegevens
-<aside class="note">Verder uitwerken: <i>Een belangrijke bron is de Klimaateffectatlas. De KEA biedt informatie aan vanuit verschillende views. Kaart. Kaartverhalen. Basiskaarten.</i>
+*nog uitwerken*
+
+### Cool Towns Heat Stress Measurement Protocol
+(HvA)
+
+*nog uitwerken?*
+
+
+### EfFact checker
+(HvA)
+*nog uitwerken?*
+
+### Hittestresstool
+(Nelen & Schuurmans)
+*nog uitwerken?*
+
+### Tools kosten en/of effecten van hittemaatregelen
+- Klimaatschadeschatter
+- Klimaatmonitor
+
+*nog uitwerken?*
+
+
+--------------------
+*Vragen:*
+
+*Vraag 1: welke tools zijn belangrijk om uit te werken*
+
+*Vraag 2: tools nog onderverdelen naar onderstaande indeling:*
+- Bestaande Softwaresystemen
+- Klimaatadaptatieprocessen
+- klimaatadaptatie-monitoring
+- opslag en verstrekking van klimaatadaptatiegegevens
+
+*Vraag 3: kennis gegegevens EU hier nog opnemen?*
