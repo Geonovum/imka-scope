@@ -60,7 +60,7 @@ Maatregelen zijn zeer divers zoals voldoende drinken of de verkoeling opzoeken. 
 
 
 
-Om de gevolgen en maatregelen van hitte te bepalen zijn verschillende tools/hulpmiddelen beschikbaar. Deze worden beschreven in het hoofdstuk [Tools/hulpmiddelen](tools).
+Om de gevolgen en maatregelen van hitte te bepalen zijn verschillende tools/hulpmiddelen beschikbaar. Deze worden beschreven in het hoofdstuk [Tools/hulpmiddelen](#tools).
 
 
 
