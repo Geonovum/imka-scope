@@ -12,7 +12,7 @@ De Klimaateffectatlas (KEA) is gebaseerd op landelijke gegevens en geeft een eer
 
 De atlas bestaat uit kaartverhalen en een kaartviewer met basisinformatie.
 
-### Kaartverhalen
+#### Kaartverhalen
 De kaartverhalen geven achtergrondinformatie bij de belangrijkste kaarten. Ze vertellen wat op de kaarten te zien is en helpen om met de informatie aan de slag te gaan. Daarnaast bieden de kaartverhalen handvatten voor mogelijke oplossingsrichtingen. Eén van kaartverhalen is 'Hitte'. 
 
 <figure>
@@ -36,7 +36,7 @@ Voor hitte zijn de volgende kaartverhalen uitgewerkt:
 <aside class="note">Verder uitwerken</aside>
 
 
-### Basiskaarten
+#### Basiskaarten
 Voor het uitvoeren van de stresstesten biedt de klimaateffectatlas vier (typen) basiskaarten aan. Overheidsorganen die verplicht zijn de zesjaarlijkse stresstest uit te voeren, kunnen deze informatie gebruiken als vertrekpunt voor het uitvoeren van de test.
 
 <figure>
