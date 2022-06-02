@@ -8,7 +8,7 @@ In dit hoofdstuk wordt het algemene werkproces rondom klimaatadaptatie beschreve
 ### Klimaatstresstesten 
 In het [Deltaplan Ruimtelijke Adaptatie (DPRA)](#deltaplan-ruimtelijke-adaptatie-dpra) is afgesproken dat heel Nederland in 2050 waterrobuust en klimaatbestendig is ingericht. Het Deltaplan gebruikt hiervoor zeven ambities, waarvan ‘kwetsbaarheden in beeld brengen’ er één is. Om die kwetsbaarheden in beeld te krijgen, moesten alle overheden uiterlijk in 2019 een klimaatstresstest uitvoeren. 
 
-In een klimaatstresstest wordt geïdentificeerd wat de mogelijke kwetsbaarheden zijn binnen een gebied. Er wordt daarvoor een test gedaan voor de vier klimaattrends: wateroverlast, hitte, droogte en overstroming. De test bestaat in de kern uit:
+In een klimaatstresstest wordt geïdentificeerd wat de mogelijke kwetsbaarheden zijn binnen een gebied. Er wordt daarvoor een test gedaan voor de vier klimaatrisico's: wateroverlast, hitte, droogte en overstroming. De test bestaat in de kern uit:
 - het verzamelen en creëren van informatie die beschrijft welke effecten klimaatverandering (de ‘stress’ die op het systeem wordt gezet) in de toekomst kan hebben, 
 - en uit het combineren van deze informatie met verzamelde gegevens over de gevoeligheid van objecten en functies voor deze effecten. 
 Om te bepalen waar en wanneer welke knelpunten hierdoor kunnen ontstaan, onder verschillende mogelijke klimaatontwikkelingen.
@@ -22,7 +22,7 @@ Een belangrijk hulpmiddel om een stresstest uit te voeren is de **Klimaateffecta
 
 Overheden zijn vrij om zelf te bepalen hoe ze een stresstest uitvoeren. Om ze te ondersteunen heeft het [Deltaprogramma Ruimtelijke Adaptatie (DPRA)](#deltaplan-ruimtelijke-adaptatie-dpra) samen met een groot aantal partijen de *Bijsluiter voor de gestandaardiseerde stresstest* ontwikkeld. Daarin staat hoe een stresstest uitgevoerd kan worden. De bijsluiter is een bundeling van aanwijzingen voor het uitvoeren van de stresstest en helpt bij het interpreteren en toepassen van uitkomsten. Daarnaast wijst de bijsluiter op de keuzes die gemaakt moeten worden en helpt het bij het maken van deze keuzes. 
 
-Per klimaattrend is een bijsluiter ontwikkeld met specifieke aanwijzingen die passen bij het kenmerk van het trend, aanwijzingen over de informatie die beschikbaar is en over de gebruikersbehoeften. Verder geeft de bijsluiter adviezen voor het gebruik van de uitkomsten van de stresstest. De bijsluiter voor de klimaattrend hitte staat beschreven in het hoofdstuk [Tools/hulpmiddelen](#tools). 
+Per klimaatrisico is een bijsluiter ontwikkeld met specifieke aanwijzingen die passen bij het kenmerk van de risico, aanwijzingen over de informatie die beschikbaar is en over de gebruikersbehoeften. Verder geeft de bijsluiter adviezen voor het gebruik van de uitkomsten van de stresstest. De bijsluiter voor hitte staat beschreven in het hoofdstuk [Tools/hulpmiddelen](#tools). 
 
 
 ### Risicodialogen
@@ -30,7 +30,7 @@ Door de klimaatstresstesten komen de kwetsbaarheden in een gebied in beeld, maar
 
 De risicodialoog is één van de zeven ambities uit het [Deltaplan Ruimtelijke adaptatie](##deltaplan-ruimtelijke-adaptatie-dpra). Het is de stap tussen de stresstest en het maken van een uitvoeringsprogramma voor klimaatadaptatie. 
 
-Het procesverloop van de risicodialoog ligt niet vast. Er zijn verschillende routes mogelijk. Maar meestal zal in wisselwerking met de stresstest een ‘van grof-naar-fijn-aanpak’ worden gevolgd. Daarbij wordt eerst, als voorbereiding op de dialoog, voor de vier klimaattrends een verkennende stresstest uitgevoerd met gebruik van landelijk of regionaal beschikbare basisinformatie. De resultaten hiervan zijn voeding voor de dialoog. Daar kan worden besloten dat meer informatie of meer detail nodig is. Er volgt dan een stap waarin informatie op maat wordt gecreëerd. Ook de resultaten hiervan gaan naar de dialoog. Maar het kan ook voorkomen dat eerst een risicodialoog plaatsvindt, nog voordat er een stresstest is uitgevoerd, bijvoorbeeld na een calamiteit door extreem weer.
+Het procesverloop van de risicodialoog ligt niet vast. Er zijn verschillende routes mogelijk. Maar meestal zal in wisselwerking met de stresstest een ‘van grof-naar-fijn-aanpak’ worden gevolgd. Daarbij wordt eerst, als voorbereiding op de dialoog, voor de vier klimaatrisico's een verkennende stresstest uitgevoerd met gebruik van landelijk of regionaal beschikbare basisinformatie. De resultaten hiervan zijn voeding voor de dialoog. Daar kan worden besloten dat meer informatie of meer detail nodig is. Er volgt dan een stap waarin informatie op maat wordt gecreëerd. Ook de resultaten hiervan gaan naar de dialoog. Maar het kan ook voorkomen dat eerst een risicodialoog plaatsvindt, nog voordat er een stresstest is uitgevoerd, bijvoorbeeld na een calamiteit door extreem weer.
 
 "De stappen in de stresstest en de wisselwerking tussen stresstest en risicodialoog zijn verbeeld in onderstaande infographic:"
 
@@ -56,7 +56,9 @@ Het maatregelpakket draagt bij aan het verminderen van de kwetsbaarheid van gebi
 ### Monitoring
 Monitoring van klimaatadaptatie is het systematisch volgen en bijhouden van adaptatieontwikkelingen over een langere periode. Verschillende ontwikkelingen kunnen gemonitord worden, bijvoorbeeld van het adaptatiebeleid tot de werking van uitgevoerde maatregelen. Het PBL heeft in 2021 een [scopingstudie](https://www.pbl.nl/publicaties/navigeren-naar-een-klimaatbestendig-nederland) gepubliceerd om de uitvoering van het beleid voor de aanpassing aan klimaatverandering op kortere en langere termijn te monitoren. Het PBL schetst drie monitoringsvarianten. De varianten maken het mogelijk om in de gaten te houden hoe de klimaatimpacts en -risico’s zich ontwikkelen en hoe de uitvoering van het adaptatiebeleid verloopt: zijn het beleid en de maatregelen effectief? Komen de gestelde doelen binnen bereik? Waar en hoe moet er worden bijgestuurd?
 
-Op basis van dit rapport is gekozen voor de eerste variant die zich richt op de **herijking van de klimaatimpacts en -risico's** tot 2026. Het betekent het uitwerken en invullen van een nieuwe monitor klimaatimpacts en -risico’s voor 13 beleidsvelden (samen te vatten als economisch, persoonsgebonden/maatschappelijk, cultuurhistorisch en leefomgeving).
+Op basis van dit rapport is gekozen voor de eerste variant die zich richt op de **herijking van de klimaatimpacts en -risico's** tot 2026. In de herijking worden de klimaatimpacts en -risico’s voor 13 beleidsvelden (samen te vatten als economisch, persoonsgebonden/maatschappelijk, cultuurhistorisch en leefomgeving) uitgewerkt. Het PBL coördineert de herijking. Welke indicatoren voor de 13 beleidsvelden worden gehanteerd, is op dit moment nog niet precies bekend. Mogelijke indicatoren voor hitte zijn: oversterfte door hitte (CBS), schade door hitte en misschien hoeveel gemeenten een lokaal hitteplan hebben opgesteld. 
+
+De effectiviteit van de maatregelen, die in kader van klimaatadaptatie worden genomen, worden in deze herijking niet worden gemonitord.
 
 <figure>
    <a href="media/pbl_klimaatimpact_risico_maatsch_opgave.png" target="_blank">
@@ -68,8 +70,6 @@ Op basis van dit rapport is gekozen voor de eerste variant die zich richt op de 
 </figure>
 
 
-
-*nog verder uitwerken na gesprek PBL*
 
 
  
