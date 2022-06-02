@@ -49,9 +49,8 @@ Met het afronden van de risicodialoog komen de belanghebbenden in het gebied tot
 
 
 #### Impulsregeling klimaatadaptatie
-Gemeenten, provincies en waterschappen kunnen via de Impulsregeling klimaatadaptatie een bijdrage van het Rijk krijgen voor klimaatadaptatiemaatregelen. Het bedrag kan gebruikt worden om adaptatiemaatregelen versneld uit te voeren, om al geplande ruimtelijke maatregelen uit te breiden met adaptatiemaatregelen, of om nieuwe adaptatiemaatregelen op te pakken. 
+Gemeenten, provincies en waterschappen kunnen via de Impulsregeling klimaatadaptatie een bijdrage van het Rijk krijgen voor klimaatadaptatiemaatregelen. Het maatregelpakket moet echter bijdragen aan het verminderen van de kwetsbaarheid van gebieden voor wateroverlast, droogte of de gevolgen van overstromingen. Hitte gerelateerde problematiek is hier geen onderdeel van. 
 
-Het maatregelpakket draagt bij aan het verminderen van de kwetsbaarheid van gebieden voor wateroverlast, droogte of de gevolgen van overstromingen. Hitte gerelateerde problematiek is hier geen onderdeel van. 
 
 ### Monitoring
 Monitoring van klimaatadaptatie is het systematisch volgen en bijhouden van adaptatieontwikkelingen over een langere periode. Verschillende ontwikkelingen kunnen gemonitord worden, bijvoorbeeld van het adaptatiebeleid tot de werking van uitgevoerde maatregelen. Het PBL heeft in 2021 een [scopingstudie](https://www.pbl.nl/publicaties/navigeren-naar-een-klimaatbestendig-nederland) gepubliceerd om de uitvoering van het beleid voor de aanpassing aan klimaatverandering op kortere en langere termijn te monitoren. Het PBL schetst drie monitoringsvarianten. De varianten maken het mogelijk om in de gaten te houden hoe de klimaatimpacts en -risico’s zich ontwikkelen en hoe de uitvoering van het adaptatiebeleid verloopt: zijn het beleid en de maatregelen effectief? Komen de gestelde doelen binnen bereik? Waar en hoe moet er worden bijgestuurd?
