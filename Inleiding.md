@@ -9,7 +9,7 @@ Om monitoring van klimaatadaptatie effectief en betekenisvol te kunnen uitvoeren
 ### Resultaat
 In de voor u liggende document beschrijft deze verkenning voor het onderdeel hitte en dan specifiek rondom de onderwerpen gezondheid, natuur en mobiliteit. Uitgangspunt voor het onderdeel hitte is het nationale aanpak voor klimaatadaptatie, zoals beschreven in de Nationale klimaatadaptiestrategie (NAS) en het Deltaplan Ruimtelijke adaptatie (DPRA), onderdeel van het nationaal Deltaprogramma. 
 
-De verkenning is middels desk-research en interviews met de stakeholders uitgevoerd. Hitte is echter een complex speelveld en de verkenning is verre van volledig. De verkenning is met name gericht op de volgende aspecten: 
+De verkenning is uitgevoerd middels desk-research en interviews met de stakeholders. Hitte is echter een complex speelveld en de verkenning beoogt dan ook niet volledig te zijn. De verkenning richt zich met name op de volgende aspecten: 
 -	Wat is de behoefte aan informatie rondom klimaatadaptatie, specifiek voor hitte en voor welk doel?
 -	Wat zijn de knelpunten en de verbeterpunten in de informatievoorziening rondom hitte?
 -	Wat zijn de oplossingen? Is dit een begrippenkader en/of een informatiemodel. En waarvoor?
