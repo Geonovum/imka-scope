@@ -68,7 +68,12 @@ De effectiviteit van de maatregelen, die in kader van klimaatadaptatie worden ge
    </figcaption>
 </figure>
 
+#### Monitoren van de (cascade-)effecten van maatregelen
+*onderstaande nog verder uitwerken*
+Niet alleen effect van maatregel, ingewikkeler; ook andere aspecten. 
 
+Voor monitoringdoeleinden is het zinvol dan wel noodzakelijk inzicht te hebben in oorzaak-gevolg. Pas dan is het mogelijk maatregelen te treffen én de effectiviteit van maatregelen te monitoren. In dit geval gaat het om effecten van klimaatverandering, waardoor klimaatadaptieve maatregelen nodig zijn. Of die effectief zijn is dan het monitoringvraagstuk.
 
+In het geval van hitte zijn er vaak vervolgeffecten en cascade-effecten: van het één komt het ander. Dit inzicht is nog onvolledig. De NAS-bollenschema’s geeft een aanzet hiertoe. Door sommigen worden deze als volledig gezien, maar door anderen als niet heel praktisch. De bollenschema's zijn agenderend bedoeld, niet om een relatie-effect-keten te beschrijven.
 
- 
+Cascade-effecten zijn lastig te kwantificeren en zeker als het gaat om het beoordelen van maatregelen, want hoe is immers het effect van een maatregel in een oorzaak-effect-keten te herleiden? Er zijn immers veel factoren van invloed. Uit de verkenning blijkt dat er nog weinig bekend is over relaties tussen effecten, zowel kwalitatief als kwantitatief, maar dat er wel behoefte  aan is deze te kennen. 
