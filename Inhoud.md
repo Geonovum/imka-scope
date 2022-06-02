@@ -44,7 +44,7 @@ Voor de natuur geldt dat deze kan worden ingezet als maatregel (vergroenen), maa
 uitsterven van soorten.
 
 #### Gebouw
-Veel woningen in Nederland zijn zo gebouwd dat ze zoveel mogelijk zon binnenlaten. In de zomer kunnen de woningen daardoor te heet worden. Ook het isoleren van de woning om energie te besparen, zorgt er in de zomer soms voor de hitte de woning niet meer kan verlaten. Vergroenen helpt vaak om de directe omgeving van een woning en ook de woning zelf te verkoelen. Daarnaast kun je denken aan ventileren met ramen of deuren, buitenzonwering, witte muren en daken of airco's. Of deze maatregelen worden genomen, hangt met name af van het gedrag van de gebruiker.
+Veel woningen in Nederland zijn zo gebouwd dat ze zoveel mogelijk zon binnenlaten. In de zomer kunnen de woningen daardoor te heet worden. Ook het isoleren van de woning om energie te besparen, zorgt er in de zomer soms voor de hitte de woning niet meer kan verlaten. Vergroenen van de tuin of platte dak helpt vaak om de directe omgeving van een woning en ook de woning zelf te verkoelen. Daarnaast kun je denken aan ventileren met ramen of deuren, buitenzonwering, witte muren en daken of airco's. Of deze maatregelen worden genomen, hangt met name af van het gedrag van de gebruiker.
 
 #### Gebruiker
 Bij de gebruiker staat de gevolgen voor de gezondheid centraal. Gezondheidsklachten door hitte heet hittestress. Milde klachten van extreme temperaturen of aanhoudende hitte zijn bijvoorbeeld concentratieproblemen, hoofdpijn of vermoeidheid. Maar de gevolgen kunnen ook ernstiger zijn namelijk overlijden door hittestress, vooral bij ouderen en kwetsbare mensen komt dit voor. 
