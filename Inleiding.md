@@ -1,20 +1,20 @@
 ## Inleiding
-Het klimaat verandert. Nederland krijgt steeds meer te maken met extreem weer zoals hitte en droogte, maar ook met wateroverlast. Het ministerie van IenW werkt daarom aan een klimaatbestendig Nederland. Om de monitoring van klimaatadaptatie effectief en betekenisvol te kunnen uitvoeren en regionale data te kunnen koppelen tot een landelijk beeld, heeft het ministerie initiatief genomen tot het opstellen van een informatiemodel klimaatadaptatie. Aangezien het onderwerp klimaatadaptatie breed is qua scope, wordt gestart met een beperkte scope, namelijk alleen het onderdeel hitte. 
+Het klimaat verandert. De temperatuur op aarde stijgt. Nederland krijgt steeds meer te maken met extreem weer zoals hitte en droogte, maar ook met wateroverlast en overstromingen. Klimaatverandering heeft grote gevolgen voor mens, natuur en milieu. Daarom neemt Nederland maatregelen om zich aan te passen aan de gevolgen van klimaatverandering (klimaatadaptatie) en om verdere klimaatverandering te beperken o.a. door de vermindering van de uitstoot van broeikasgassen (klimaatmitigatie). 
 
-En hoe klimaatbestendig wordt Nederland op het gebied van hitte?
-
-Om die vraag te kunnen beantwoorden is informatie nodig. Om monitoring van klimaatadaptatie effectief en betekenisvol te kunnen uitvoeren en regionale data te kunnen koppelen tot een landelijk beeld is het nodig dat dezelfde ‘taal’ wordt gesproken en dat gegevens uitwisselbaar zijn.
-Om een stap te zetten in de informatievoorziening rondom klimaatadaptatie voert Geonovum hiervoor in opdracht van het ministerie van Infrastructuur en Waterstaat een opdracht uit. 
+Het ministerie van Infrastructuur en Waterstaat (IenW) wil haar informatievoorziening met betrekking tot klimaatadaptatie stroomlijnen, en heeft het initiatief genomen tot het opstellen van een begrippenkader en informatiemodel klimaatadaptatie. IenW heeft aan Geonovum gevraagd hierin ondersteuning te bieden. 
 
 ### Doel
-Het doel is om de monitoring van klimaatadaptatie effectief en betekenisvol te kunnen uitvoeren en regionale data te kunnen koppelen tot een landelijk beeld. Het doel is in deze opdracht zicht krijgen op scope en omvang, en eerste stappen zetten met de realisatie van een informatiemodel voor het onderdeel hitte, waarbij een focus is op de  onderwerpen gezondheid, natuur en mobiliteit.
+Om monitoring van klimaatadaptatie effectief en betekenisvol te kunnen uitvoeren en regionale data te kunnen koppelen tot een landelijk beeld is het nodig dat dezelfde ‘taal’ wordt gesproken en dat gegevens uitwisselbaar zijn. Aangezien klimaatadaptatie een zeer brede reikwijdte heeft, wil IenW eerst zicht krijgen op de scope en omvang voor het onderdeel hitte en dan specifiek rondom de onderwerpen gezondheid, natuur en mobiliteit. De verkenning voor het onderdeel hitte moet leiden tot een duidelijke scope voor het op te stellen begrippenkader en informatiemodel.
 
 ### Resultaat
-- Voor u ligggende scopebeschrijving
-- Begrippenkader volgens SKOS standaard (MIM niveau 1)
-- Conceptueel informatiemodel (MIM niveau 2)
+In de voor u liggende document beschrijft deze verkenning voor het onderdeel hitte en dan specifiek rondom de onderwerpen gezondheid, natuur en mobiliteit. Uitgangspunt voor het onderdeel hitte is het nationale aanpak voor klimaatadaptatie, zoals beschreven in de Nationale klimaatadaptiestrategie (NAS) en het Deltaplan Ruimtelijke adaptatie (DPRA), onderdeel van het nationaal Deltaprogramma. 
 
-*vraag: nog verwijzen naar: https://docs.geostandaarden.nl/mim/mim/#typering-van-modellen-en-wat-wel-en-niet-in-scope-is-van-deze-standaard voor de verschillende MIM niveaus's?;*
+De verkenning is middels desk-research en interviews met de stakeholders uitgevoerd. Hitte is echter een complex speelveld en de verkenning is verre van volledig. De verkenning is met name gericht op de volgende aspecten: 
+-	Wat is de behoefte aan informatie rondom klimaatadaptatie, specifiek voor hitte en voor welk doel?
+-	Wat zijn de knelpunten en de verbeterpunten in de informatievoorziening rondom hitte?
+-	Wat zijn de oplossingen? Is dit een begrippenkader en/of een informatiemodel. En waarvoor?
+
 
 ### Leeswijzer
-*nog aanvullen*
+Dit  document  begint  met  een  inleiding  waarin  de  achtergrond  en  aanleiding  van  deze verkenning  wordt toegelicht. In hoofdstuk twee wordt klimaatadaptatie en het onderdeel hitte nader toegelicht. In  hoofdstuk  drie wordt het wettelijk kader beschreven en in hoofdstuk vier het werkproces rondom klimaatadaptie. In hoofdstuk 5 komen de stakeholders aanbod en hun rol/belang in het werkproces. In hoofdstuk 6 worden de belangrijkste tools en gegevens beschreven. De relevante standaarden worden beschreven in hoodstuk 7. Tot slot worden in het laatste twee hoofdstukken de inhoudelijke keuzes op hoofdlijnen beschreven en de mogelijk aanpak voor het vervolg.
+
