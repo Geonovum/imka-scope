@@ -60,12 +60,11 @@ In de Mindmap Hitte zijn de problemen van extreme hitte verdeeld in vijf thema�
    </figcaption>
 </figure>
 
-De mindmap wordt gebruikt in de leidraad stresstest hitte die in de volgende paragraaf wordt beschreven.
+De mindmap wordt gebruikt in de bijsluiter gestandaardiseerde stresstest hitte die in de volgende paragraaf wordt beschreven.
 
 
-
-
-#### Bijsluiter gestandaardiseerde stresstest, onderdeel hitte
+#### Bijsluiter gestandaardiseerde stresstest hitte
+<aside class="note">Verder uitwerken</aside>
 - Algemeen
 - Standaard hittestresskaart: Gevoelstemperatuur (physiological equivalent temperatuur - PET)
 - Leidraad stresstest hitte
@@ -83,7 +82,7 @@ De mindmap wordt gebruikt in de leidraad stresstest hitte die in de volgende par
 
 <aside class="note">Verder uitwerken</aside>
 
-#### Andedere tools
+#### Andere tools
 Het [Kennisportaal Klimaatadaptatie](https://klimaatadaptatienederland.nl/) ondersteunt [NAS](#nationale-klimaatadaptatiestrategie-nas) en [DPRA](#deltaplan-ruimtelijke-adaptatie-dpra). Het geeft informatie over hoe Nederland zich voorbereidt op de gevolgen van klimaatverandering. 
 
 Het kennisportaal biedt ook een overzicht van [hulpmiddelen](https://klimaatadaptatienederland.nl/hulpmiddelen/) die vanuit het DPRA ontwikkeld zijn, zoals de hierboven Klimaateffectatlas of de bijsluiter stresstesten. Voor hitte zijn nog meer hulpmiddelen beschikbaar. Deze worden hier niet beschreven, maar hiervoor wordt verwezen naar het kennisportaal. Voorbeelden van hitte gerelateerde hulpmiddelen op gebied van maatregelen zijn o.a.:
@@ -93,8 +92,11 @@ Het kennisportaal biedt ook een overzicht van [hulpmiddelen](https://klimaatadap
 
 ### Informatiebronnen
 
+#### Belangrijke kaarten voor hitte
+<aside class="note">Nog uitwerken</aside>
 
 #### Europese bronnen
+<aside class="note">Nog herschrijven</aside>
 Gegevens over klimaatgerelateerde risico’s en verliezen zijn cruciaal voor een betere nauwkeurigheid van de klimaatrisicobeoordeling. Om “klimaatblinde” beslissingen te vermijden, moeten gegevens van zowel de particuliere als de publieke sector op een omvattende en geharmoniseerde wijze worden geregistreerd, verzameld en gedeeld. 
 
 *Copernicus, EMODnet*
