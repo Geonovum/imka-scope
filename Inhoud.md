@@ -27,10 +27,10 @@ Daarnaast wordt het in de stad vaak warmer dan in het omliggende gebied doordat 
 ### Gevolgen en maatregelen van hitte
 De gevolgen van de toenemende hitte zijn heel divers. Een bekend gevolg van hitte is hittestress, waar vooral ouderen en andere kwetsbare groepen erg ziek van kunnen worden. Maar ook onze natuur, infrastructuur, de beschikbaarheid en kwaliteit van ons drinkwater en verminderde arbeidsproductiviteit lijden onder extreme hitte.
 
-Om de gevolgen en maatregelen van hitte te bepalen zijn verschillende tools/hulpmiddelen beschikbaar. Vanuit de [Nationale klimaatadaptatiestrategie (NAS)](#nationale-klimaatadaptatiestrategie-nas) zijn de NAS-bollenschema's ontwikkeld, die de impact, kansen en bedreigingen van de vier klimaatrisico's in beeld brengen. Voor hitte is een apart schema ontwikkeld. 
+Om de gevolgen en maatregelen van hitte te bepalen zijn verschillende tools beschikbaar. Vanuit de [Nationale klimaatadaptatiestrategie (NAS)](#nationale-klimaatadaptatiestrategie-nas) zijn de NAS-bollenschema's ontwikkeld, die de impact, kansen en bedreigingen van de vier klimaatrisico's in beeld brengen. Voor hitte is een apart schema ontwikkeld. 
 Daarnaast geeft de mindmap 'Hitte in de stad' (Hogeschool van Amsterdam) de effecten weer van hitte in de stad voor gezondheid, buitenruimte, leefbaarheid, netwerken en water.
 
-Deze worden nader beschreven in het hoofdstuk [Tools/hulpmiddelen](#tools).
+Deze worden nader beschreven in het hoofdstuk [Tools en informatiebronnen](#tools).
 
 In de onderstaande paragrafen wordt kort nader ingegaan op de gevolgen voor de gezondheid, de natuur en infrastructuur.
 
