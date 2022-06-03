@@ -15,14 +15,14 @@ Om te bepalen waar en wanneer welke knelpunten hierdoor kunnen ontstaan, onder v
 
 De stresstest gaat over het stedelijk en landelijk gebied. De stresstest onderzoekt de kwetsbaarheid van allerlei objecten en functies in een gebied, maar specifieke aandacht wordt gevraagd voor de vitale en kwetsbare functies. Dit zijn functies die cruciaal zijn voor rampenbeheersing, zoals de drinkwatervoorziening en functies die bij uitval of een calamiteit ernstige schade veroorzaken voor mens, milieu of economie.
 
-Een belangrijk hulpmiddel om een stresstest uit te voeren is de **Klimaateffectatlas**. De Klimaateffectatlas levert input bij de eerste stap in de stresstest, namelijk om basisinformatie over kwetsbaarheden op te halen. De Klimaateffectatlas geeft een eerste indruk van de (toekomstige) dreigingen van wateroverlast, hitte, droogte en overstroming in Nederland. In het hoofdstuk [Tools/hulpmiddelen](#tools) staat de Klimaateffectatlas verder beschreven.
+Een belangrijk hulpmiddel om een stresstest uit te voeren is de **Klimaateffectatlas**. De Klimaateffectatlas levert input bij de eerste stap in de stresstest, namelijk om basisinformatie over kwetsbaarheden op te halen. De Klimaateffectatlas geeft een eerste indruk van de (toekomstige) dreigingen van wateroverlast, hitte, droogte en overstroming in Nederland. In het hoofdstuk [Tools en informatiebronnen](#tools) staat de Klimaateffectatlas verder beschreven.
 
 
 **Bijsluiter voor de gestandaardiseerde stresstest**
 
 Overheden zijn vrij om zelf te bepalen hoe ze een stresstest uitvoeren. Om ze te ondersteunen heeft het [Deltaprogramma Ruimtelijke Adaptatie (DPRA)](#deltaplan-ruimtelijke-adaptatie-dpra) samen met een groot aantal partijen de *Bijsluiter voor de gestandaardiseerde stresstest* ontwikkeld. Daarin staat hoe een stresstest uitgevoerd kan worden. De bijsluiter is een bundeling van aanwijzingen voor het uitvoeren van de stresstest en helpt bij het interpreteren en toepassen van uitkomsten. Daarnaast wijst de bijsluiter op de keuzes die gemaakt moeten worden en helpt het bij het maken van deze keuzes. 
 
-Per klimaatrisico is een bijsluiter ontwikkeld met specifieke aanwijzingen die passen bij het kenmerk van de risico, aanwijzingen over de informatie die beschikbaar is en over de gebruikersbehoeften. Verder geeft de bijsluiter adviezen voor het gebruik van de uitkomsten van de stresstest. De bijsluiter voor hitte staat beschreven in het hoofdstuk [Tools/hulpmiddelen](#tools). 
+Per klimaatrisico is een bijsluiter ontwikkeld met specifieke aanwijzingen die passen bij het kenmerk van de risico, aanwijzingen over de informatie die beschikbaar is en over de gebruikersbehoeften. Verder geeft de bijsluiter adviezen voor het gebruik van de uitkomsten van de stresstest. De bijsluiter voor hitte staat beschreven in het hoofdstuk [Tools en informatiebronnen](#tools). 
 
 
 ### Risicodialogen
