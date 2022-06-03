@@ -1,96 +1,71 @@
-## Tools en hulpmiddelen 
-*Overzicht van bestaande tools en hulpmiddelen voor klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
+## Tools en informatiebronnen 
+*Overzicht van bestaande tools en informatiebronnen voor hitte gerelateerde klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
 
-Zie ook https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/?zoeken=true&zoeken_term=&zoeken_trefwoord=&zoeken_trefwoord=17073&zoeken_trefwoord=.
+Eerst worden algemeen de belangrijkste tools beschreven en vervolgens wordt nader ingegaan op de verschillende informatiebronnen.
 
-### Klimaateffectatlas (KEA)
-De Klimaateffectatlas (KEA) is gebaseerd op landelijke gegevens en geeft een eerste indruk van de gevolgen van klimaatverandering voor de verschillende gemeentes en regio’s in Nederland. De [Klimaateffectatlas](https://www.klimaateffectatlas.nl/nl/) maakt daarbij onderscheid tussen vier klimaattrends:
- - Wateroverlast
- - Droogte
- - Hitte
- - Overstroming
+### Tools
 
-De atlas bestaat uit kaartverhalen en een kaartviewer met basisinformatie.
+#### Klimaateffectatlas (KEA)
+De Klimaateffectatlas is voor lokale en regionale overheid vaak het startpunt voor de [klimaatstresstest](#klimaatstresstesten). Daarnaast speelt de atlas ook een rol in de algemene bewustwording rondom klimaateffecten. De Klimaateffectatlas is gebaseerd op landelijke gegevens en geeft een eerste indruk van de gevolgen van klimaatverandering voor de verschillende gemeentes en regio’s in Nederland. Ook de Klimaateffectatlas maakt voor de klimaateffecten onderscheid in de vier klimaatrisico's: overstromingen, wateroverlast, droogte en hitte. De atlas bestaat uit een kaartviewer en kaartverhalen. 
 
-#### Kaartverhalen
-De kaartverhalen geven achtergrondinformatie bij de belangrijkste kaarten. Ze vertellen wat op de kaarten te zien is en helpen om met de informatie aan de slag te gaan. Daarnaast bieden de kaartverhalen handvatten voor mogelijke oplossingsrichtingen. Eén van kaartverhalen is 'Hitte'. 
+##### Kaartverhalen
+De kaartverhalen geven achtergrondinformatie bij de belangrijkste kaarten. Ze vertellen wat op de kaarten te zien is en helpen om met de informatie aan de slag te gaan. Daarnaast bieden de kaartverhalen handvatten voor mogelijke oplossingsrichtingen. 
 
-<figure>
-   <a href="media/kea_kaartverhalen.jpg" target="_blank">
-      <img src="media/kea_kaartverhalen.jpg" alt="Kaartverhalen">
-   </a>
-   <figcaption>Overzicht kaarverhalen (Bron:
-      <a href="https://www.klimaateffectatlas.nl/nl/kaartverhalen" target="_blank">klimaateffectatlas (KEA)</a>)
-   </figcaption>
-</figure>
+Voor hitte zijn momenteel vijf kaartverhalen uitgewerkt:
+- **Het wordt heter**: Dit kaartverhaal bevat de informatie van de KNMI-statistieken over hitte. Per weerstation zijn beschikbaar o.a. aantal warme, zomerse of tropische dagen, aantal tropische nachten en behoefte aan verkoeling van huizen.
+- **Hittekaart gevoelstemperatuur**: De hittekaart gevoelstemperatuur laat de lokale gevoelstemperatuur zien op een extreem hete zomermiddag. De gevoelstemperatuur geeft aan hoe warm een persoon het heeft in een bepaalde weersituatie. Als de gemeten luchttemperatuur bijvoorbeeld 30 ºC is, kan het in de volle zon en uit de wind voelen als 40 ºC. Daarnaast hebben ouderen en mensen met overgewicht vaak eerder last van een hogere gevoelstemperatuur, doordat ze hun warmte minder kwijt kunnen aan de omgeving. 
+- **Warme nachten**: Bij warme nachten is kans op hittestress. De kaart geeft een indicatie van het aantal tropische nachten voor het huidige klimaat (1981-2010) voor stedelijke gebieden. Bij tropische nachten komt de temperatuur niet onder de 20°C. Dit leidt tot risico's voor de gezondheid.
+- **Afstand tot koelte**: De kaart toont koele plekken en de afstand tot deze plekken vanaf huizen en andere gebouwen in stedelijke gebieden in Nederland. Elk huis moet een aangename koele plek hebben binnen een loopafstand van 300 meter. Wanneer een plek koel is, is eigenlijk lastig te zegggen. Hiervoor zijn een aantal basiscriteria gebruikt met betrekking tot de grootte, temperatuur, afstand tot wegen en de vorm. 
+- **Opwarming oppervlaktewater**: De kaart geeft een indicatie van het risico voor hoge watertemperaturen tijdens een zomer in het huidige klimaat. De watertemperatuur beïnvloedt namelijk de kwaliteit en de ecologische toestand van het water.
 
 
-
-Voor hitte zijn de volgende kaartverhalen uitgewerkt:
-- Het wordt heter: KNMI-Statistieken over hitte per weerstation o.a. aantal warme/zomerse/tropische dagen, aantal tropische nachten, behoefte verkoeling huizen
-- Hittekaart gevoelstemperatuur: Gevoelstemperatuur geeft aan hoe warm een persoon het heeft in een bepaalde weersituatie. Als de gemeten luchttemperatuur bijvoorbeeld 30 ºC is, kan het in de volle zon en uit de wind voelen als 40 ºC. Daarnaast hebben ouderen en mensen met overgewicht vaak eerder last van een hogere gevoelstemperatuur, doordat ze hun warmte minder kwijt kunnen aan de omgeving. Hoge gevoelstemperatuur -> gezondheidsklachten 
-- Warme nachten: Hittestress, gezondheidsrisico's (vermoeidheid, concentratieproblemen, hoofdpijn, risico op uitdroging en overhitting -> overlijden), stedelijk hitte-eiland
-- Opwarming oppervlaktewater: Hoe verandert de waterkwaliteit door hitte?
-- Afstand tot koelte: Wat is een koele plek? En de afstand tot koele plek: binnen 300 meter loopafstand; ca. 5 minuten lopen (bepaald via netwerkanalyse)
-
-<aside class="note">Verder uitwerken</aside>
-
-
-#### Basiskaarten
+##### Basiskaarten
 Voor het uitvoeren van de stresstesten biedt de klimaateffectatlas vier (typen) basiskaarten aan. Overheidsorganen die verplicht zijn de zesjaarlijkse stresstest uit te voeren, kunnen deze informatie gebruiken als vertrekpunt voor het uitvoeren van de test.
 
+Belangrijke basiskaarten voor hitte in relatie tot gezondheid, natuur en infrastructuur zijn o.a.:
+- Boom, groen, grijs en water per buurt
+- Groen binnen openbare en niet openbare ruimte
+- Wijktypologie
+- Beweegbare bruggen
+
+
+
+#### NAS-bollenschema's
+In de Nationale klimaatadaptatiestrategie zijn de gevolgen van klimaatverandering visueel gemaakt in vier bollenschema’s. Deze bollenschema’s geven een samenvatting van de huidige wetenschappelijke kennis over de directe klimaateffecten en de indirecte gevolgen van de toenemende hitte, neerslag, droogte en zeespiegelstijging. De indidrecte gevolgen worden voor 9 sectoren, waaronder gezondheid, natuur en infrastructuur, in beeld gebracht. Hierbij wordt aangegeven of de impact een middelgroot tot groot gevolg dit decennium heeft of een groot gevolg deze eeuw. Ook wordt de aard van het gevolg aangegeven, namelijkj als een bedreiging, een kans of het is onduidelijk of het gevolg een kans of bedreiging is.
+
+Voor hitte is het onderstaande schema beschikbaar:
+
 <figure>
-   <a href="media/kea_basiskaarten.jpg" target="_blank">
-      <img src="media/kea_basiskaarten.jpg" alt="basiskaarten">
+   <a href="media/bollenschema_warmer_v18_c_up_11024_1.jpg" target="_blank">
+      <img src="media/bollenschema_warmer_v18_c_up_11024_1.jpg" alt="NAS_bollenschema 'Het wordt warmer'">
    </a>
-   <figcaption> De Basiskaarten (Bron:
-      <a href="https://www.klimaateffectatlas.nl/nl/kaartverhalen" target="_blank">klimaateffectatlas (KEA)</a>)
+   <figcaption>NAS-bollenschema 'Het wordt warmer' (bron:
+      <a href="https://nas-adaptatietool.nl/" target="_blank">NAS-adaptatietool</a>)
    </figcaption>
 </figure>
 
-<aside class="note">Verder uitwerken</aside>
 
-<aside class="example">
+Via de [NAS adaptatie tool](https://nas-adaptatietool.nl/) zijn de actueelste bollenschema's beschikbaar. 
 
-   <strong>Uitwerking werkproces basiskaart Natuurlijke Systemen.</strong>
-
-   Hieronder staat kort beschreven hoe de Basiskaart Natuurlijk Systeem Nederland gegenereerd wordt. De kaart gaat gepaard met aanvullende informatie over elk legenda-element. Hiervoor worden de zowel de klimaatdreigingen als de adaptatiekansen schematisch weergegeven. 
-
-   <strong>Analyse in vier stappen</strong>
-
-   <figure>
-      <a href="media/kea_basiskaart_nat_sys_proces.jpg" target="_blank">
-         <img src="media/kea_basiskaart_nat_sys_proces.jpg" alt="basiskaart natuurlijk systeem nederland">
-      </a>
-      <figcaption> Basiskaart Natuurlijke Systeem Nederland (Bron:
-         <a href="https://www.klimaateffectatlas.nl/nl/basiskaart-natuurlijk-systeem-nederland" target="_blank">klimaateffectatlas (KEA)</a>)
-      </figcaption>
-   </figure>
-
-   <strong>Voorbeeld van een toepassing van die analyse</strong>
-
-   <figure>
-      <a href="media/kea_basiskaart_nat_sys_proces_ex.jpg" target="_blank">
-         <img src="media/kea_basiskaart_nat_sys_proces_ex.jpg" alt="basiskaart natuurlijk systeem nederland - voorbeeld">
-      </a>
-      <figcaption> Basiskaart Natuurlijke Systeem Nederland, voorbeeld: Rivierengebied (Bron:
-         <a href="https://www.klimaateffectatlas.nl/nl/basiskaart-natuurlijk-systeem-nederland" target="_blank">klimaateffectatlas (KEA)</a>)
-      </figcaption>
-   </figure>
-</aside>
-
-<aside class="note">Verder uitwerken</aside>
-
-### NAS-bollenschema ‘Het wordt warmer’
-
-<aside class="note">Nog uitwerken</aside>
+#### Mindmap 'Hitte in de stad'
+In de Mindmap Hitte zijn de problemen van extreme hitte verdeeld in vijf thema’s: gezondheid, netwerken, water, leefbaarheid en buitenruimte. Bij elk thema staan vier of vijf problemen waarvoor een factsheet beschikbaar is met aanvullende uitleg over het probleem, informatie en kaarten voor meer inzicht. Tot slot worden mogelijke maatregelen en richtlijnen gegeven om het probleem tegen te gaan. Voor de betreffende kaarten wordt onder meer verwezen naar de [Klimaateffectatlas](#klimaateffectatlas-kea).
 
 
-### Mindmap 'Hitte in de stad' (HvA)
+<figure>
+   <a href="media/mindmap_hitte_hoge_resolutie.png" target="_blank">
+      <img src="media/mindmap_hitte_hoge_resolutie.png" alt="Mindmap 'Hitte in de stad">
+   </a>
+   <figcaption>Mindmap 'Hitte in de stad' (bron:
+      <a href="https://www.hittebestendigestad.nl/mindmap/" target="_blank">Hogeschool van Amsterdam</a>)
+   </figcaption>
+</figure>
 
-<aside class="note">Nog uitwerken</aside>
+De mindmap wordt gebruikt in de leidraad stresstest hitte die in de volgende paragraaf wordt beschreven.
 
-### Bijsluiter gestandaardiseerde stresstest, onderdeel hitte
+
+
+
+#### Bijsluiter gestandaardiseerde stresstest, onderdeel hitte
 - Algemeen
 - Standaard hittestresskaart: Gevoelstemperatuur (physiological equivalent temperatuur - PET)
 - Leidraad stresstest hitte
@@ -108,41 +83,38 @@ Voor het uitvoeren van de stresstesten biedt de klimaateffectatlas vier (typen) 
 
 <aside class="note">Verder uitwerken</aside>
 
-### Cool Towns Heat Stress Measurement Protocol
-(HvA)
-https://www.cooltowns.eu/nl/protocol/: een volledige Thermal Comfort Assessment (TCA) op straatniveau uit te voeren.
+#### Andedere tools
+Het [Kennisportaal Klimaatadaptatie](https://klimaatadaptatienederland.nl/) ondersteunt [NAS](#nationale-klimaatadaptatiestrategie-nas) en [DPRA](#deltaplan-ruimtelijke-adaptatie-dpra). Het geeft informatie over hoe Nederland zich voorbereidt op de gevolgen van klimaatverandering. 
+
+Het kennisportaal biedt ook een overzicht van [hulpmiddelen](https://klimaatadaptatienederland.nl/hulpmiddelen/) die vanuit het DPRA ontwikkeld zijn, zoals de hierboven Klimaateffectatlas of de bijsluiter stresstesten. Voor hitte zijn nog meer hulpmiddelen beschikbaar. Deze worden hier niet beschreven, maar hiervoor wordt verwezen naar het kennisportaal. Voorbeelden van hitte gerelateerde hulpmiddelen op gebied van maatregelen zijn o.a.:
+- Toolbox Klimaatbestendige Stad: verkent adaptatiemaatregelen voor wijk, straat of terrein;
+- Hittestresstool: maatregelen tegen hittestress in de buitenruimte virtueel uitproberen en toetsen
+- Cool Towns Heat Stress Measurement Protocol: meetprotocol om een Thermal Comfort Assessment op straatniveau uit te voeren;
+
+### Informatiebronnen
 
 
-<aside class="note">Verder uitwerken??</aside>
+#### Europese bronnen
+Gegevens over klimaatgerelateerde risico’s en verliezen zijn cruciaal voor een betere nauwkeurigheid van de klimaatrisicobeoordeling. Om “klimaatblinde” beslissingen te vermijden, moeten gegevens van zowel de particuliere als de publieke sector op een omvattende en geharmoniseerde wijze worden geregistreerd, verzameld en gedeeld. 
+
+*Copernicus, EMODnet*
+
+Alle gegevens van wetenschappelijke kerninitiatieven van de EU, zoals Copernicus en het Europees marien observatie- en datanetwerk (EMODnet) zijn vrij en openlijk beschikbaar voor alle gebruikers wereldwijd.
 
 
-### EfFact checker
-(HvA)
+*INSPIRE, Open data directive*
 
-<aside class="note">Verder uitwerken??</aside>
-
-### Hittestresstool
-(Nelen & Schuurmans)
-
-<aside class="note">Verder uitwerken??</aside>
-
-### Tools kosten en/of effecten van hittemaatregelen
-- Klimaatschadeschatter
-- Klimaatmonitor
-- ...
-
-<aside class="note">Verder uitwerken??</aside>
+De Commissie zal de toegang voor belanghebbenden tot gegevens over klimaatgerelateerde risico’s en verliezen vergemakkelijken. De evaluatie van de Inspire-richtlijn in 2021 als onderdeel van het initiatief “GreenData4All” biedt een gelegenheid om de wetgeving te herzien zodat gegevens over milieu- en klimaatgerelateerde verliezen na rampen zijn opgenomen en de reikwijdte van publieke toegang wordt uitgebreid. Gegevens over klimaatgerelateerde verliezen na rampen worden ook beschouwd als hoogwaardige datasets bij toekomstige herzieningen van de uitvoeringshandeling van de richtlijn inzake open data en de richtlijn inzake het hergebruik van overheidsinformatie. Evenzo zullen de gegevens die in publiek-private partnerschappen worden verzameld zo toegankelijk mogelijk worden gemaakt.
 
 
---------------------
-*Vragen:*
+*Climate-ADAPT*
 
-*Vraag 1: welke tools zijn belangrijk om uit te werken*
+De Europese commissie zal [Climate-ADAPT](https://climate-adapt.eea.europa.eu/) ontwikkelen tot toonaangevend Europees platform voor de aanpassing aan de klimaatverandering.
+Rondom hitte wordt volgende genoemd:
+- sterfte en verwondingen als gevolg van hitte, overstromingen of bosbranden; alsook de verschijning en verspreiding van infectieziekten en allergenen die verband houden met geografische verschuivingen in vectoren en pathogenen
+- De Commissie zal gegevens, instrumenten en deskundigheid bijeenbrengen en met elkaar in verband brengen om de gevolgen van de klimaatverandering voor de gezondheid van de mens op basis van een “één gezondheid”-benadering bekend te maken, te monitoren, te analyseren en te voorkomen.
+- De Commissie zal: Climate-ADAPT bijwerken en uitbreiden als kennisbron over klimaateffecten en -aanpassing, onder meer door diverse informatiebronnen te bundelen, en als mechanisme voor monitoring en verslaglegging; | oin het kader van Climate-ADAPT een Europese waarnemingspost voor klimaat en gezondheid oprichten.
+- Indicatoren op gebied van klimaatverandering en gezondheid: van EEA, Copernicus en Lancet Countdown
 
-*Vraag 2: tools nog onderverdelen naar onderstaande indeling:*
-- Bestaande Softwaresystemen
-- Klimaatadaptatieprocessen
-- klimaatadaptatie-monitoring
-- opslag en verstrekking van klimaatadaptatiegegevens
 
-*Vraag 3: kennis gegegevens EU hier nog opnemen?*
+
