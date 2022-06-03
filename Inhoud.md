@@ -27,35 +27,46 @@ Daarnaast wordt het in de stad vaak warmer dan in het omliggende gebied doordat 
 ### Gevolgen en maatregelen van hitte
 De gevolgen van de toenemende hitte zijn heel divers. Een bekend gevolg van hitte is hittestress, waar vooral ouderen en andere kwetsbare groepen erg ziek van kunnen worden. Maar ook onze natuur, infrastructuur, de beschikbaarheid en kwaliteit van ons drinkwater en verminderde arbeidsproductiviteit lijden onder extreme hitte.
 
-Een veel gebruikte indeling om de gevolgen en maatregelen te bepalen in de indeling:
+Om de gevolgen en maatregelen van hitte te bepalen zijn verschillende tools/hulpmiddelen beschikbaar. Vanuit de [Nationale klimaatadaptatiestrategie (NAS)](#nationale-klimaatadaptatiestrategie-nas) zijn de NAS-bollenschema's ontwikkeld, die de impact, kansen en bedreigingen van de vier klimaatrisico's in beeld brengen. Voor hitte is een apart schema ontwikkeld. 
+Daarnaast geeft de mindmap 'Hitte in de stad' (Hogeschool van Amsterdam) de effecten weer van hitte in de stad voor gezondheid, buitenruimte, leefbaarheid, netwerken en water.
+
+Deze worden nader beschreven in het hoofdstuk [Tools/hulpmiddelen](#tools).
+
+In de onderstaande paragrafen wordt kort nader ingegaan op de gevolgen voor de gezondheid, de natuur en infrastructuur.
+
+
+#### Gezondheid
+Een veel gebruikte indeling voor gezondheid om de gevolgen en maatregelen te bepalen is de indeling:
 
 - Gebied: gevolgen voor de buitenruimte
 - Gebouw: gevolgen voor woningen
 - Gebruiker: gevolgen voor de gezondheid
 
-De volgende subparagrafen worden kort mogelijke gevolgen en maatregelen besproken. 
 
-#### Gebied
+**Gebied**
+
 Met gebied wordt zowel de openbare ruimte als de particuliere gebieden bedoeld. Daaronder vallen de gebieden waar we recreëren, verkoeling zoeken en van de natuur genieten, zoals bossen, strandjes, parken en (eigen) tuinen. Maar ook de versteende gebieden, zoals wegen, terrassen, pleinen, vallen er onder. Hitteproblemen treden vooral op in versteende gebieden. Eén van de oplossingen om hitte te beperken is de omgeving vergroenen. Groen werkt verkoelend, doordat het schaduw biedt en water verdampt. 
 
-Ook de infrastructuur is kwetsbaar voor hitte. Beweegbare bruggen kunnen niet openen of sluiten. Wegen hebben last van thermische expansie of het spatten van het wegdak. Ook bermbranden en slipgevaar is aan de orde. Voor de watersystemen geldt dat verzilting op kan treden, verminderen van de waterkwaliteit en ook het opwarmen van het water, zodat deze niet gebruikt kan worden voor bijvoorbeeld koelwater.
 
-Voor de natuur geldt dat deze kan worden ingezet als maatregel (vergroenen), maar er spelen ook negatieve gevolgen zoals schade aan de natuur en ook verschuiving of
-uitsterven van soorten.
+**Gebouw**
 
-#### Gebouw
 Veel woningen in Nederland zijn zo gebouwd dat ze zoveel mogelijk zon binnenlaten. In de zomer kunnen de woningen daardoor te heet worden. Ook het isoleren van de woning om energie te besparen, zorgt er in de zomer soms voor de hitte de woning niet meer kan verlaten. Vergroenen van de tuin of platte dak helpt vaak om de directe omgeving van een woning en ook de woning zelf te verkoelen. Daarnaast kun je denken aan ventileren met ramen of deuren, buitenzonwering, witte muren en daken of airco's. Of deze maatregelen worden genomen, hangt met name af van het gedrag van de gebruiker.
 
-#### Gebruiker
-Bij de gebruiker staat de gevolgen voor de gezondheid centraal. Gezondheidsklachten door hitte heet hittestress. Milde klachten van extreme temperaturen of aanhoudende hitte zijn bijvoorbeeld concentratieproblemen, hoofdpijn of vermoeidheid. Maar de gevolgen kunnen ook ernstiger zijn namelijk overlijden door hittestress, vooral bij ouderen en kwetsbare mensen komt dit voor. 
+
+**Gebruiker**
+
+Bij de gebruiker staat de gezondheid van de mens centraal. Gezondheidsklachten door hitte heet hittestress. Milde klachten van extreme temperaturen of aanhoudende hitte zijn bijvoorbeeld concentratieproblemen, hoofdpijn of vermoeidheid. Maar de gevolgen kunnen ook ernstiger zijn namelijk overlijden door hittestress, vooral bij ouderen en kwetsbare mensen komt dit voor. 
 
 Maatregelen zijn zeer divers zoals voldoende drinken of de verkoeling opzoeken. Deze maatregelen zijn vooral gekoppeld aan het gedrag van de mens. Het Nationaal Hitteplan (RIVM) richt zich op de gezondheid van mensen die kwetsbaar zijn voor hitte. Daarnaast ontwikkelen lagere overheden lokale hitteplannen. 
 
-#### Tools
-Om de gevolgen en maatregelen van hitte te bepalen zijn verschillende tools/hulpmiddelen beschikbaar. Vanuit de [Nationale klimaatadaptatiestrategie (NAS)](#nationale-klimaatadaptatiestrategie-nas) zijn de NAS-bollenschema's ontwikkeld, die de impact, kansen en bedreigingen op de verschillende sectoren in beeld brengen. Voor hitte is een apart schema ontwikkeld. Daarnaast geeft de mindmap 'Hitte in de stad' (Hogeschool van Amsterdam) de effecten weer van hitte in de stad voor gezondheid, buitenruimte, leefbaarheid, netwerken en water.
 
-Deze worden nader beschreven in het hoofdstuk [Tools/hulpmiddelen](#tools).
+#### Infrastructuur
+Ook de infrastructuur is kwetsbaar voor hitte. Beweegbare bruggen kunnen niet openen of sluiten. Wegen hebben last van thermische expansie of het spatten van het wegdak. Ook bermbranden en slipgevaar is aan de orde. Voor de watersystemen geldt dat verzilting op kan treden, verminderen van de waterkwaliteit en ook het opwarmen van het water, zodat deze niet gebruikt kan worden voor bijvoorbeeld koelwater.
 
+
+#### Natuur
+
+Voor de natuur geldt dat deze kan worden ingezet als maatregel, namelijk het vergroenen van steden. Maar door de hitte kan ook hittestress optreden in de natuur. Bijvoorbeeld schade aan bodem en planten. Daarnaast zorgt de gemiddelde temperatuurstijging ervoor dat klimaatzones verschuiven en dat het landschap en de natuur verandert en dat mogelijk soorten uitsterven. 
 
 
 
