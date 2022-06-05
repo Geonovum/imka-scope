@@ -4,8 +4,6 @@
 
 *Noem ook relevante documentatie zoals toelichtingen, richtlijnen en handreikingen die al dan niet aan de genoemde standaarden gerelateerd zijn.*
 
-*TO DO: OSKA nog opnemen*
-
 <aside class="issue">Onderstaande verzameling is een heel brede, eerste inventarisatie. Er kunnen nog standaarden in ontbreken, en voor veel van de standaarden die er wel in staan is nog niet bepaald of ze daadwerkelijk relevant zijn voor klimaatadaptatie-hitte.</aside>
 
 <aside class="note">In deze inventarisatie is nog geen onderscheid gemaakt tussen standaarden die datasets beschrijven die bron kunnen zijn voor data die nodig zijn voor bv hittestresstests, en standaarden die concepten definiëren die we kunnen hergebruiken en/of bij aansluiten.
