@@ -24,9 +24,10 @@ Overheden zijn vrij om zelf te bepalen hoe ze een stresstest uitvoeren. Om ze te
 Per klimaatrisico is een bijsluiter ontwikkeld met specifieke aanwijzingen die passen bij het kenmerk van de risico, aanwijzingen over de informatie die beschikbaar is en over de gebruikersbehoeften. Verder geeft de bijsluiter adviezen voor het gebruik van de uitkomsten van de stresstest. 
 
 #### Bijsluiter gestandaardiseerde stresstest hitte
-Voor hitte is ook een [bijsluiter gestandaardiseerde stresstest](https://klimaatadaptatienederland.nl/stresstest/bijsluiter/hitte/) ontwikkeld. Deze bijsluiter maakt  gebruik van de kaarten uit de [Klimaateffectatlas]](#klimaateffectatlas-kea). Samen met de [Mindmap Hitte in de stad](#mindmap-hitte-in-de-stad) worden de mogelijke effecten van hitte inzichtelijk gemaakt. 
+Voor hitte is ook een [bijsluiter gestandaardiseerde stresstest](https://klimaatadaptatienederland.nl/stresstest/bijsluiter/hitte/) ontwikkeld. Deze bijsluiter maakt  gebruik van de kaarten uit de [Klimaateffectatlas](#klimaateffectatlas-kea). Samen met de [Mindmap Hitte in de stad](#mindmap-hitte-in-de-stad) worden de mogelijke effecten van hitte inzichtelijk gemaakt. 
 
-De eerste stap is het verkennen van kwetsbaarheden met de informatie uit de [Klimaateffectatlas]](#klimaateffectatlas-kea). In het kaartverhaal 'Het wordt heter'  wordt de mogelijke ontwikkeling van de temperatuur aan de hand van verschillende statistieken toegelicht. Daarnaast wordt aanbevolen om de volgende twee kaarten te gebruiken:
+De eerste stap is het verkennen van kwetsbaarheden met de informatie uit de [Klimaateffectatlas](#klimaateffectatlas-kea). 
+In het kaartverhaal *'Het wordt heter'* wordt de mogelijke ontwikkeling van de temperatuur aan de hand van verschillende KNMI-statistieken toegelicht. Daarnaast wordt aanbevolen om de volgende twee hittekaarten te gebruiken:
 - de kaart met de gevoelstemperatuur;
 - de kaart met het aantal warme nachten.
 
