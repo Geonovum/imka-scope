@@ -27,10 +27,7 @@ Daarnaast wordt het in de stad vaak warmer dan in het omliggende gebied doordat 
 ### Gevolgen en maatregelen van hitte
 De gevolgen van de toenemende hitte zijn heel divers. Een bekend gevolg van hitte is hittestress, waar vooral ouderen en andere kwetsbare groepen erg ziek van kunnen worden. Maar ook onze natuur, infrastructuur, de beschikbaarheid en kwaliteit van ons drinkwater en verminderde arbeidsproductiviteit lijden onder extreme hitte.
 
-Om de gevolgen en maatregelen van hitte te bepalen zijn verschillende tools beschikbaar. Vanuit de [Nationale klimaatadaptatiestrategie (NAS)](#nationale-klimaatadaptatiestrategie-nas) zijn de NAS-bollenschema's ontwikkeld, die de impact, kansen en bedreigingen van de vier klimaatrisico's in beeld brengen. Voor hitte is een apart schema ontwikkeld. 
-Daarnaast geeft de mindmap 'Hitte in de stad' (Hogeschool van Amsterdam) de effecten weer van hitte in de stad voor gezondheid, buitenruimte, leefbaarheid, netwerken en water.
-
-Deze worden nader beschreven in het hoofdstuk [Tools en informatiebronnen](#tools).
+Om de gevolgen van hitte te bepalen zijn verschillende tools beschikbaar. Vanuit de [Nationale klimaatadaptatiestrategie (NAS)](#nationale-klimaatadaptatiestrategie-nas) zijn de [NAS-bollenschema's](#nas-bollenschema-s) ontwikkeld, die de impact, kansen en bedreigingen van de vier klimaatrisico's in beeld brengen. Daarnaast geeft de [Mindmap 'Hitte in de stad'](#mindmap-hitte-in-de-stad) (Hogeschool van Amsterdam) de effecten weer van hitte in de stad voor gezondheid, buitenruimte, leefbaarheid, netwerken en water. Beide tools worden nader beschreven in het hoofdstuk [Tools en informatiebronnen](#tools).
 
 In de onderstaande paragrafen wordt kort nader ingegaan op de gevolgen voor de gezondheid, de natuur en infrastructuur.
 
@@ -61,13 +58,16 @@ Maatregelen zijn zeer divers zoals voldoende drinken of de verkoeling opzoeken. 
 
 
 #### Infrastructuur
-Ook de infrastructuur is kwetsbaar voor hitte. Beweegbare bruggen kunnen niet openen of sluiten. Wegen hebben last van thermische expansie of het spatten van het wegdak. Ook bermbranden en slipgevaar is aan de orde. Voor de watersystemen geldt dat verzilting op kan treden, verminderen van de waterkwaliteit en ook het opwarmen van het water, zodat deze niet gebruikt kan worden voor bijvoorbeeld koelwater.
+Ook de infrastructuur is kwetsbaar voor hitte. Beweegbare bruggen kunnen niet openen of sluiten. Als oplossingen wordt vooral koelen gezien. Incidenteel worden brugdelen ingekort. Het gevolg voor de scheepvaart is met name het risico op stremmingen en wachttijden, met hogere kosten tot gevolg.
+
+Wegen hebben last van uitzetting van het wegdek en daardoor het spatten van het wegdak. De gevolgen van het spatten van wegdek zijn o.a. schade aan het wegdek (met als gevolg (nood)reparaties) en stremmingen door wegafzetting en ongelukken (met als gevolg schade aan weg, auto’s en kosten voor incidentenmanagement). En ook bermbranden zijn aan de orde. 
+
+Voor de watersystemen geldt dat verzilting op kan treden en het hitte heeft effect op de waterkwaliteit. Door hogere verdamping, maar ook door verminderde afvoer bovenstrooms, nemen de gehalten in het water toe. Ook is er een groter risico op algenbloei. Door deze aspecten kan het oppervlaktewater niet meer geschikt zijn als proces, koel- of drinkwater.
 
 
 #### Natuur
 
-Voor de natuur geldt dat deze kan worden ingezet als maatregel, namelijk het vergroenen van steden. Maar door de hitte kan ook hittestress optreden in de natuur. Bijvoorbeeld schade aan bodem en planten. Daarnaast zorgt de gemiddelde temperatuurstijging ervoor dat klimaatzones verschuiven en dat het landschap en de natuur verandert en dat mogelijk soorten uitsterven. 
+Voor de natuur geldt dat deze wordt ingezet als maatregel, namelijk bij het vergroenen van steden. Maar door de hitte kan ook hittestress optreden in de natuur, bijvoorbeeld schade aan bodem en planten. Daarnaast zorgt de gemiddelde temperatuurstijging ervoor dat klimaatzones verschuiven en dat het landschap en de natuur verandert. De samenstelling van soorten verandert behoorlijk, warmteminnende soorten nemen toe en tegelijk verdwijnen er steeds meer koudeminnende soorten.
 
-
-
+De vele klimatologische veranderingen hebben daarnaast invloed op allerlei andere abiotische factoren, zoals de samenstelling of diepte van water en bodem. Veranderingen hierin hebben weer uiteenlopende gevolgen voor dieren en planten. Doordat de totale natuur in Nederland zwaar onder druk staat, is de veerkracht van de natuur sterk afgenomen. Niet alleen de hitte maar vooral de toenemende droge zomers zorgen voor grote veranderingen en kunnen natuurschade veroorzaken. 
 
