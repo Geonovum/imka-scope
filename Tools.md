@@ -1,20 +1,20 @@
 ## Tools en informatiebronnen 
 *Overzicht van bestaande tools en informatiebronnen voor hitte gerelateerde klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
 
-Eerst worden algemeen de belangrijkste tools beschreven en vervolgens wordt nader ingegaan op de verschillende informatiebronnen.
+Eerst worden algemeen de belangrijkste tools beschreven en vervolgens wordt nader ingegaan op de verschillende Europese informatiebronnen.
 
 ### Tools
 
 #### Klimaateffectatlas (KEA)
 De Klimaateffectatlas is voor lokale en regionale overheid vaak het startpunt voor de [klimaatstresstest](#klimaatstresstesten). Daarnaast speelt de atlas ook een rol in de algemene bewustwording rondom klimaateffecten. De Klimaateffectatlas is gebaseerd op landelijke gegevens en geeft een eerste indruk van de gevolgen van klimaatverandering voor de verschillende gemeentes en regio’s in Nederland. Ook de Klimaateffectatlas maakt voor de klimaateffecten onderscheid in de vier klimaatrisico's: overstromingen, wateroverlast, droogte en hitte. De atlas bestaat uit een kaartviewer en kaartverhalen. 
 
-##### Kaartverhalen
+##### Kaartverhalen met de belangrijkste kaarten
 De kaartverhalen geven achtergrondinformatie bij de belangrijkste kaarten. Ze vertellen wat op de kaarten te zien is en helpen om met de informatie aan de slag te gaan. Daarnaast bieden de kaartverhalen handvatten voor mogelijke oplossingsrichtingen. 
 
 Voor hitte zijn momenteel vijf kaartverhalen uitgewerkt:
 - **Het wordt heter**: Dit kaartverhaal bevat de informatie van de KNMI-statistieken over hitte. Per weerstation zijn beschikbaar o.a. aantal warme, zomerse of tropische dagen, aantal tropische nachten en behoefte aan verkoeling van huizen.
-- **Hittekaart gevoelstemperatuur**: De hittekaart gevoelstemperatuur laat de lokale gevoelstemperatuur zien op een extreem hete zomermiddag. De gevoelstemperatuur geeft aan hoe warm een persoon het heeft in een bepaalde weersituatie. Als de gemeten luchttemperatuur bijvoorbeeld 30 ºC is, kan het in de volle zon en uit de wind voelen als 40 ºC. Daarnaast hebben ouderen en mensen met overgewicht vaak eerder last van een hogere gevoelstemperatuur, doordat ze hun warmte minder kwijt kunnen aan de omgeving. 
-- **Warme nachten**: Bij warme nachten is kans op hittestress. De kaart geeft een indicatie van het aantal tropische nachten voor het huidige klimaat (1981-2010) voor stedelijke gebieden. Bij tropische nachten komt de temperatuur niet onder de 20°C. Dit leidt tot risico's voor de gezondheid.
+- **Hittekaart - gevoelstemperatuur**: De hittekaart gevoelstemperatuur laat de lokale gevoelstemperatuur zien op een extreem hete zomermiddag. De gevoelstemperatuur geeft aan hoe warm een persoon het heeft in een bepaalde weersituatie. Als de gemeten luchttemperatuur bijvoorbeeld 30 ºC is, kan het in de volle zon en uit de wind voelen als 40 ºC. Daarnaast hebben ouderen en mensen met overgewicht vaak eerder last van een hogere gevoelstemperatuur, doordat ze hun warmte minder kwijt kunnen aan de omgeving. 
+- **Hittekaart - Warme nachten**: Bij warme nachten is kans op hittestress. De kaart geeft een indicatie van het aantal tropische nachten voor het huidige klimaat (1981-2010) voor stedelijke gebieden. Bij tropische nachten komt de temperatuur niet onder de 20°C. Dit leidt tot risico's voor de gezondheid.
 - **Afstand tot koelte**: De kaart toont koele plekken en de afstand tot deze plekken vanaf huizen en andere gebouwen in stedelijke gebieden in Nederland. Elk huis moet een aangename koele plek hebben binnen een loopafstand van 300 meter. Wanneer een plek koel is, is eigenlijk lastig te zegggen. Hiervoor zijn een aantal basiscriteria gebruikt met betrekking tot de grootte, temperatuur, afstand tot wegen en de vorm. 
 - **Opwarming oppervlaktewater**: De kaart geeft een indicatie van het risico voor hoge watertemperaturen tijdens een zomer in het huidige klimaat. De watertemperatuur beïnvloedt namelijk de kwaliteit en de ecologische toestand van het water.
 
@@ -27,7 +27,6 @@ Belangrijke basiskaarten voor hitte in relatie tot gezondheid, natuur en infrast
 - Groen binnen openbare en niet openbare ruimte
 - Wijktypologie
 - Beweegbare bruggen
-
 
 
 #### NAS-bollenschema's
@@ -47,6 +46,7 @@ Voor hitte is het onderstaande schema beschikbaar:
 
 Via de [NAS adaptatie tool](https://nas-adaptatietool.nl/) zijn de actueelste bollenschema's beschikbaar. 
 
+
 #### Mindmap 'Hitte in de stad'
 In de Mindmap Hitte zijn de problemen van extreme hitte verdeeld in vijf thema’s: gezondheid, netwerken, water, leefbaarheid en buitenruimte. Bij elk thema staan vier of vijf problemen waarvoor een factsheet beschikbaar is met aanvullende uitleg over het probleem, informatie en kaarten voor meer inzicht. Tot slot worden mogelijke maatregelen en richtlijnen gegeven om het probleem tegen te gaan. Voor de betreffende kaarten wordt onder meer verwezen naar de [Klimaateffectatlas](#klimaateffectatlas-kea).
 
@@ -63,25 +63,6 @@ In de Mindmap Hitte zijn de problemen van extreme hitte verdeeld in vijf thema�
 De mindmap wordt gebruikt in de bijsluiter gestandaardiseerde stresstest hitte die in de volgende paragraaf wordt beschreven.
 
 
-#### Bijsluiter gestandaardiseerde stresstest hitte
-<aside class="note">Verder uitwerken</aside>
-- Algemeen
-- Standaard hittestresskaart: Gevoelstemperatuur (physiological equivalent temperatuur - PET)
-- Leidraad stresstest hitte
-- Cultuurhistorie als kennisbron voor stresstest
-
-**Algemeen**
- 1. Hoe maak je een gedetailleerde gevoelstemperatuurkaart?
- 1. De kaart met het aantal warme nachten in de Klimaateffectatlas te bekijken.
- 1. De kaart met de gevoelstemperatuur in de Klimaateffectatlas te bekijken.
- 1. Ieder gevolg uit de mindmap hitte te overwegen: Speelt dat gevolg hier? Is de blootstelling relevant? Zo ja:
-    * Waar speelt het?
-    * Welke factoren beïnvloeden de gevoeligheid voor gevolgen?
-    * Wat zijn de niet-klimatologische factoren die de omvang van de gevolgen kunnen beïnvloeden (bijv. vergrijzing in een bepaalde wijk)
-    * Zijn er al maatregelen genomen, of nog niet?
-
-<aside class="note">Verder uitwerken</aside>
-
 #### Andere tools
 Het [Kennisportaal Klimaatadaptatie](https://klimaatadaptatienederland.nl/) ondersteunt [NAS](#nationale-klimaatadaptatiestrategie-nas) en [DPRA](#deltaplan-ruimtelijke-adaptatie-dpra). Het geeft informatie over hoe Nederland zich voorbereidt op de gevolgen van klimaatverandering. 
 
@@ -90,33 +71,9 @@ Het kennisportaal biedt ook een overzicht van [hulpmiddelen](https://klimaatadap
 - Hittestresstool: maatregelen tegen hittestress in de buitenruimte virtueel uitproberen en toetsen
 - Cool Towns Heat Stress Measurement Protocol: meetprotocol om een Thermal Comfort Assessment op straatniveau uit te voeren;
 
-### Informatiebronnen
 
-#### Belangrijke kaarten voor hitte
-<aside class="note">Nog uitwerken</aside>
-
-#### Europese bronnen
-<aside class="note">Nog herschrijven</aside>
-Gegevens over klimaatgerelateerde risico’s en verliezen zijn cruciaal voor een betere nauwkeurigheid van de klimaatrisicobeoordeling. Om “klimaatblinde” beslissingen te vermijden, moeten gegevens van zowel de particuliere als de publieke sector op een omvattende en geharmoniseerde wijze worden geregistreerd, verzameld en gedeeld. 
-
-*Copernicus, EMODnet*
-
-Alle gegevens van wetenschappelijke kerninitiatieven van de EU, zoals Copernicus en het Europees marien observatie- en datanetwerk (EMODnet) zijn vrij en openlijk beschikbaar voor alle gebruikers wereldwijd.
-
-
-*INSPIRE, Open data directive*
-
-De Commissie zal de toegang voor belanghebbenden tot gegevens over klimaatgerelateerde risico’s en verliezen vergemakkelijken. De evaluatie van de Inspire-richtlijn in 2021 als onderdeel van het initiatief “GreenData4All” biedt een gelegenheid om de wetgeving te herzien zodat gegevens over milieu- en klimaatgerelateerde verliezen na rampen zijn opgenomen en de reikwijdte van publieke toegang wordt uitgebreid. Gegevens over klimaatgerelateerde verliezen na rampen worden ook beschouwd als hoogwaardige datasets bij toekomstige herzieningen van de uitvoeringshandeling van de richtlijn inzake open data en de richtlijn inzake het hergebruik van overheidsinformatie. Evenzo zullen de gegevens die in publiek-private partnerschappen worden verzameld zo toegankelijk mogelijk worden gemaakt.
-
-
-*Climate-ADAPT*
-
-De Europese commissie zal [Climate-ADAPT](https://climate-adapt.eea.europa.eu/) ontwikkelen tot toonaangevend Europees platform voor de aanpassing aan de klimaatverandering.
-Rondom hitte wordt volgende genoemd:
-- sterfte en verwondingen als gevolg van hitte, overstromingen of bosbranden; alsook de verschijning en verspreiding van infectieziekten en allergenen die verband houden met geografische verschuivingen in vectoren en pathogenen
-- De Commissie zal gegevens, instrumenten en deskundigheid bijeenbrengen en met elkaar in verband brengen om de gevolgen van de klimaatverandering voor de gezondheid van de mens op basis van een “één gezondheid”-benadering bekend te maken, te monitoren, te analyseren en te voorkomen.
-- De Commissie zal: Climate-ADAPT bijwerken en uitbreiden als kennisbron over klimaateffecten en -aanpassing, onder meer door diverse informatiebronnen te bundelen, en als mechanisme voor monitoring en verslaglegging; | oin het kader van Climate-ADAPT een Europese waarnemingspost voor klimaat en gezondheid oprichten.
-- Indicatoren op gebied van klimaatverandering en gezondheid: van EEA, Copernicus en Lancet Countdown
-
-
-
+#### Europese informatiebronnen
+In de [Europese Adaptatiestrategie](#europese-adaptatiestrategie) wordt aangegeven dat gegevens over klimaatgerelateerde risico’s en verliezen cruciaal zijn voor een betere nauwkeurigheid van de klimaatrisicobeoordeling. Om “klimaatblinde” beslissingen te vermijden, moeten gegevens van zowel de particuliere als de publieke sector op een omvattende en geharmoniseerde wijze worden geregistreerd, verzameld en gedeeld. In dit kader worden verschillende Europese gegevensbronnen genoemd:
+- **Copernicus en EMODnet**: De Europese Adaptatiestrategie geeft aan dat alle gegevens van wetenschappelijke kerninitiatieven van de EU, zoals Copernicus en het Europees marien observatie- en datanetwerk (EMODnet) zijn vrij en openlijk beschikbaar voor alle gebruikers wereldwijd. De dienst van Copernicus voor klimaatverandering zal de bruikbaarheid van de gegevens verder verbeteren en diensten ontwikkelen zoals voor toewijzing van extreme weersverschijnselen. Daarnaast geeft de Europese Adaptatiestrategie aan dat ter onderbouwing van de besluitvorming gebruik moet worden gemaakt van de meest recente digitale technologieën en klimaatdiensten bevorderen (bijvoorbeeld teledetectie, slimme weerstations, kunstmatige intelligentie en high-performance computing). En nieuwe instrumenten zoals Destination Earth en Digital Twins zijn veelbelovend om het begrip van huidige en toekomstige klimaateffecten op planetaire en lokale schaal te vergroten. 
+- **INSPIRE richtlijn, Richtlijn Open data en Richtlijn inzake het hergebruik van overheidsinformatie**: De Commissie wil de toegang voor belanghebbenden tot gegevens over klimaatgerelateerde risico’s en verliezen vergemakkelijken. De INSPIRE-richtlijn, de Richlijn inzake Open data en de richtlijn inzake het hergebruik van overheidsinformatie worden in dit kader genoemd. De INSPIRE richtlijn, welke in 2021 is geëvalueerd, zal als onderdeel van het GreenData4All initiatief worden uitgebreid zodat gegevens over milieu- en klimaatgerelateerde verliezen na rampen worden opgenomen en de reikwijdte van de publieke toegang wordt uitgebreid. Gegevens over klimaatgerelateerde verliezen na rampen worden ook beschouwd als hoogwaardige datasets bij toekomstige herzieningen van de uitvoeringshandeling van de richtlijn inzake open data en de richtlijn inzake het hergebruik van overheidsinformatie. Evenzo zullen de gegevens die in publiek-private partnerschappen worden verzameld zo toegankelijk mogelijk worden gemaakt.
+- **Climate-ADAPT**: De Europese commissie wil [Climate-ADAPT](https://climate-adapt.eea.europa.eu/) verder ontwikkelen tot toonaangevend Europees platform voor de aanpassing aan de klimaatverandering. De Commissie wil Climate-ADAPT uitbreiden als kennisbron over klimaateffecten en -aanpassing, onder meer door diverse informatiebronnen te bundelen. Daarnaast gaat Climate-ADAPT als mechanisme dienen voor monitoring en verslaglegging. Tot slot wordt in het kader van Climate-ADAPT een Europese waarnemingspost voor klimaat en gezondheid opgericht. De Commissie wil gegevens, instrumenten en deskundigheid bijeenbrengen en met elkaar in verband brengen om de gevolgen van de klimaatverandering voor de gezondheid van de mens op basis van een “één gezondheid”-benadering bekend te maken, te monitoren, te analyseren en te voorkomen. Sterfte en verwondingen als gevolg van hitte, overstromingen of bosbranden worden in dit kader genoemd als ook de verschijning en verspreiding van infectieziekten en allergenen die verband houden met geografische verschuivingen in vectoren en pathogenen. 
