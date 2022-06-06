@@ -21,15 +21,19 @@ Een belangrijk hulpmiddel om een stresstest uit te voeren is de **Klimaateffecta
 #### Bijsluiter voor de gestandaardiseerde stresstest
 Overheden zijn vrij om zelf te bepalen hoe ze een stresstest uitvoeren. Om ze te ondersteunen heeft het [Deltaprogramma Ruimtelijke Adaptatie (DPRA)](#deltaplan-ruimtelijke-adaptatie-dpra) samen met een groot aantal partijen de *Bijsluiter voor de gestandaardiseerde stresstest* ontwikkeld. Daarin staat hoe een stresstest uitgevoerd kan worden. De bijsluiter is een bundeling van aanwijzingen voor het uitvoeren van de stresstest en helpt bij het interpreteren en toepassen van uitkomsten. Daarnaast wijst de bijsluiter op de keuzes die gemaakt moeten worden en helpt het bij het maken van deze keuzes. 
 
+De bijsluiter beschrijft niet van A tot Z en tot in detail de volledige werkwijze bij een stresstest. Dat is een bewuste keuze zodat er voldoende ruimte is voor inbreng van gebiedskennis en deskundigheid door uitvoerders, opdrachtgevers en overige betrokkenen. De bijsluiter focust op generiek toepasbare onderdelen in de werkwijze (standaarden) die de vergelijkbaarheid en kwaliteit van de stresstest uitkomsten verbeteren.
+
 Per klimaatrisico is een bijsluiter ontwikkeld met specifieke aanwijzingen die passen bij het kenmerk van de risico, aanwijzingen over de informatie die beschikbaar is en over de gebruikersbehoeften. Verder geeft de bijsluiter adviezen voor het gebruik van de uitkomsten van de stresstest. 
 
 #### Bijsluiter gestandaardiseerde stresstest hitte
 Voor hitte is ook een [bijsluiter gestandaardiseerde stresstest](https://klimaatadaptatienederland.nl/stresstest/bijsluiter/hitte/) ontwikkeld. Deze bijsluiter maakt  gebruik van de kaarten uit de [Klimaateffectatlas](#klimaateffectatlas-kea). Samen met de [Mindmap Hitte in de stad](#mindmap-hitte-in-de-stad) worden de mogelijke effecten van hitte inzichtelijk gemaakt. 
 
-De eerste stap is het verkennen van kwetsbaarheden met de informatie uit de [Klimaateffectatlas](#klimaateffectatlas-kea). 
+De eerste stap is het verkennen van kwetsbaarheden met de informatie uit de [Klimaateffectatlas](#klimaateffectatlas-kea).
 In het kaartverhaal *'Het wordt heter'* wordt de mogelijke ontwikkeling van de temperatuur aan de hand van verschillende KNMI-statistieken toegelicht. Daarnaast wordt aanbevolen om de volgende twee hittekaarten te gebruiken:
 - de kaart met de gevoelstemperatuur;
 - de kaart met het aantal warme nachten.
+
+Tijdens de ontwikkeling van deze stresstest is ook een gestandaardiseerde methode ontwikkeld waarmee een gedetailleerde gevoelstemperatuurkaart gemaakt kan worden.
 
 De tweede stap is om ieder gevolg uit de [Mindmap Hitte in de stad](#mindmap-hitte-in-de-stad) te overwegen of dat gevolg hier speelt en of de blootstelling ervan relevant is. Indien dit zo is, moet bepaalt worden waar in het gebied het gevolg speelt en welke klimatologische factoren dit beïnvloeden. Ook wordt geadviseerd niet niet-klimatologische factoren (zoals vergrijzing in een bepaalde wijk) mee te nemen. En tot slot of al bepaalde maatregelen zijn genomen. 
 
