@@ -102,6 +102,7 @@ Ook mogelijk relevant - als O&M relevant is:
 
 | Standaard | Inhoud | Relevantie |
 | --------- | ------ | ---------- |
+| ISO 14091  | Adaptation to climate change — Guidelines on vulnerability, impacts and risk assessment  | Mogeijk relevant voor definities van begrippen |
 | ISO 19156 Observations & Measurements (O&M 2.0) | Conceptueel model voor het beschrijven van metingen. | Waarschijnlijk gaat dit te ver maar zou toegepast kunnen worden voor sterftecijfers e.d. |
 | OGC Observations, Measurements & Samples 3.0 (O&M 3.0) | Conceptueel model voor het beschrijven van metingen; nieuwe 3.0 versie die bij ISO nog niet is goedgekeurd maar bij OGC wel. | Idem als O&M 2.0 | 
 | OGC CityGML 3.0 (het datamodel) | Conceptueel model voor het beschrijven van 3D modellen van stad en landelijk gebied. | Mogelijk relevant of alleen als databron |
