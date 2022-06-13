@@ -1,12 +1,10 @@
 ## Tools en informatiebronnen 
-*Overzicht van bestaande tools en informatiebronnen voor hitte gerelateerde klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc.* 
-
-Eerst worden algemeen de belangrijkste tools beschreven en vervolgens wordt nader ingegaan op de verschillende Europese informatiebronnen.
+*Overzicht van bestaande tools en informatiebronnen voor hitte gerelateerde klimaatadaptatie-processen, -monitoring, opslag en verstrekking van klimaatadaptatiegegevens, etc. Eerst worden de belangrijkste tools beschreven en vervolgens wordt nog nader ingegaan op de verschillende Europese informatiebronnen.*
 
 ### Tools
 
 #### Klimaateffectatlas (KEA)
-De Klimaateffectatlas is voor lokale en regionale overheid vaak het startpunt voor de [klimaatstresstest](#klimaatstresstesten). Daarnaast speelt de atlas ook een rol in de algemene bewustwording rondom klimaateffecten. De Klimaateffectatlas is gebaseerd op landelijke gegevens en geeft een eerste indruk van de gevolgen van klimaatverandering voor de verschillende gemeentes en regio’s in Nederland. Ook de Klimaateffectatlas maakt voor de klimaateffecten onderscheid in de vier klimaatrisico's: overstromingen, wateroverlast, droogte en hitte. De atlas bestaat uit een kaartviewer en kaartverhalen. 
+De [Klimaateffectatlas](https://www.klimaateffectatlas.nl/nl/) is voor lokale en regionale overheid vaak het startpunt voor de [klimaatstresstest](#klimaatstresstesten). Daarnaast speelt de atlas ook een rol in de algemene bewustwording rondom klimaateffecten. De Klimaateffectatlas is gebaseerd op landelijke gegevens en geeft een eerste indruk van de gevolgen van klimaatverandering voor de verschillende gemeentes en regio’s in Nederland. Ook de Klimaateffectatlas maakt voor de klimaateffecten onderscheid in de vier klimaatrisico's: overstromingen, wateroverlast, droogte en hitte. De atlas bestaat uit een kaartviewer en kaartverhalen. 
 
 ##### Kaartverhalen met de belangrijkste kaarten
 De kaartverhalen geven achtergrondinformatie bij de belangrijkste kaarten. Ze vertellen wat op de kaarten te zien is en helpen om met de informatie aan de slag te gaan. Daarnaast bieden de kaartverhalen handvatten voor mogelijke oplossingsrichtingen. 
@@ -46,9 +44,11 @@ Voor hitte is het onderstaande schema beschikbaar:
 
 Via de [NAS adaptatie tool](https://nas-adaptatietool.nl/) zijn de actueelste bollenschema's beschikbaar. 
 
+Het bollenschema wordt als volledig beschouwd en kan worden gebruikt als overzicht van aandachtspunten.
+
 
 #### Mindmap 'Hitte in de stad'
-In de Mindmap Hitte zijn de problemen van extreme hitte verdeeld in vijf thema’s: gezondheid, netwerken, water, leefbaarheid en buitenruimte. Bij elk thema staan vier of vijf problemen waarvoor een factsheet beschikbaar is met aanvullende uitleg over het probleem, informatie en kaarten voor meer inzicht. Tot slot worden mogelijke maatregelen en richtlijnen gegeven om het probleem tegen te gaan. Voor de betreffende kaarten wordt onder meer verwezen naar de [Klimaateffectatlas](#klimaateffectatlas-kea).
+In de [Mindmap Hitte in de stad](https://www.hittebestendigestad.nl/mindmap/) zijn de problemen van extreme hitte verdeeld in vijf thema’s: gezondheid, netwerken, water, leefbaarheid en buitenruimte. Bij elk thema staan vier of vijf problemen waarvoor een factsheet beschikbaar is met aanvullende uitleg over het probleem, informatie en kaarten voor meer inzicht. Tot slot worden mogelijke maatregelen en richtlijnen gegeven om het probleem tegen te gaan. Voor de betreffende kaarten wordt onder meer verwezen naar de [Klimaateffectatlas](#klimaateffectatlas-kea).
 
 
 <figure>
@@ -60,7 +60,7 @@ In de Mindmap Hitte zijn de problemen van extreme hitte verdeeld in vijf thema�
    </figcaption>
 </figure>
 
-De mindmap wordt gebruikt in de bijsluiter gestandaardiseerde stresstest hitte die in de volgende paragraaf wordt beschreven.
+De mindmap wordt gebruikt in de [bijsluiter gestandaardiseerde stresstest hitte](#bijsluiter-gestandaardiseerde-stresstest-hitte).
 
 
 #### Andere tools
@@ -72,7 +72,7 @@ Het kennisportaal biedt ook een overzicht van [hulpmiddelen](https://klimaatadap
 - Cool Towns Heat Stress Measurement Protocol: meetprotocol om een Thermal Comfort Assessment op straatniveau uit te voeren;
 
 
-#### Europese informatiebronnen
+### Europese informatiebronnen
 In de [Europese Adaptatiestrategie](#europese-adaptatiestrategie) wordt aangegeven dat gegevens over klimaatgerelateerde risico’s en verliezen cruciaal zijn voor een betere nauwkeurigheid van de klimaatrisicobeoordeling. Om “klimaatblinde” beslissingen te vermijden, moeten gegevens van zowel de particuliere als de publieke sector op een omvattende en geharmoniseerde wijze worden geregistreerd, verzameld en gedeeld. In dit kader worden verschillende Europese gegevensbronnen genoemd:
 - **Copernicus en EMODnet**: De Europese Adaptatiestrategie geeft aan dat alle gegevens van wetenschappelijke kerninitiatieven van de EU, zoals Copernicus en het Europees marien observatie- en datanetwerk (EMODnet) zijn vrij en openlijk beschikbaar voor alle gebruikers wereldwijd. De dienst van Copernicus voor klimaatverandering zal de bruikbaarheid van de gegevens verder verbeteren en diensten ontwikkelen zoals voor toewijzing van extreme weersverschijnselen. Daarnaast geeft de Europese Adaptatiestrategie aan dat ter onderbouwing van de besluitvorming gebruik moet worden gemaakt van de meest recente digitale technologieën en klimaatdiensten bevorderen (bijvoorbeeld teledetectie, slimme weerstations, kunstmatige intelligentie en high-performance computing). En nieuwe instrumenten zoals Destination Earth en Digital Twins zijn veelbelovend om het begrip van huidige en toekomstige klimaateffecten op planetaire en lokale schaal te vergroten. 
 - **INSPIRE richtlijn, Richtlijn Open data en Richtlijn inzake het hergebruik van overheidsinformatie**: De Commissie wil de toegang voor belanghebbenden tot gegevens over klimaatgerelateerde risico’s en verliezen vergemakkelijken. De INSPIRE-richtlijn, de Richlijn inzake Open data en de richtlijn inzake het hergebruik van overheidsinformatie worden in dit kader genoemd. De INSPIRE richtlijn, welke in 2021 is geëvalueerd, zal als onderdeel van het GreenData4All initiatief worden uitgebreid zodat gegevens over milieu- en klimaatgerelateerde verliezen na rampen worden opgenomen en de reikwijdte van de publieke toegang wordt uitgebreid. Gegevens over klimaatgerelateerde verliezen na rampen worden ook beschouwd als hoogwaardige datasets bij toekomstige herzieningen van de uitvoeringshandeling van de richtlijn inzake open data en de richtlijn inzake het hergebruik van overheidsinformatie. Evenzo zullen de gegevens die in publiek-private partnerschappen worden verzameld zo toegankelijk mogelijk worden gemaakt.
