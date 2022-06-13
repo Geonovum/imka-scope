@@ -2,7 +2,7 @@
 
 *Overzicht van relevante standaarden. Nationale datastandaarden, normen, INSPIRE, internationale OGC/W3C/ISO standaarden, etc.* 
 
-*Noem ook relevante documentatie zoals toelichtingen, richtlijnen en handreikingen die al dan niet aan de genoemde standaarden gerelateerd zijn.*
+*Methodes die adviesbureau’s gebruiken voor het maken van hittekaarten of andere ondersteunende kaarten voor klimaatadaptatie zijn niet geïnventariseerd. Dit wordt gezien als decentrale methoden en zijn daarmee buiten scope. Richtlijnen die algemeen geaccepteerd zijn, zijn beperkt bekend.*
 
 <aside class="issue">Onderstaande verzameling is een heel brede, eerste inventarisatie. Er kunnen nog standaarden in ontbreken, en voor veel van de standaarden die er wel in staan is nog niet bepaald of ze daadwerkelijk relevant zijn voor klimaatadaptatie-hitte.</aside>
 
@@ -45,7 +45,7 @@ Dit informatiemodel heeft als doel om een aantal processen in de natuurketen te 
 - Productmodel **Natuurkwaliteit**: model voor het uitwisselen van kwaliteitsgegevens over natuur. De kwaliteit van natuur wordt gemonitord en beoordeeld en deze data wordt conform dit model uitgewisseld. 
 - Productmodel **Vegetatie en habitats**: model om gegevens over vegetatie-, habitat- en structuurgegevens vast te leggen en uit te wisselen. Deze gegevens, gebaseerd op periodieke waarnemingen in het veld, zijn input voor de monitoring. 
 
-Bron: [bij12](https://www.bij12.nl/onderwerpen/natuur-en-landschap/natuurgegevens-uniform-uitwisselen-imna/informatiemodel-natuur-imna/). Voor catalogus en codelijsten van het informatiemodel zie de Actuele downloads onderaan de pagina van Bij12. 
+Bron: [Bij12](https://www.bij12.nl/onderwerpen/natuur-en-landschap/natuurgegevens-uniform-uitwisselen-imna/informatiemodel-natuur-imna/). Voor catalogus en codelijsten van het informatiemodel zie de Actuele downloads onderaan de pagina van Bij12. 
 
 #### Aquo
 Aquo is de Nederlandse standaard voor het uitwisselen van gegevens binnen de watersector voor kwaliteitsverbetering van het waterbeheer. Aquo wordt beheerd door het Informatiehuis Water; een samenwerkingsprogramma van de provincies, waterschappen en Rijkswaterstaat. De set Aquo standaarden bestaat uit een begrippenkader, een symbolenset voor visualisatie, een verzameling domeintabellen, en het semantisch informatiemodel Aquo. 
@@ -122,3 +122,4 @@ Standaarden over informatiemodellering e.d.
 
 - [Geometrie in model en GML](https://docs.geostandaarden.nl/nen3610/gimeg/)
 - [Handreiking Gebruik coördinaatreferentiesystemen bij uitwisseling en visualisatie van geo-informatie](https://docs.geostandaarden.nl/crs/crs/)
+- [Praktijkonderzoek Hitte Richtlijnen](https://www.hva.nl/urban-technology/gedeelde-content/publicaties/publicaties-algemeen/praktijkonderzoek-hitte-richtlijnen.html)
