@@ -20,4 +20,4 @@ In dit scopedocument is de weerslag van de uitgevoerde verkenning. Op voorhand k
 
 Er is behoefte aan eenduidige definities van begrippen, bij voorkeur voorzien van een methode hoe die begrippen worden bepaald of berekend. Eenduidige kaarten of daaraan ten grondslag liggende datasets of ontsluiting van nog andere data, daar is ook behoefte aan. Tenslotte speelt naast informatie over de ‘buitenruimte’ informatie over de ‘binnenruimte’ een belangrijke rol, omdat mensen nu eenmaal meer binnen dan buiten zijn. De rol en plek van een informatiemodel in het hitte-domein, daarin zijn keuzes te maken. Daarom geven we in dit document, naast onze bevindingen, een aantal opties voor een vervolgfase. Deze opties hebben te maken met keuze in inhoudelijke scope (‘buiten’, ‘binnen’, hitte-breed) en keuze in aanpak (de breedte of de diepte in of een combinatie).
 
-![samenvatting](media/samenvatting.png "Samenvatting proces hitte")
+![samenvatting](media/samenvatting.jpg "Samenvatting proces hitte in relatie tot woordenboek en informatiemodel")
