@@ -1,6 +1,6 @@
 ## Stakeholders
 
-### Breed speelveld betrokken bij hitte
+### Breed speelveld
 Een breed speelveld aan stakeholders is betrokken bij hitte. Naast de rijksoverheid zijn de regionale en lokale overheden betrokken. Met name de lokale overheden, zoals de gemeenten, voeren de stresstesten m.b.t. hitte uit, maar ook Rijkswaterstaat voert deze stresstesten uit voor de rijksinfrastructuur. Vanuit de markt zijn er diverse partijen die een (verdiepende) stresstest aanbieden. 
 
 Vanuit de rijksoverheid spelen verschillende ministeries een rol in het hittedossier. Het ministerie van IenW heeft een coördinerende en stimulerende rol m.b.t. de Nationale klimaatadaptiestrategie (NAS) en het Deltaprogramma. Het ministerie van VWS is verantwoordelijk voor de gezondheid in relatie tot hitte, LNV heeft deze rol voor de natuur in Nederland en BZK staat aan de lat voor klimaatadaptief bouwen. Daarnaast is bijvoorbeeld het ministie van V&J mede-verantwoordelijk voor de vitale infrastructuur, zoals elektriciteit en drinkwater. Als vitale infrastructuur uitvalt door hitte, kan dat grootschalige maatschappelijke ontwrichting veroorzaken. 
