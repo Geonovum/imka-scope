@@ -2,7 +2,7 @@
 
 *overzicht van brede speelveld aan stakeholders inclusief hun informatiebehoefte op gebied van hitte* 
 
-### Breedspeelveld
+### Breed speelveld
 Een breed speelveld aan stakeholders is betrokken bij hitte. Naast de rijksoverheid zijn de regionale en lokale overheden betrokken. Met name de lokale overheden, zoals de gemeenten, voeren de stresstesten m.b.t. hitte uit, maar ook Rijkswaterstaat voert deze stresstesten uit voor de rijksinfrastructuur. Vanuit de markt zijn er diverse partijen die een (verdiepende) stresstest aanbieden. Rondom hitte zijn ook nog veel vragen. Kennisinstituten, markt- en onderwijspartijen spelen een belangrijke rol in het vele onderzoek wat nog plaats vindt.
 
 Vanuit de rijksoverheid spelen verschillende ministeries een rol in het hittedossier. Het ministerie van IenW heeft een coördinerende en stimulerende rol m.b.t. de Nationale klimaatadaptiestrategie (NAS) en het Deltaprogramma. Het ministerie van VWS is verantwoordelijk voor de gezondheid in relatie tot hitte, LNV heeft deze rol voor de natuur in Nederland en BZK staat aan de lat voor klimaatadaptief bouwen. Daarnaast is bijvoorbeeld het ministie van V&J mede-verantwoordelijk voor de vitale infrastructuur, zoals elektriciteit en drinkwater. Als vitale infrastructuur uitvalt door hitte, kan dat grootschalige maatschappelijke ontwrichting veroorzaken. 
@@ -40,59 +40,124 @@ Betrokken stakeholders zijn o.a. VWS, provincies, gemeenten, GGD's, RIVM, HvA, K
 #### VWS
 
 **Rol en belang** 
-
+Rol van VWS is rondom gezondheid en gedrag. Hoe omgaan met adaptieve maatregelen en gedragscodes.
 
 **Informatiebehoefte**
-
+Via 3G's: 
+- Gebied: LNV, IenW, BZK: geen hitte-eilanden, schaduw belangrijk
+- Gebouw: IenW, BZK, LNV: 
+     - Voor gebouwen is het belangrijkste dat ze 's nachts afkoelen. 
+     - Vergroening van de stad. Heeft beperkte waarde. Voor koelte, biodiversiteit, gezondheid, sporten, bewegen, recreëren.
+- Gebruiker, gezondheid, gedrag: Hiervoor is Nationaal hitteplan uit 2007 (ouderen, voldoende drinken). Effectiviteit nooit geëvalueerd. Ook lokale hitteplannen. Effectiviteit zou je in samenhang willen onderzoeken. Netwerk rondom hitteplannen: VWS, koepels zorgorganisaties, Rode Kruis, GGD's. Waar wonen de kwetsbare mensen (o.a. hart- en vaatziekten, asma).
 
 **Knel- en verbeterpunten**
-
+- Isolatie van de woning in verband met energie. Wat betekent dit voor hitte. VWS wil dit weten. BZK wil dit voor gebouwen weten. Hiervoor nieuwe norm: TOjuli. Waar nieuwbouw huizen aan moeten voldoen, staat in Bouwbesluit.
+- Zie ook Factsheet RIVM groen en gezondheid.
 
 **Oplossingen**
-
+Woordenboek is mogelijk behulpzaam bij de samenhang tussen de 3 G's: gebied, gebouw, gebruiker
 
 #### Gemeente Rotterdam
 
 **Rol en belang** 
-
+Adviseur hitte en droogte. Gemeente Rotterdam doet veel met hitte. Gemeente heeft kaarten over gevoelstemperatuur, hitte-eilanden. 
 
 **Informatiebehoefte**
-
+Eerst gewerkt met de landelijke data uit Klimaateffectatlas. Maar gemeente werkt nu met Tygron, software die kan modelleren. Met Tygron kan de gemeente de gevoelstemperatuur en luchtvochtigheid modelleren op basis van recept van de [bijsluiter gestandaardiseerde stresstest hitte](#bijsluiter-gestandaardiseerde-stresstest-hitte). Gevoelstemperatuur is wel een lastig begrip, want het is lokaal zeer verschillend. Daarnaast speelt de vraag 'hoe goed is het model?'. Worden bepaalde factoren in het model wel/niet meegenomen.
 
 **Knel- en verbeterpunten**
-
+- De binnentemperatuur is eigenlijk veel belangrijker, want mensen slapen binnen. Gevoelstemperatuur binnen is voor een gemeente lastiger te sturen want het betreft vastgoed. NKWK-onderzoek vindt momenteel plaats naar de binnenruimte.
+- Er zijn momenteel twee kaarten voor de gevoelstemperatuur, de kaart die is uitgewerkt door Witteveen +Bosch (W+B) volgens het landelijke recept en een methode ontwikkeld door Nelen & Schuurmans (N&S) met andere aannames. Daardoor is het lastig te vergelijken. Het zou handig zijn als dezelfde uitgangspuntenn worden gehanteerd.
+- Dit geldt zowiezo voor onderzoek/uitbestedingen aan bureaus. Er worden veel aannames gedaan. Praten langs elkaar.
+- Er is geen standaard voor afstand tot groen. In de Klimaateffectatlas is wel de kaart afstand tot koelte opgenomen. Maar elke gemeente geeft eigen invulling aan groen in relatie tot koelte; niet alle groene plekken zijn koel. De gemeente Rotterdam gebruikt dan ook eigen methode. Zo'n landelijk beeld heeft dan geen meerwaarde. De behoefte is aan meer detailniveau. Er zouden meer handvaten moeten komen, zoals publicatie van HvA.
+- Landelijk Nationaal hitteplan is effectief, maar als gemeente moet je het gedetailleerder maken.
+- Voor in huis: BENG normen. 
+- 
 
 **Oplossingen**
+Informatiemodel is een lastig begrip. Met name gesproken over woordenboek. In eerste instantie is het antwoord dat de mensen die zich echt met hitte bezig houden echt goed weten waar ze het over hebben. Daar is onderling geen spraakverwarring. Maar onder niet-experts is er wel begripsverwarring. Vooral begrippen als hittestress, gevoelstemperatuur, hitte eiland. Deze begrippen worden door mensen die geen expert zijn op het gebied van hitte, maar generalist zijn, wel door elkaar heen gebruikt. Er zijn heel veel mensen die wel meepraten over hitte maar geen specialist zijn. Er wordt wel afgevraagd of een woordenboek gaat helpen, want de gemeente verwacht niet dat elke generalist de moeite zal nemen om een woordenboek te raadplegen. De expert daar hoef je het niet voor te doen, want in overleggen waar het echt over hitte gaat, dan weten de mensen waar het over gaat. Maar mogelijk kan het wel helpen bij uitbestedingen (verschillende aannames). In dit kader wordt aangegeven dat hitte een nieuw onderwerp is. Iedereen is op zoek naar informatie. Iedereen heeft weer andere onderzoeken gelezen. Er is geen één duidelijke lijn. 
+
+Richtlijnen mmaken. Provincies doen dat ook, bijvoorbeeld provincie Zuid-Holland. Voor voorbeelden van richtlijnen wordt verwezen naar HvA:
+- % schaduw op looproutes
+- Verblijfsobjecten
+- Afstand tot koele plek
+- Hoeveel m2 koele plek per inwoner
+- % groen dat er moet zijn bij een ontwikkeling in de buitenruimte
+
 
 
 #### GGD
 
 **Rol en belang** 
-
+Adviseren over groene en gezonde leefomgeving. Zijn betrokken bij het opstellen van de stresstesten en de lokale hitteplannen. Betreft niet alleen fysieke aspecten zoals temperatuur maar de kwetsbaren, ouderen (75+).
 
 **Informatiebehoefte**
+Effecten van hitte op gezondheid zijn lastig te meten, omdat ze niet heel eenduidig zijn. Er is vaak sprake van een combinatie van factoren (onderliggend lijden, maar ook de duur van een hittegolf of de type woning). Hittedoden zoals het CBS die registreert is daarom vrij onbetrouwbaar getal. 
+
+Relevante parameters zijn:
+- Hitte buiten
+- Hitte binnen (afhankelijk van gebouwkenmerken en gedrag).
+- Gebouwkenmerken: plat dak, flat/laagbouw, bouwjaar, gevel op het zuiden
+- Is er een relatie tussen energielabel en binnentemperatuur?
+- Demografie
+- Koele plekken kaarten (schaduw, gekoelde gebouwen); kunnen 75+-ers daar komen? Doen ze dat ook als het heet is?
 
 
 **Knel- en verbeterpunten**
-
+- Effectiviteit van maatregelen (zonwering, ventilatie) zijn moeilijk te monitoren omdat het met individueel gedrag te maken heeft.
+- Gezondheidsmonitor van 25 GGD's, RIVM en CBS (vierjaarlijks, 500.000 respondenten): mogelijk uit te breiden met vragen over hitte. Data is echter alleen beschikbaar voor GGD's en niet landelijk wordt ontsloten.
+- GGD's adviseren de Klimaateffectatlas uit te breiden met aspecten m.b.t. de binnenruimte en gedrag. 
+- Om beter in beeld te brengen wat de hitte in de woning is; betreft ook kenmerken van de woning (bouwjaar, wijktypologie, aantal verdiepingen, platte daken, ramen op het zuiden) en verkoelingsmaatregelen (zonwering, ramen open ’s nachts).
+- Rondom groen is een lastige semantiek: groen als recreatie, als schaduw, als verkoeling door verdamping.
+- Mogelijke rol satellietdata in groenherkenning?
+- Hittekaarten / hitte-eilandeffect: bedrijfsterreinen zijn ook hitte-eilanden, maar wonen er geen mensen (er werken wel mensen). Hoogste risicogebied in Amsterdam is bijvoorbeeld niet het centrum, maar de ring met arme wijken met oude huizen en weinig groen. Dus in de hittekaarten niet alleen temperatuur meenemen, maar ook andere parameters zoals sociaal-economische factoren (is het mogelijk om wel of geen airco of zonwering te kopen).
+- NAS-bollenschema's zijn zeer volledig.
 
 **Oplossingen**
+Bij hitte niet alleen de temperatuur buiten en binnen meenemen maar ook andere aspecten, zie informatiebehoefte. Voordelen van standaardisatie is dat het nog  inzichtelijker wordt, want het is vergelijkbaar.
+
+Klimaatadaptatie is een complex probleem dat veel samenwerking vraagt. Klimaatgeletterdheid moet eerst omhoog, zodat adaptief handelen in de kern van het handelen komt.
 
 
-
-#### Hogeschool van Amsterdam
+#### Hogeschool van Amsterdam 
 
 **Rol en belang** 
-
+Interdisciplinaire onderzoeksgroep hitte in de stad. Lector is ook partime werkzaam bij Tauw.
 
 **Informatiebehoefte**
+Kernvragen van hitte zijn:
+- Hoe heet wordt het? Luchttemperatuur, gevoelstemperatuur, nachttemperatuur.
+- Hoe snel gaat de opwarming?
+- Hoe kan je de buitenruimte zo inrichten dat je klimaatbestendig wordt?
 
+Onderzoeksvragen verschuiven meer van buitenruimte naar binnenruimte:
+- Gebied: groen/grijs 
+- Gebouw: isolatie en zonwering
+- Gebruiker: hitteplannen en gedrag
+
+Praktische handreiking hitte in de woning (welke woningen extra risico, welke typen huizen, welke adaptatiemaatregelen (zoals zonwerking, airco), NKWK-onderzoek hitte in de woning (beleving en metingen) in samenwerking met Klimaatverbond, TAUW en GGD. Onderzoeksresultaten komen terug in de Klimaateffectatlas. Belangrijk programma is [Nationaal Kennisprogramma Water en klimaat (NKWK)](https://www.waterenklimaat.nl/). Ook voor monitoring van klimaatadaptatie en ook voor (belevings)onderzoeken hitte in de woning.
+
+Belangrijkste parameters uit de Klimaateffectatlas zijn:
+- Gevoelstemperatuur
+- Nachttemperatuur (wordt geupdated, mogelijk met Citizen science)
+- Percentage groen, schaduw en koelte (afstand tot koelte)
+
+Ook gekoppeld aan de door HvA opgestelde richtlijnen voor een hittebestendige stad. Drie [ontwerprichtlijnen](https://www.hva.nl/urban-technology/gedeelde-content/publicaties/publicaties-algemeen/praktijkonderzoek-hitte-richtlijnen.html) voor een hittebestendige inrichting van de buitenruimte zijn opgesteld. Deze voorgestelde richtlijnen zijn in het onderzoek concreet met grenswaarden ingevuld (bijvoorbeeld 300 meter tot een koele plek, of 40 % schaduw op loopgebieden).
 
 **Knel- en verbeterpunten**
-
+- Hitte-eilandkaart is lastig. Hierop ook bedrijventerrein, maar er wonen geen mensen. Mogelijk wel weer te gebruiken voor waterberging. Is geen goede monitorparameter.
+- Voor monitoring is het zinvol om de volgende parameters te monitoren:
+   - Schaduw
+   - Groen
+   - Afstand tot koelte
+   - Gevoelstemperatuur (is eigenlijk ook een schaduwkaart)
+- Kwetsbare ouderen is ook een lastige parameter. Hoe bepaal je de kwetsbare oudere?
+- Richtlijnen voor herinrichting gebieden (buitenruimte) is eenvoudig houden. Groen is maatregel voor klimaatadaptatie en vergroot ook leefbaarheid. Schaduw toevoegen is de enige echte oplossing en daarna verdamping.
+- De mindmap Hitte in de stad en het NAS-bollenschema zijn aanvullend. Het NAS-bollenschema is veel uitgebreider, maar minder praktisch (meer een ‘denk hieraan’ plaat).
+- Vanuit HvA is infrastructuur geen hittevraag. Zijn praktische problemen die gemitigeerd moeten worden (bijv. bruggen koelen) of bij ontwerp worden opgelost.
 
 **Oplossingen**
-
+Begrippenkader is niet per se nodig. Over de termen in de mindmap hitte in de stad is al goed nagedacht. Het sluit aan op Klimaateffectatlas. Over de Klimaateffectatlas is consensus, adviesbureaus doen het wel beetje anders. Standaardisatie is niet per se nodig.
 
 #### Klimaatverbond
 
@@ -128,10 +193,8 @@ Discussiepunten zijn:
 Bij hittedossier staan we nog aan het begin. Effect van hitte zit niet in het gebied maar vooral in de aanpak van de woning en het gedrag van de mens. Eigenlijk is belevingsonderzoek nodig gekoppeld aan bijvoorbeeld hittelabel van woning, soort bewoners en gedrag, wel of niet geïsoleerd.
 
 
-
 **Oplossingen**
 Begrippenkader: Dit heb je nodig, zodat duidelijker is wat de definitie van bepaalde zaken zijn. 
-
 
 
 ### Stakeholders op gebied van natuur
@@ -140,17 +203,20 @@ Betrokken stakeholders zijn o.a. LNV, provincies en terreinbeheerders.
 #### LNV
 
 **Rol en belang** 
+Betrokken bij de [Actielijnen klimaatadaptatie natuur](#actielijnen-klimaatadaptatie-natuur), welke programma's en projecten spelen er rondom klimaatverandering en natuur. Proberen de verbinding te zoeken, kennisvragen uit te zetten, wat is het kader?
 
+Klimaatverandering heeft impact op de natuur, maar de natuur kan ook worden ingezet als maatregel voor klimaatadaptatie.
 
 **Informatiebehoefte**
-
+Klimaatadaptatie zowel in het landelijke als stedelijke gebied. Vergroening in het landelijk gebied, rond de 17.000 ha. Water- en bodemsysteem en systeemdenken moet leidend worden in beleid. Waterbeschikbaarheid is direct gerelateerd aan hitte in relatie tot de natuur. Waterbodemsysteem is leidend, maar nog niet geoperationaliseerd. 
 
 **Knel- en verbeterpunten**
-
+- De semantische discussie over wat ‘hitte’ is: Spreek je dan over langere korte periodes met een hogere temperatuur –langere/meer hittegolven-, of heb je het over een hogere gemiddelde temperatuur. Dat laatste, die constante temperatuurverhoging is voor de natuur een groter probleem. Een hittegolf hoeft voor de natuur niet meteen problemen op te leveren als er voldoende water is. Een langdurige temperatuursverhoging heeft meer gevolgen. 
+- En wat is klimaatadaptief in relatie tot hitte: moet je dan tot een harde grens komen?
+- Nuance verschillen qua (korte of lange) termijn en schaalniveaus verschilt tussen de verschillende bestuurslagen (rijk, provincie, gemeente). Dit heeft verschil in hoe je naar hitte kijkt én hoe je het aanpakt. 
 
 **Oplossingen**
-
-
+Een woordenboek om dezelfde taal te spreken is wel van belang, tussen de ministeries is er echter een verschillende scope. LNV kijkt anders naar de begrippen dan de NAS of andere partijen. LNV zou er belang bij hebben wanneer de woorden weer los worden getrokken van hun huidige context. Hitte is nu geassocieerd met mensen, maar zou ook met natuur moeten worden geassocieerd.
 
 ### Stakeholders op gebied van infrastructuur
 Betrokken stakeholders zijn o.a. IenW, RWS, ProRail, Waterschappen, provincies.
@@ -244,7 +310,7 @@ Andere modellen:
 - In Tygron zit hittestressmodule. HvA is hierbij betrokken.
 - VITO (België) heeft hittemodel ontwikkeld waar de antropogene bronnen (airco’s, auto’s door de stad) in zijn meegenomen
 
-#### Unie van Waterschappen / DPRA in relatie tot stresstesten
+#### Unie van Waterschappen / DPRA (in relatie tot bijsluiter stresstest hitte)
 
 **Rol en belang** 
 Stresstest hitte en bijsluiter gestandaardiseerde stresstest hitte. Met de stresstest worden de kwetsbaarheden in kaart gebracht. Vooral gemeenten voeren stresstesten uit. Voor hitte was, toen de stresstest werd opgesteld, nog weinig kennis. Met een consortium (HvA, RIVM, TNO, WUR, aantal adviesbureaus) is de bijsluiter opgesteld. 
@@ -277,20 +343,50 @@ Monitoring:
 **Oplossingen**
 Begrippenkader: CAS heeft hierin al veel gedaan via de Klimaateffectatlas, maar mogelijk zijn er nog hiaten.
 
+#### Rijkswaterstaat / IenW
 
-
-#### Overleg Standaarden Klimaatadaptatie (OSKA)
-
-**Rol en belang** 
-
+**Rol en belang**
+Breed georienteerd, met name op gebied monitoring klimaatadaptatie en evaluatie NAS. Eerste stap in monitoring is de herijking klimaatrisico's en impacts van PBL. Beleidsevaluaties doen met horizon 2050/2100.
 
 **Informatiebehoefte**
-
+Voor klimaatverandering de hele beleidscyclus monitoren. Dus niet alleen de gevolgen, de risico's en de impacts maar ook de beleidseffecten meten. Op basis hiervan weer nieuwe prioriteiten stellen. 
 
 **Knel- en verbeterpunten**
+Sluit aan bij de ISO (2021), Adaptation to climate change - Guidelines on vulnerability, impacts and risk assessment. First edition 2021-02. Reference number ISO 14091:2021(E). Het PBL gebruikt deze ISO standaard bij de herijking.
+
+**Oplossingen**
+Informatiemodel is nodig voor zowel de monitoring als de Klimaateffectatlas. Beide onderwerpen zijn ook verbonden met elkaar. Naast ruimtelijke aspecten ook niet-ruimtelijke aspecten meenemen, bijvoorbeeld het gezondheidsdomein. Ook in de monitoring.
+
+#### Overleg Standaarden Klimaatadaptatie (OSKA)/NEN
+
+**Rol en belang** 
+Werkt bij NEN en is vanuit die rol bij OSKA aanhaakt. Doet verkenningen voor actieteams.
+
+OSKA staat Overleg Standaarden KlimaatAdaptatie. OSKA wordt aangestuurd door OSKA Plenair, NEN vormt daarvoor het secretariaat. Aan het OSKA Plenair nemen veel verschillende stakeholders deel. OSKA Plenair bepaalt welke thema’s opgepakt gaan worden in verkenningen. In OSKA Plenair wordt alleen opgehaald wat er in de markt leeft. Als er behoefte is, dan kan er een verkenning worden gestart. IenW is betrokken bij OSKA.
+
+In verkenningen worden de belangstellenden samen gebracht; peilen van de behoeften. Dit wordt vastgelegd in rapportages en er worden aanbevelingen gedaan. De uitvoer wordt niet opgepakt in verkenningen. Als dat aan de orde is, dan gaat het naar standaardisatieteams (dat kan bijvoorbeeld bij NEN zijn) of naar actieteams als het in de praktijk toepast moet worden. 
+
+**Informatiebehoefte**
+OSKA werkt nu aan de verkenning 'Hitte in de buitenruimte'. Uit deze verkenning komt naar voren dat er behoeften voor richtlijnen zijn. In het team hebben ze de 3 richtlijnen uit het onderzoek van HvA genomen voor hoe je een koele plek voor de mens kunt creëren. De gemeentes die deelnemen in de verkenning worstelen met welke richtlijn ze moeten opnemen in beleid. 
+
+Bij de Verkenning ligt nu behoefte in de ontwerpfase; welke keuze maak ik in de maatregelen, welke maatregelen kies ik op welk moment, welke data is nodig. Ga je werken in een bestaand bebouwd gebied of is het een nieuwe omgeving. Dat is een ander uitgangspunt. Vervolgens/uiteindelijk wil je weten wat de effectiviteit is van de maatregel. De Hoe-vraag komt er dan bij kijken: hoe stel je dat vast? Iedereen is het er wel over eens, maak dat nu niet te ingewikkeld, maar maak het simpel in de basis.
+
+**Knel- en verbeterpunten**
+- Verkenning Hitte is opgepakt omdat er een behoefte is aan eenduidige kaarten voor hitte. 
+- De Klimaateffectatlas is er, maar als je inzoomt naar lokaal niveau dan zijn er verschillen. Bij uitbestedingen is het mogelijk dat je twee verschillende antwoorden krijgt. Dit is voor de gemeenten lastig. 
 
 
 **Oplossingen**
+Een woordenboek wordt interessant gevonden.
+
+Richtlijnen, procesbeschrijvingen zouden helpen voor degenen die de kaarten maken. Bijvoorbeeld over tijdstippen en welke data neem je mee. Definities en meetmethodes zijn hierbij erg belangrijk.
+
+Nu 3 basisrichtlijnen:
+  -  afstand tot koele plek voorstel 300 meter, 
+  -  Percentage schaduw. Dit is gericht op looproutes. Dit wordt verschillend geïnterpreteerd.
+  -  Percentage groen in de buurt, afhankelijk van wijktype.
+
+Er is vooral behoefte aan kaarten. Wel komen bij kaarten ook weer issues op, zoals de definitie van wijken en buurten. CBS hanteert een andere indeling dan die gemeenten zelf gebruiken. 
 
 
 #### Climate Adaptation Services (CAS)
@@ -341,14 +437,28 @@ Informatiemodel: daar moeten we uiteindelijk naar toe, maar een IM is logischer 
 #### Cobra
 
 **Rol en belang** 
-
+Leefbaarheid in kaart brengen m.b.v. remote sensing, luchtfoto's. Zowel de huidige als de toekomstige situatie. Het gaat over het effect van klimaat op groen en vice versa, de rol van groen op klimaat. 
 
 **Informatiebehoefte**
-
+Behoefte aan:
+- Kaarten
+- Begrippenkader
+- Richtlijnen in kader van opdrachtverlening
 
 **Knel- en verbeterpunten**
+Geen goede thesaurus voor hitte is er momenteel. Dit is wel nodig. Wat is een koele plek en hoe vertaal je dit in een kaart. Standaardisatie is nodig. Nu ontstaan er semantische discussies door andere definities en andere afbakening. Bijvoorbeeld is schaduw: is het schaduw door een gebouw of door groen. Cobra ontwikkelt eigen jargon: grijze schaduw en groene schaduw. En alleen op groene schaduw wordt beleidsmatig gestuurd. 
 
+Miscommunicatie ontstaat door het gebrek aan richtlijnen. Het is moeilijk om opdrachten eenduidig in te markt te kunnen zetten. De realiteit op dit moment is dat als je nu verschillende bureaus vraagt om werk te doen dan komen ze met een verschillend antwoord terug. Dat komt omdat er geen vaste richtlijnen zijn en iedereen verschillende aannames doet. Dit is niet fijn voor de opdrachtgever (veelal overheid), maar dit is ook niet prettig voor de opdrachtnemer (de bureaus) want zij willen wel de gewenste gegevens opleveren. Als je de eenduidige opdrachtverlening niet verbeterd, dan blijft er een situatie in stand van verschillende uitkomsten. Dit gaat pijn doen als je wil gaan monitoren.
+
+Bij groen speelt daarnaast bodemvocht een belangrijke rol. Deze informatie is niet beschikbaar. Mogelijk wordt het straks geleverd door de Basisregistratie Ondergrond (BRO).
+
+Verwijst voor thesaurus ook naar [Vlaanderen](https://www.ecopedia.be/encyclopedie/inbo), die al veel rondom groen hebben gedefinieerd. 
+
+Temperatuur: Data van KNMI combineren met sensoren uit Citizen science. Fijnmazige informatie is nodig. Geldt niet alleen voor temperatuur, ook voor andere aspecten. Bijvoorbeeld de bodemkaart. Deze is nog steeds niet beschikbaar voor het stedelijke gebied.
+
+Mogelijk kunnen de basisregistraties een rol spelen en ook andere landelijke datasets: BGT, BAG, BRO, luchtfoto's, AHN, etc. Cobra heeft een eigen bomenmonitor.
 
 **Oplossingen**
-
+Een begrippenkader met begrippen en enkel definities is niet voldoende. Dit zal zeker wel helpen, maar de echte behoefte zit aan de ontwikkeling van richtlijnen. 
+Als je wil komen tot (goede) richtlijnen dan loop je tegen allerlei semantische issues aan. Want wat betekenen de termen die je gebruikt? Definities, afbakening, maar ook welke meetmethodes zijn er en welke parameters worden daarbij gehanteerd, zijn die wel echt vergelijkbaar? Zijn dezelfde aannames gedaan? 
 
