@@ -1,21 +1,66 @@
 ## Stakeholders
 
-*Overzicht van stakeholders en relevante gremia. Stakeholders kunnen zijn: bronhouders, producenten van data, gebruikers, organisaties die een adviserende/uitvoerende rol hebben inzake klimaatadaptatie, overlegorganen, werkgroepen,etc. Gebruikers kunnen bv zijn: bestuursorganen die verplicht iets moeten met de data, private organisaties met een vergunningslicht, andere organisaties met een adviserende/uitvoerende rol, organisaties die vanuit eigen behoefte de gegevens willen gebruiken (marktpartijen, kennisinstellingen, brancheorganisaties, NGO's, burgers/burgerorganisaties)*
-
 Een breed speelveld aan stakeholders is betrokken bij hitte. Naast de rijksoverheid zijn de regionale en lokale overheden betrokken. Met name de lokale overheden, zoals de gemeenten, voeren de stresstesten m.b.t. hitte uit, maar ook Rijkswaterstaat voert deze stresstesten uit voor de rijksinfrastructuur. Vanuit de markt zijn er diverse partijen die een (verdiepende) stresstest aanbieden. 
 
-Vanuit de rijkshoverheid spelen verschillende ministeries een rol in het hittedossier. Het ministerie van IenW heeft een coördinerende en stimulerende rol m.b.t. de Nationale klimaatadaptiestrategie (NAS) en het Deltaprogramma. Het ministerie van VWS is verantwoordelijk voor de gezondheid in relatie tot hitte, LNV heeft deze rol voor de natuur in Nederland en BZK staat aan de lat voor klimaatadaptief bouwen. Daarnaast is bijvoorbeeld het ministie van V&J mede-verantwoordelijk voor de vitale infrastructuur, zoals elektriciteit en drinkwater. Als vitale infrastructuur uitvalt door hitte, kan dat grootschalige maatschappelijke ontwrichting veroorzaken. 
+Vanuit de rijksoverheid spelen verschillende ministeries een rol in het hittedossier. Het ministerie van IenW heeft een coördinerende en stimulerende rol m.b.t. de Nationale klimaatadaptiestrategie (NAS) en het Deltaprogramma. Het ministerie van VWS is verantwoordelijk voor de gezondheid in relatie tot hitte, LNV heeft deze rol voor de natuur in Nederland en BZK staat aan de lat voor klimaatadaptief bouwen. Daarnaast is bijvoorbeeld het ministie van V&J mede-verantwoordelijk voor de vitale infrastructuur, zoals elektriciteit en drinkwater. Als vitale infrastructuur uitvalt door hitte, kan dat grootschalige maatschappelijke ontwrichting veroorzaken. 
 
-*Rol PBL toevoegen*
+In het hittedossier is nog veel onduidelijk. Kennisinstituten, markt- en onderwijspartijen spelen een belangrijke rol in het vele onderzoek wat nog plaats vindt. Op het gebied van standaardisatie binnen klimaatadaptatie is er het samenwerkingsverband Overleg Standaarden Klimaatadaptatie (OSKA). In OSKA werken overheden, marktpartijen, kennisinstituten en standaardisatie-organisaties met elkaar samen. OSKA wil bevorderen dat klimaatadaptatie snel een plek krijgt in nieuwe en bestaande standaarden.
 
-Tevens wordt aangegeven dat nog veel onduidelijk is in het hittedossier. Kennisinstituten, markt- en onderwijspartijen spelen een belangrijke rol in het vele onderzoek wat nog plaats vindt. Op het gebied van standaardisatie binnen klimaatadaptaie is er het samenwerkingsverband Overleg Standaarden Klimaatadaptatie (OSKA). In OSKA werken overheden, marktpartijen, kennisinstituten en standaardisatie-organisaties met elkaar samen. OSKA wil bevorderen dat klimaatadaptatie snel een plek krijgt in nieuwe en bestaande standaarden.
+Om de informatiebehoefte van dit brede speelveld in kaart te brengen zijn 21 stakeholders geïnterviewd, afkomstig van:
+- IenW
+- LNV
+- VWS
+- Rijkswaterstaat
+- Provincie Noord-Brabant
+- Gemeente Rotterdam
+- GGD
+- PBL
+- RIVM
+- Unie van Waterschappen
+- Informatiehuis Water
+- OSKA
+- Climate Adaptation Services (CAS)
+- Klimaatverbond
+- Cobra
+- Hogeschool van Amsterdam
 
-Om de informatiebehoefte van dit brede speelveld in kaart te brengen zijn een aantal belangrijke stakeholders geïnterviewd. De stakeholders zijn bevraagd naar hun rol en het belang in het hittedossier, hun informatiebehoefte, de knelpunten en de verbeterpunten in de informatievoorziening rondom hitte en tot slot wat een mogelijke oplossing is, zoals een begrippenkader en/of een informatiemodel. 
+De stakeholders zijn bevraagd naar hun rol en het belang in het hittedossier, hun informatiebehoefte, de knelpunten en de verbeterpunten in de informatievoorziening rondom hitte en tot slot wat een mogelijke oplossing is, zoals een begrippenkader en/of een informatiemodel.
 
-Hieronder staan de bevindingen per stakeholder aangegeven. Het PBL is ook geinterviewd. De bevindingen uit dat interview zijn verwerkt in de paragraaf over [monitoring](#monitoring).
+Hieronder staan de bevindingen per stakeholder aangegeven. De bevindingen uit het interview met PBL zijn verwerkt in de paragraaf over [monitoring](#monitoring).
+
+![stakeholders](media/stakeholders.jpg "Stakeholders hitte")
 
 ### Stakeholders op gebied van gezondheid
-Betrokken stakeholders zijn o.a.: VWS, provincies, gemeenten, GGD's, PBL, RIVM, HvA, Klimaatverbond, ZonMW en diverse marktpartijen
+Betrokken stakeholders zijn o.a. VWS, provincies, gemeenten, GGD's, RIVM, HvA, Klimaatverbond, ZonMW en diverse marktpartijen.
+
+
+#### VWS
+
+**Rol en belang** 
+
+
+**Informatiebehoefte**
+
+
+**Knel- en verbeterpunten**
+
+
+**Oplossingen**
+
+
+#### Gemeente Rotterdam
+
+**Rol en belang** 
+
+
+**Informatiebehoefte**
+
+
+**Knel- en verbeterpunten**
+
+
+**Oplossingen**
+
 
 #### GGD
 
@@ -44,6 +89,7 @@ Betrokken stakeholders zijn o.a.: VWS, provincies, gemeenten, GGD's, PBL, RIVM, 
 
 
 **Oplossingen**
+
 
 #### Klimaatverbond
 
@@ -85,20 +131,28 @@ Begrippenkader: Dit heb je nodig, zodat duidelijker is wat de definitie van bepa
 
 
 
-#### Conclusie m.b.t. scoping
-Belangrijkste conclusie: veel aandacht, veel onderzoek vindt nog plaats
-
 ### Stakeholders op gebied van natuur
-Betrokken stakeholders zijn o.a.: LNV, provincies en terreinbeheerders
+Betrokken stakeholders zijn o.a. LNV, provincies en terreinbeheerders.
+
+#### LNV
+
+**Rol en belang** 
 
 
+**Informatiebehoefte**
 
-*nog uitwerken; belangrijkste conclusies: nog in agenderende fase*
+
+**Knel- en verbeterpunten**
+
+
+**Oplossingen**
+
+
 
 ### Stakeholders op gebied van infrastructuur
-Betrokken stakeholders zijn o.a.: IenW, RWS, ProRail, Waterschappen, provincies
+Betrokken stakeholders zijn o.a. IenW, RWS, ProRail, Waterschappen, provincies.
 
-#### IenW
+#### IenW (in relatie tot infrastructuur)
 
 **Rol en belang** 
 Klimaatadaptatie, in relatie tot vitale en kwetsbare infrastructuur. Klimaatbestendigheid worden moet worden meegenomen bij vernieuwing, beheer van infrastructuur en assets. Bepaald moet worden wat het rijk hierin gaat doen en wat de regio. In de DPRA zijn 13 vitale en kwetsbare functies benoemd, zoals elektriciteit, gas, telecom, water, objecten, hoofdinfrastructuur. Ministerie van V&J   verantwoordelijk voor weerbare infrastructuur voor vitale processen. 29 processen zijn geïdentificeerd die vitaal zijn (denk aan datacentra, drinkwater, etc).
@@ -121,13 +175,10 @@ Begrippenkader: IenW geeft aan normen en eenzelfde taal nodig zijn.
 Elke twee weken is er een breed klimaatadaptatie-overleg met meerdere ministeries en aanverwante partijen (oa CAS, Klimaatbestendig NL). Bredere groep experts zit aan aan tafel. Suggestie wordt gegeven om dit project ook in het brede klimaatadaptatie-overleg  te presenteren en feedback te vragen.   
 
 
-#### Conclusie m.b.t. scoping
-Belangrijkste conclusie: infrastructuur zelf mogeijk minder complex? cascade-effecten nog niet in beeld, wel behoefte aan.
-
 ### Stakeholders op gebied van informatievoorziening
-IenW, RIVM, WUR, IHW, OSKA, Stichting CAS, Cobra en andere marktpartijen (Tauw, Deltares, ..)
+Betrokken stakeholders zijn o.a. IenW, RIVM, WUR, IHW, OSKA, Climate Adaptation Services (CAS), Cobra en andere marktpartijen zoals Tauw.
 
-#### IenW
+#### IenW (in relatie tot informatievoorziening)
 
 **Rol en belang** 
 Klimaatadapatie, in relatie tot bodem, water, gebouwde omgeving en werkgroep stresstesten. 
@@ -190,7 +241,7 @@ Andere modellen:
 - In Tygron zit hittestressmodule. HvA is hierbij betrokken.
 - VITO (België) heeft hittemodel ontwikkeld waar de antropogene bronnen (airco’s, auto’s door de stad) in zijn meegenomen
 
-#### Unie van Waterschappen / DPRA
+#### Unie van Waterschappen / DPRA in relatie tot stresstesten
 
 **Rol en belang** 
 Stresstest hitte en bijsluiter gestandaardiseerde stresstest hitte. Met de stresstest worden de kwetsbaarheden in kaart gebracht. Vooral gemeenten voeren stresstesten uit. Voor hitte was, toen de stresstest werd opgesteld, nog weinig kennis. Met een consortium (HvA, RIVM, TNO, WUR, aantal adviesbureaus) is de bijsluiter opgesteld. 
@@ -239,7 +290,7 @@ Begrippenkader: CAS heeft hierin al veel gedaan via de Klimaateffectatlas, maar 
 **Oplossingen**
 
 
-#### Stichting CAS
+#### Climate Adaptation Services (CAS)
 
 **Rol en belang** 
 Klimaatadaptatie, in dit kader bevraagt in releatie tot Klimaateffectatlas
@@ -281,7 +332,7 @@ Verbeterpunten:
 **Oplossingen**
 Begrippenkader is mogelijk waardevollestap om te verkennen.
 
-Informatiemodel: daar moeten we uiteindelijk naar toe, maar een IM is logischer voor ander thema bijv. wateroverlast. IM bijna een soort digital twin.
+Informatiemodel: daar moeten we uiteindelijk naar toe, maar een IM is logischer voor ander thema bijv. wateroverlast. IM is bijna een soort digital twin.
 
 
 #### Cobra
@@ -298,6 +349,3 @@ Informatiemodel: daar moeten we uiteindelijk naar toe, maar een IM is logischer 
 **Oplossingen**
 
 
-#### Conclusie m.b.t. scoping
-
-Belangrijkste conclusies: Belang begrippenkader wordt onderkent, belang informatiemodel niet meteen onderkent op korte termijn. 
