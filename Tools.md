@@ -70,6 +70,7 @@ Het kennisportaal biedt ook een overzicht van [hulpmiddelen](https://klimaatadap
 - Toolbox Klimaatbestendige Stad: verkent adaptatiemaatregelen voor wijk, straat of terrein;
 - Hittestresstool: maatregelen tegen hittestress in de buitenruimte virtueel uitproberen en toetsen
 - Cool Towns Heat Stress Measurement Protocol: meetprotocol om een Thermal Comfort Assessment op straatniveau uit te voeren;
+- EfFact checker: worden antwoorden gegeven op allerhande praktijkvragen over hittemaatregelen in de buitenruimte. 
 
 
 ### Europese informatiebronnen
