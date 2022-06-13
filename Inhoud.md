@@ -1,6 +1,6 @@
 ## Klimaatadaptie, onderdeel hitte
 
-_Beschrijving van het object en afhankelijkheden met andere objecten. Rationale, behoefte, en een eerste definitie van het onderwerp Klimaatadaptatie._
+_Beschrijving van het domein klimaatadaptatie, hitte, en een eerste definitie van het onderwerp Klimaatadaptatie, hitte. Duiding van hitte in het beleidsveld._
 
 
 ### Klimaatadaptie
@@ -8,7 +8,7 @@ Zoals in de inleiding aangegeven, verandert het klimaat. De temperatuur op aarde
 
 Klimaatadaptatie voorkomt klimaatschade. Niets doen betekent dat er tot 2050 tussen de € 77,5 en 173,6 miljard aan klimaatschade kan zijn. Daarom is klimaatadaptatie nodig. Voorbeelden van klimaatadaptatie zijn: meer groen in steden en dorpen, dijken verstevigen en rivieren verbreden. 
 
-De [Nationale klimaatadaptatiestrategie (NAS)](#nationale-klimaatadaptatiestrategie-nas) en en het [Deltaplan Ruimtelijke adaptatie (DPRA)](#deltaplan-ruimtelijke-adaptatie-dpra) beschrijven de belangrijkste klimaatrisico’s: hitte, droogte, wateroverlast en overstromingen. De klimaatrisico's hebben echter invloed op elkaar. Door de hitte kan er bijvoorbeeld droogte ontstaan. Maar deze verkenning richt zich op het klimaatrisico hitte.
+De [Nationale klimaatadaptatiestrategie (NAS)](#nationale-klimaatadaptatiestrategie-nas) en en het [Deltaplan Ruimtelijke adaptatie (DPRA)](#deltaplan-ruimtelijke-adaptatie-dpra) beschrijven de belangrijkste klimaatrisico’s: hitte, droogte, wateroverlast en overstromingen. De klimaatrisico's hebben echter invloed op elkaar. Door de hitte kan er bijvoorbeeld droogte ontstaan. Deze verkenning richt zich echter specifiek op het klimaatrisico hitte.
 
 ### Hitte: het wordt warmer
 Door klimaatverandering stijgt de temperatuur en worden onze zomers warmer. Uit de KNMI klimaatscenario’s (2014) blijkt dat niet alleen de gemiddelde temperatuur stijgt, maar dat ook de hitte-extremen, zoals hittegolven, toenemen. In de afgelopen 130 jaar is het wereldwijd gemiddeld 1,0°C warmer geworden. Voor Nederland is dat zelfs nog meer, namelijk ruim 2 °C . Volgens de KNMI-klimaatscenario’s neemt de gemiddelde temperatuur in Nederland de komende jaren verder toe. In het meest extreme scenario zal de temperatuurstijging vanaf 1901 in Nederland in 2050 oplopen tot zo’n 3,5 °C en in 2085 zelfs tot 4,9 °C. 
@@ -16,12 +16,14 @@ Door klimaatverandering stijgt de temperatuur en worden onze zomers warmer. Uit 
 
 **Hitte-eilandeffect**
 
-Daarnaast wordt het in de stad vaak warmer dan in het omliggende gebied doordat steden meer warmte vasthouden. Dit heet het hitte-eilandeffect. Dit hitte-eilandeffect neemt verder toe doordat steden steeds meer verstenen. Het ‘hitte-eilandeffect’ wordt veroorzaakt door de volgende factoren:
-- Stenige materialen absorberen zonnestraling, waardoor het materiaal opwarmt .
+In de stad wordt het vaak warmer dan in het omliggende gebied doordat steden meer warmte vasthouden. Dit heet het hitte-eilandeffect. Dit hitte-eilandeffect neemt verder toe doordat steden steeds meer verstenen. Het ‘hitte-eilandeffect’ wordt veroorzaakt door de volgende factoren:
+- Stenige materialen absorberen zonnestraling, waardoor het materiaal opwarmt.
 - Er is een gebrek aan verdamping door weinig groen en water. Daardoor wordt een groot deel van de zonnestraling omgezet in voelbare warmte.
 - Verschillende menselijke activiteiten stoten warmte uit, bijvoorbeeld in industrie en huishoudens.
 
 's Nachts is het verschil in temperatuur tussen de stad en het omliggende buitengebied het grootst. Dit komt doordat de stad na zonsondergang langzamer afkoelt dan het buitengebied. Het temperatuurverschil kan oplopen tot meer dan 7 graden. De sterkte van het hitte-eilandeffect in een stad hangt vooral af van de hoeveelheid bebouwing, verharding en groen van het oppervlak. Verder speelt mee wat de verhouding is tussen gebouwhoogte en straatbreedte, en hoeveel warmte gebouwen en andere oppervlakken uitstralen naar de atmosfeer. Wat ook invloed heeft is in hoeverre een gebied open is zodat er wind doorheen kan waaien. De inrichting van een straat of wijk heeft dus invloed op de lokale temperatuur. De ene wijk veroorzaakt een sterker hitte-eilandeffect dan de andere.
+
+Hitte-eiland als maat voor de ernst van hitte wordt echter ter discussie gesteld. Zo zijn bedrijventerreinen ook hitte-eilanden, vanwege de vele steenachtige materialen, maar wonen er geen mensen (er werken wel mensen). Daarnaast blijkt ook dat juist aspecten met betrekking tot woningbouw en sociaal-economische status en demografie van invloed op de vraag of de hitte ook tot hittestress leidt; in arme wijken of wijken met veel ouderen met oudere slecht geïsoleerde woningen lijken problemen groter te zijn dan in sec op basis van fysieke factoren zoals temperatuur en verharding berekend wordt.
 
 
 ### Gevolgen en maatregelen van hitte
@@ -60,14 +62,14 @@ Maatregelen zijn zeer divers zoals voldoende drinken of de verkoeling opzoeken. 
 #### Infrastructuur
 Ook de infrastructuur is kwetsbaar voor hitte. Beweegbare bruggen kunnen niet openen of sluiten. Als oplossingen wordt vooral koelen gezien. Incidenteel worden brugdelen ingekort. Het gevolg voor de scheepvaart is met name het risico op stremmingen en wachttijden, met hogere kosten tot gevolg.
 
-Wegen hebben last van uitzetting van het wegdek en daardoor het spatten van het wegdak. De gevolgen van het spatten van wegdek zijn o.a. schade aan het wegdek (met als gevolg (nood)reparaties) en stremmingen door wegafzetting en ongelukken (met als gevolg schade aan weg, auto’s en kosten voor incidentenmanagement). En ook bermbranden zijn aan de orde. 
+Wegen hebben last van uitzetting van het wegdek en daardoor het spatten van het wegdek. De gevolgen van het spatten van wegdek zijn o.a. schade aan het wegdek (met als gevolg (nood)reparaties) en stremmingen door wegafzetting en ongelukken (met als gevolg schade aan weg, auto’s en kosten voor incidentenmanagement). En ook bermbranden zijn aan de orde. 
 
 Voor de watersystemen geldt dat verzilting op kan treden en het hitte heeft effect op de waterkwaliteit. Door hogere verdamping, maar ook door verminderde afvoer bovenstrooms, nemen de gehalten in het water toe. Ook is er een groter risico op algenbloei. Door deze aspecten kan het oppervlaktewater niet meer geschikt zijn als proces, koel- of drinkwater.
 
 
 #### Natuur
 
-Voor de natuur geldt dat deze wordt ingezet als maatregel, namelijk bij het vergroenen van steden. Maar door de hitte kan ook hittestress optreden in de natuur, bijvoorbeeld schade aan bodem en planten. Daarnaast zorgt de gemiddelde temperatuurstijging ervoor dat klimaatzones verschuiven en dat het landschap en de natuur verandert. De samenstelling van soorten verandert behoorlijk, warmteminnende soorten nemen toe en tegelijk verdwijnen er steeds meer koudeminnende soorten.
+Voor de natuur geldt dat deze wordt ingezet als maatregel, namelijk bij het vergroenen van steden. Maar door de hitte kan ook hittestress optreden in de natuur, bijvoorbeeld schade aan bodem en planten door UV en verdroging, waardoor vegetatie verzwakt en vatbaar wordt voor ziekten en plagen. Daarnaast zorgt de gemiddelde temperatuurstijging ervoor dat klimaatzones verschuiven en dat het landschap en de natuur verandert. De samenstelling van soorten verandert behoorlijk, warmteminnende soorten nemen toe en tegelijk verdwijnen er steeds meer koudeminnende soorten.
 
 De vele klimatologische veranderingen hebben daarnaast invloed op allerlei andere abiotische factoren, zoals de samenstelling of diepte van water en bodem. Veranderingen hierin hebben weer uiteenlopende gevolgen voor dieren en planten. Doordat de totale natuur in Nederland zwaar onder druk staat, is de veerkracht van de natuur sterk afgenomen. Niet alleen de hitte maar vooral de toenemende droge zomers zorgen voor grote veranderingen en kunnen natuurschade veroorzaken. 
 
