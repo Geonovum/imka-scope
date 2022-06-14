@@ -34,7 +34,9 @@ Onder de tabel wordt op de standaarden die mogelijk relevant zijn, nader ingegaa
 | Informatiemodel Geluid [IMGeluid](https://docs.geostandaarden.nl/cvgg/img/) | Voor geluidsoverlastmodellen | Waarschijnlijk niet relevant. |
 | Informatiemodel KICH | Gaat over cultuurhistorie. "Hittestress ontstaat juist doordat steen, beton en asfalt warmte vasthouden. Aan de hand van historische informatie kan ook de verstening en verharding van een stad in beeld worden gebracht. Historische kaarten kunnen eenvoudig gecombineerd worden met de kaartlagen uit de Klimaateffectatlas" [bron](https://klimaatadaptatienederland.nl/publish/pages/156580/cultuurhistorie_als_kennisbron_voor_de.pdf)| Waarschijnlijk niet relevant. IMKICH is niet in gebruik en cultuurhistorische informatie is vooral relevant bij waterhuishouding, bij hitte minder. | 
 
-<aside class="issue">Er moet nog gezocht worden naar standaarden voor andere klimaattrends (wateroverlast, ...). </aside>
+<!-- <aside class="issue">Er moet nog gezocht worden naar standaarden voor andere klimaattrends (wateroverlast, ...). </aside> -->
+
+
 
 Standaarden die waarschijnlijk relevant zijn worden hieronder nader toegelicht. 
 
