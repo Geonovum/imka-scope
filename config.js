@@ -69,7 +69,7 @@ var respecConfig =
   editors: 
  [
     {
-      name:       "Wideke Boersma",
+      name:       "Sytske Postma",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
@@ -83,6 +83,16 @@ var respecConfig =
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
+    { 
+      name:       "Linda van den Brink",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+    },
+    { 
+      name:       "Gerard Trouborst",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+    },
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
   shortName: "scope",  	              // Wordt gebruikt in de document URL
