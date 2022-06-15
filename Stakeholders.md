@@ -245,7 +245,7 @@ Elke twee weken is er een breed klimaatadaptatie-overleg met meerdere ministerie
 
 
 ### Stakeholders op gebied van informatievoorziening
-Betrokken stakeholders zijn o.a. IenW, RIVM, WUR, IHW, OSKA, Climate Adaptation Services (CAS), Cobra en andere marktpartijen zoals Tauw.
+Betrokken stakeholders zijn o.a. IenW, RIVM, WUR, Informatiehuis Water, OSKA, Climate Adaptation Services (CAS), Cobra en andere marktpartijen zoals Tauw.
 
 #### IenW (in relatie tot informatievoorziening)
 
