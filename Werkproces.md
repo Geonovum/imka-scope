@@ -43,7 +43,7 @@ Ondanks de standaardisatie via de bijsluiter is er voldoende ruimte voor het toe
 #### Risicodialogen
 Door de klimaatstresstesten komen de kwetsbaarheden in een gebied in beeld, maar nog zonder waardeoordeel. Of de kwetsbaarheden daadwerkelijk een risico vormen, het  beschermingsniveau en of er maatregelen moeten worden genomen, wordt afgewogen tijdens de risicodialoog.
 
-De risicodialoog is één van de zeven ambities uit het [Deltaplan Ruimtelijke adaptatie](##deltaplan-ruimtelijke-adaptatie-dpra). Het is de stap tussen de stresstest en het maken van een uitvoeringsprogramma voor klimaatadaptatie. 
+De risicodialoog is één van de zeven ambities uit het [Deltaplan Ruimtelijke adaptatie](#deltaplan-ruimtelijke-adaptatie-dpra). Het is de stap tussen de stresstest en het maken van een uitvoeringsprogramma voor klimaatadaptatie. 
 
 Het procesverloop van de risicodialoog ligt niet vast. Er zijn verschillende routes mogelijk. Maar meestal zal in wisselwerking met de stresstest een ‘van grof-naar-fijn-aanpak’ worden gevolgd. Daarbij wordt eerst, als voorbereiding op de dialoog, voor de vier klimaatrisico's een verkennende stresstest uitgevoerd met gebruik van landelijk of regionaal beschikbare basisinformatie. De resultaten hiervan zijn voeding voor de dialoog. Daar kan worden besloten dat meer informatie of meer detail nodig is. Er volgt dan een stap waarin informatie op maat wordt gecreëerd. Ook de resultaten hiervan gaan naar de dialoog. Maar het kan ook voorkomen dat eerst een risicodialoog plaatsvindt, nog voordat er een stresstest is uitgevoerd, bijvoorbeeld na een calamiteit door extreem weer.
 

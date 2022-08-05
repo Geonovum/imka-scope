@@ -72,6 +72,6 @@ Een van de acht geformuleerde doelstellingen is de doelstelling voor klimaat: he
 De [Europese Klimaatwet](https://ec.europa.eu/clima/policies/eu-climate-action/law_nl) schrijft het doel in de Europese Green Deal voor de Europese economie en samenleving om tegen 2050 klimaatneutraal te worden in de wet. De wet stelt ook het tussentijdse doel om de netto-uitstoot van broeikasgassen tegen 2030 met ten minste 55% te verminderen, vergeleken met het niveau van 1990. Deze wet geeft tevens aan hoe belangrijk klimaatadaptatie is.  
 
 #### Europese Adaptatiestrategie 
-In 2013 heeft de Europese Commissie haar eerste Europese Strategie voor klimaatadaptatie opgesteld. Een belangrijk deel van deze strategie is dat alle lidstaten een Nationale Adaptatie Strategie opstellen. In Nederland is dit de [NAS](##nationale-klimaatadaptatiestrategie-nas).
+In 2013 heeft de Europese Commissie haar eerste Europese Strategie voor klimaatadaptatie opgesteld. Een belangrijk deel van deze strategie is dat alle lidstaten een Nationale Adaptatie Strategie opstellen. In Nederland is dit de [NAS](#nationale-klimaatadaptatiestrategie-nas).
 
 Op 24 februari 2021 heeft de Commissie een herziene [Europese Adaptatiestrategie](https://ec.europa.eu/clima/eu-action/adaptation-climate-change/eu-adaptation-strategy_en) aangenomen. Door voort te bouwen op de eerste strategie wil de Commissie lidstaten stimuleren om sneller adaptiemaatregelen te nemen en deze maatregelen op een grote schaal in te voeren.
